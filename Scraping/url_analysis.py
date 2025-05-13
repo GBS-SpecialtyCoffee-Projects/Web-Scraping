@@ -170,7 +170,9 @@ def refine_text(text):
     client = OpenAI(
     # base_url = "https://integrate.api.nvidia.com/v1",
     # api_key = "$API_KEY_REQUIRED_IF_EXECUTING_OUTSIDE_NGC"
-    api_key = "sk-rJ7ruYQdwHEFXmT5gLXiYJxyscRem7Ul1jtPCU4ih0T3BlbkFJz2i6NCheWmCS9614IzUJNNlBv-vJ4MxXxL1rYwqH8A")
+    api_key = "OPEN_AI_KEY",
+    )
+    
 
     completion = client.chat.completions.create(
     model="gpt-4o-mini",
