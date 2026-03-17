@@ -770,8 +770,8 @@ class CoffeeRoasterFinder:
                 if pw_soup:
                     anchor_tags = self.scraper.get_anchor_tags(pw_soup, current)
 
-            # Check if this is a shopping hub (but not the first page)
-            if depth > 0 and self.gpt_analyzer.is_shopping_hub(anchor_tags):
+            # Check if this page is a shopping hub
+            if self.gpt_analyzer.is_shopping_hub(anchor_tags):
                 logger.info(f"Found coffee-selling page at {current}")
                 return current
 
@@ -831,6 +831,16 @@ class CoffeeRoasterFinder:
 
             # Extract anchor tags for shop detection
             anchor_tags = self.scraper.get_anchor_tags(soup, place.website) if soup else []
+
+            # If BS4 found few links, retry with Playwright to catch JS-rendered nav
+            if len(anchor_tags) < 5:
+                logger.info(f"Only {len(anchor_tags)} links from BS4 for shop detection, retrying with Playwright")
+                pw_text, pw_soup = self.scraper._scrape_playwright(place.website)
+                if pw_soup:
+                    anchor_tags = self.scraper.get_anchor_tags(pw_soup, place.website)
+                if pw_text and not website_text:
+                    website_text = pw_text
+
             has_shop = self.gpt_analyzer.has_shop_links(anchor_tags)
 
             # If nav has shop links, skip keyword check — the place clearly sells something
