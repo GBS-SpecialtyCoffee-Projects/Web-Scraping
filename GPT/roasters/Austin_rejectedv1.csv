@@ -1,0 +1,209 @@
+Name,Address,Website,source_city,reason
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,austin,wrong_region
+Praxis Coffee Roasters,"114 Linden St, Austin, TX 78702",http://www.praxiscoffee.com/,austin,no_store_page
+Flat Track Coffee,"1619 E Cesar Chavez St, Austin, TX 78702",http://flattrackcoffee.com/,austin,scrape_failed
+Merfolk’s Specialty Coffee,"4930 S Congress Ave Ste 304c, Austin, TX 78745",http://merfolksatx.com/,austin,no_shop
+Noble Joe Coffee Co.,"Southshore Eatery Food Truck Park, 1620 E Riverside Dr, Austin, TX 78741",https://www.noblejoe.co/,austin,scrape_failed
+Armadillo Coffee Roasters,"2711 Daisy Dr, Austin, TX 78727",https://www.armadilloroasters.com/,austin,scrape_failed
+Neighbor Coffee & Friends - Burnet,"5000 Burnet Rd, Austin, TX 78756",http://www.neighborcoffee.co/,austin,scrape_failed
+Odd Roots Coffee,"9600 Old Lockhart Rd, Austin, TX 78747",https://oddrootscoffee.com/,austin,no_coffee_keywords
+Hold Steady Coffee Roastery,"13712 Trail Driver St, Austin, TX 78737",https://www.holdsteadycoffee.com/,austin,no_store_page
+Greater Goods Roasting Co.,"160 McGregor Ln, Dripping Springs, TX 78620",https://greatergoodsroasting.com/,austin,scrape_failed
+Third Coast Coffee,"10515 Old Manchaca Rd, Austin, TX 78748",http://www.thirdcoastcoffee.com/,austin,scrape_failed
+Rising Tide Roast Co,"1606 W Stassney Ln #2, Austin, TX 78745",http://www.risingtideroastcollab.com/,austin,no_store_page
+Anderson's Coffee Co,"1601 W 38th St, Austin, TX 78731",https://andersonscoffee.com/,austin,scrape_failed
+Barrett's Coffee,"713 W St Johns Ave, Austin, TX 78752",https://www.barrettscoffee.com/,austin,no_store_page
+Desnudo Coffee: East Austin,"2505 Webberville Rd, Austin, TX 78702",http://www.desnudocoffee.com/,austin,scrape_failed
+Spokesman Coffee,"440 E St Elmo Rd A2, Austin, TX 78745",http://www.spokesmancoffee.com/,austin,no_store_page
+Sightseer Coffee Bar,"1905 S 1st St, Austin, TX 78704",https://www.sightseercoffee.co/,austin,scrape_failed
+Creature Coffee Catering,"2500 S Hwy 183 Bldg 2, Unit 240, Austin, TX 78744",https://creaturecoffee.co/,austin,scrape_failed
+Malone Specialty Coffee,"14735 Bratton Ln #210, Austin, TX 78728",http://www.malonecoffee.com/,austin,no_store_page
+Fleet Coffee,"2427 Webberville Rd, Austin, TX 78702",http://www.fleetcoffee.com/,austin,no_store_page
+Tiny House Coffee Roasters,"120 Precision Dr, Buda, TX 78610",http://www.tinyhousecoffeeroasters.com/,austin,scrape_failed
+Afuga Coffee,"31 Navasota St Ste 100, Austin, TX 78702",https://afugacoffee.com/,austin,no_store_page
+Trippy Buck Coffee Truck,"411 W 23rd St, Austin, TX 78705",https://linktr.ee/TrippyBuckCoffee?fbclid=PAZXh0bgNhZW0CMTEAAabL_SdQhHidJFIcwYRKiFoyLWPE7_3VPD7PLFgyfGtVFseVNhjQKClmW5w_aem_j3QCfZahzfV5bSdtjajWvA,austin,no_store_page
+Idlewild Coffee,"824 W 12th St, Austin, TX 78701",https://www.idlewildcoffee.com/,austin,no_shop
+Flitch Coffee,"641 Tillery St Suite 110, Austin, TX 78702",http://flitchcoffee.com/,austin,no_shop
+Mazama Coffee Co,"301 Mercer St, Dripping Springs, TX 78620",http://www.mazamacoffee.com/,austin,no_store_page
+Merit Coffee,"222 West Ave #120, Austin, TX 78701",http://www.meritcoffee.com/,austin,scrape_failed
+Dear Diary Coffee,"1212 Chicon St #103, Austin, TX 78702",https://deardiary.coffee/,austin,no_store_page
+Rocket Coffee ATX & Pastries,"8701 W Parmer Ln #2127, Austin, TX 78729",https://www.rocketcoffeetx.com/,austin,no_store_page
+Radix House Coffee,"Coffee Shop, 2701 W William Cannon Dr, Austin, TX 78745",https://www.radixhouse.com/,austin,no_store_page
+Palomino Coffee Roasters,"2023 Airport Blvd, Austin, TX 78722",https://palominocoffee.com/,austin,scrape_failed
+Freewheelin' Coffee,"1917 E Cesar Chavez St, Austin, TX 78702",https://www.freewheelincoffee.com/menu,austin,no_store_page
+The Coffee Quest US | Green Coffee Importer/Exporter,"1606 W Stassney Ln #2, Austin, TX 78745",http://thecoffeequest.com/usa,austin,no_shop
+Brewer's Choice Coffee,"E Braker Ln, Austin, TX 78753",https://brewers-choice.square.site/,austin,no_store_page
+Civil Goat,"3423 Guadalupe St, Austin, TX 78705",http://www.civilgoat.com/,austin,scrape_failed
+Cuvee Coffee & Bar,"48 East Ave, Austin, TX 78701",https://www.cuveecoffee.com/,austin,scrape_failed
+Mozart's Coffee Roasters,"3825 Lake Austin Blvd, Austin, TX 78703",https://mozartscoffee.com/,austin,scrape_failed
+Once Over Coffee Bar,"2009 S 1st St #100, Austin, TX 78704",http://www.onceovercoffeebar.com/,austin,no_coffee_keywords
+Lake Austin Coffee Spot,"2652 Lake Austin Blvd, Austin, TX 78703",https://images.heb.com/is/content/HEBGrocery/PDF/lake-austin-coffee-spot-menu.pdf?utm_source=google&utm_medium=organic&utm_campaign=gmb_restaurant&utm_content=cs,austin,scrape_failed
+Trianon Coffee,"3654 Bee Caves Rd Ste A, Austin, TX 78746",http://trianoncoffee.com/,austin,scrape_failed
+Mi Mundo Coffeehouse & Roastery,"106 S Mays St #100, Round Rock, TX 78664",http://mimundo-coffee.myshopify.com/,austin,no_store_page
+Lucky Lab Coffee Co.,"2421 San Antonio St, Austin, TX 78705",http://www.luckylabcoffee.com/,austin,scrape_failed
+Lone Man Coffee,"3111 W 35th St, Austin, TX 78703",http://lonemancoffee.com/,austin,no_store_page
+Brother Friend Coffee South,"3507 S 1st St, Austin, TX 78704",http://brotherfriend.com/,austin,scrape_failed
+Summer Moon Coffee,"11005 Burnet Rd Ste 112, Austin, TX 78758",https://locations.summermooncoffee.com/locations/burnet-rd-austin/,austin,no_store_page
+Kick Butt Coffee,"5775 Airport Blvd Suite 725, Austin, TX 78752",https://kickbuttcoffee.com/,austin,scrape_failed
+Mañana Coffee,"111 Sandra Muraida Way suite #101, Austin, TX 78703",https://mananacoffee.com/,austin,scrape_failed
+The Hive,"10542 Menchaca Rd, Austin, TX 78748",http://www.hiveaustin.com/,austin,no_store_page
+Sa-Tén @ Canopy,"916 Springdale Rd Bldg 3, #101, Austin, TX 78702",http://www.sa-ten.com/,austin,no_store_page
+Invader Coffee,"4701 Hudson Bend Rd, Austin, TX 78734",http://www.invadercoffee.com/,austin,scrape_failed
+Doxa Coffee Roasters Monterey Oaks,"4220 Monterey Oaks Blvd Suite 101, Austin, TX 78749",https://doxacoffeeroasters.com/,austin,scrape_failed
+Clover Coffee,"12400 Amherst Dr, Austin, TX 78727",https://www.facebook.com/profile.php?id=61561193702183,austin,no_shop
+Stouthaus Coffee - Sunset Valley,"4715 S Lamar Blvd #102, Sunset Valley, TX 78745",http://www.stouthauscoffee.com/,austin,scrape_failed
+Austin Coffee Technician,"217 Millington Ln, Buda, TX 78610",http://austincoffeetechnician.com/,austin,no_shop
+Cosmic Pickle,"121 Pickle Rd, Austin, TX 78704",https://www.cosmichospitalitygroup.com/,austin,no_store_page
+Little Brother Coffee & Kolaches,"1512 S Congress Ave, Austin, TX 78704",https://www.littlebrotherbar.com/,austin,no_shop
+Red Rock Roasters,"4801 Jefferson St NE, Albuquerque, NM 87109",https://www.redrockroasters.com/?utm_medium=GMB-main&utm_source=GMB,round rock,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,round rock,wrong_region
+Standing Wave Coffee,"2024 Sarah St, Pittsburgh, PA 15203",https://www.standingwavecoffee.com/,round rock,wrong_region
+Coffee Enlightenment,"115 Sundance Pkwy #510, Round Rock, TX 78681",https://www.coffee-enlightenment.com/,round rock,no_store_page
+Purely Provisions,"212 W Main St, Round Rock, TX 78664",http://www.purelyprovisions.com/,round rock,no_store_page
+INSTILL COFFEE CO ROUND ROCK,"1551 E Old Settlers Blvd, Round Rock, TX 78664",http://www.instillcoffee.com/,round rock,scrape_failed
+Luna Espresso - Catering Warehouse,"2700 Louis Henna Blvd Suite 100 Unit A3, Round Rock, TX 78664",http://lunaespressocart.com/,round rock,no_shop
+Lamppost Coffee,"201 E Main St #101, Round Rock, TX 78664",http://www.lamppost.coffee/,round rock,scrape_failed
+Alamo Coffee Company,"1021 Sendero Springs Dr, Round Rock, TX 78681",http://alamocoffee.com/,round rock,scrape_failed
+Unicorniverse Bakery & Cafe,"2400 S I-35 Frontage Rd #130, Round Rock, TX 78681",https://www.unicorniversebakery.com/,round rock,no_store_page
+7 Brew Coffee,"2130 E Palm Valley Blvd, Round Rock, TX 78665",https://7brew.com/location/texas-round-rock-000247,round rock,no_store_page
+309 Coffee,"309 S Main St, Georgetown, TX 78626",http://309.coffee/,round rock,no_store_page
+What's Brewing Coffee Roasters,"138 W Rhapsody Dr, San Antonio, TX 78216",http://www.sacoffeeroasters.com/,round rock,no_store_page
+Seven Oaks Coffee,"15205 Ronald Reagan Blvd #702, Leander, TX 78641",https://www.sevenoakscoffee.com/,round rock,scrape_failed
+Red Horn Coffee House and Tap Room,"109 W 7th St #105, Georgetown, TX 78626",https://www.redhornbrew.com/,round rock,scrape_failed
+Drinkle Coffee,"601 Conservation Dr, Austin, TX 78717",https://drinklecoffee.com/,round rock,no_store_page
+Cafe Java,"2051 Gattis School Rd #120, Round Rock, TX 78664",https://www.thecafejava.com/,round rock,no_store_page
+Black Rock Coffee Bar,"5013 Gattis School Rd, Hutto, TX 78634",http://br.coffee/,round rock,scrape_failed
+Austin Grind,"4005 W Parmer Ln ste a, Austin, TX 78727",http://austingrind.com/,round rock,scrape_failed
+Rivery Coffee & Bagels,"1500 Rivery Blvd Suite 2155, Georgetown, TX 78628",http://www.riverycoffeehouse.com/,round rock,scrape_failed
+West Pecan Coffee + Beer,"100 W Pecan St, Pflugerville, TX 78660",https://westpecancoffee.com/,round rock,scrape_failed
+Perky Beans Coffee & PB Cafe,"2080 N US Hwy 183 #210, Leander, TX 78641",https://www.perkybeanscoffee.com/,round rock,scrape_failed
+Ripple and Rose Cafe,"109 W 3rd St, Taylor, TX 76574",http://instagram.com/ripple_and_rose,round rock,no_shop
+Third Gen Coffee,"25136 Grogans Park Dr, The Woodlands, TX 77380",http://www.thirdgencoffee.com/,round rock,scrape_failed
+EL TIGRE COFFEE ROASTERS,"1614 E 12th St, Austin, TX 78702",https://eltigre.coffee/,round rock,no_store_page
+California Roasting Collective,"1320 Grand Ave #12, San Marcos, CA 92078",https://www.caroastingcollective.com/,san marcos,wrong_region
+Urban Sweet Cafe,"803 S Twin Oaks Valley Rd, San Marcos, CA 92078",http://www.urbansweetcafe.com/,san marcos,wrong_region
+TERI Common Grounds Café & Coffee Bar,"555 Deer Springs Rd, San Marcos, CA 92069",http://www.tericommongroundscafe.com/,san marcos,wrong_region
+Jaunt Coffee Roasters,"8680 Miralani Dr UNIT 131, San Diego, CA 92126",https://jauntcoffee.com/pages/cafe-menu,san marcos,wrong_region
+Better Buzz Coffee San Marcos,"904 W San Marcos Blvd, San Marcos, CA 92078",http://www.betterbuzzcoffee.com/,san marcos,wrong_region
+Cactus Creek Gourmet Coffee Roasters,"120 Oconner Pl, Aberdeen, NC 28315",http://www.cactuscreekcoffee.com/,san marcos,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,san marcos,wrong_region
+Better Buzz Coffee San Marcos,"904 W San Marcos Blvd, San Marcos, CA 92078",http://www.betterbuzzcoffee.com/,san marcos,wrong_region
+TERI Common Grounds Café & Coffee Bar,"555 Deer Springs Rd, San Marcos, CA 92069",http://www.tericommongroundscafe.com/,san marcos,wrong_region
+California Roasting Collective,"1320 Grand Ave #12, San Marcos, CA 92078",https://www.caroastingcollective.com/,san marcos,wrong_region
+Manzanita Roasting Company and Coffee House,"301 E Grand Ave M, Escondido, CA 92025",http://www.manzanitaroasting.com/,san marcos,wrong_region
+California Roasting Collective,"1320 Grand Ave #12, San Marcos, CA 92078",https://www.caroastingcollective.com/,san marcos,wrong_region
+"Moschetti Artisan Roaster (Wholesale, Retail, Cafe and Online Shop)","11 6th St, Vallejo, CA 94590",http://www.moschetti.com/,san marcos,wrong_region
+Safari Coffee Roasters,"1012 W El Norte Pkwy, Escondido, CA 92026",http://safaricoffee.com/,san marcos,wrong_region
+Better Buzz Coffee San Marcos,"904 W San Marcos Blvd, San Marcos, CA 92078",http://www.betterbuzzcoffee.com/,san marcos,wrong_region
+Triple Six Social,"329 Cheatham St, San Marcos, TX 78666",https://triplesixsocial.com/,san marcos,scrape_failed
+Wake the Dead Coffee House,"1432 Old, 1432 Old Ranch Rd 12, San Marcos, TX 78666",https://wakethedeadcoffeehouse.squarespace.com/events,san marcos,no_shop
+Mochas & Javas,"700 N LBJ Dr Ste 100, San Marcos, TX 78666",https://www.mochasandjavas.com/,san marcos,no_store_page
+The Coffee Bar,"142 N LBJ Dr, San Marcos, TX 78666",https://coffeebarsmtx.com/,san marcos,no_store_page
+Redbud Roasters,"169 S L B J Dr, San Marcos, TX 78666",https://redbudroasters.com/,san marcos,no_store_page
+Tantra SMTX,"217 W Hopkins St, San Marcos, TX 78666",http://www.tantrasanmarcos.com/,san marcos,scrape_failed
+Friday Coffee Roasters,"838 Lakeview Blvd, New Braunfels, TX 78130",http://friday.coffee/,san marcos,no_store_page
+Akhanay Coffee Roasters,"1119 Camden St, San Antonio, TX 78215",http://akhanay.square.site/,san marcos,no_store_page
+Waterloo Coffee Company,"3309 W State Hwy 29, Georgetown, TX 78628",http://www.waterloocoffeecompany.com/,san marcos,scrape_failed
+US Roast,"1501 W Ferguson Rd, Mt Pleasant, TX 75455",http://usroast.com/,san marcos,scrape_failed
+Archies Coffee Lounge,"301 N LBJ Dr #119, San Marcos, TX 78666",https://archiescoffee.com/,san marcos,scrape_failed
+Mildfire Coffee Roasters,"15502 Huebner Rd #101, San Antonio, TX 78248",http://www.mildfirecoffeeroasters.com/,san marcos,no_store_page
+"Copan Coffee Roasters, LLC","716 S Persimmon St, Tomball, TX 77375",https://www.copancoffeeroasters.com/,san marcos,scrape_failed
+Hill Country Brew,"1101 Thorpe Ln #105-599, San Marcos, TX 78666",https://www.hillcountry-brew.com/,san marcos,no_shop
+Gruene Coffee Haus,"1720 Hunter Rd, New Braunfels, TX 78130",http://www.gruenecoffee.com/,san marcos,no_store_page
+Gold Stripe Coffee Roasters,"2610 Salem Ave Ste 5, Lubbock, TX 79410",http://goldstripecoffee.com/,san marcos,no_store_page
+Texas Bean & Brew House,"1328 I 35 N Frontage Rd, San Marcos, TX 78666",http://www.texasbeanandbrewhouse.com/,san marcos,no_store_page
+Kinnor Coffee & Cocktails,"540 S Castell Ave, New Braunfels, TX 78130",http://kinnornb.com/,san marcos,scrape_failed
+EverGruene Coffee Roasting // Online Ordering,"635 E Camp St, New Braunfels, TX 78130",https://evergruenecoffeeroasting.com/,san marcos,no_store_page
+The Root Cellar Cafe,"215 N LBJ Dr, San Marcos, TX 78666",https://rootcellarcafe.com/san-marcos/smhome.html,san marcos,no_store_page
+JuJu's Coffee,"6038 La Vista Dr, Dallas, TX 75206",http://jujuscoffee.com/,san marcos,scrape_failed
+YellowBand Coffee Roasters,"7001 W I-10 Access Rd Suite 117, San Antonio, TX 78213",http://www.yellowbandcoffee.com/,san marcos,scrape_failed
+Bright Coffee,"1705 Blanco Rd, San Antonio, TX 78212",https://order.dripos.com/Bright-Coffee,san marcos,no_shop
+Minutiae Coffee Roasters LLC,"14743 Old Bandera Rd #1, Helotes, TX 78023",https://minutiaecoffee.com/,san marcos,scrape_failed
+Emerald Coffee Co.,"2120 Goforth Rd, Kyle, TX 78640",https://emeraldcoffeeco.square.site/?src=g-icon,san marcos,scrape_failed
+Shotgun House Coffee Roasters,"1333 Buena Vista St, San Antonio, TX 78207",http://www.shotgunhouseroasters.com/,san marcos,no_store_page
+Covered Bridge Coffee Roasters & Loose Leaf Tea,"220 Elmwood Ave, Feasterville, PA 19053",http://www.coveredbridgecoffeeroasters.com/,pflugerville,wrong_region
+Ethnos Coffee Roasters,"8817 Chaffee Rd, Arlington, TN 38002",http://www.ethnos.coffee/,pflugerville,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,pflugerville,wrong_region
+The Morning Ritual,"18612 Pfluger Farm Ln, Pflugerville, TX 78660",https://www.morningritual.com/,pflugerville,no_shop
+Ecstatic Expression Coffee Catering and Mobile Espresso Bar,"6019 Pleasanton Pkwy, Pflugerville, TX 78660",https://www.austincoffeecatering.com/,pflugerville,no_store_page
+Hometown Coffee - Pflugerville,"1434 Wells Branch Pkwy, Pflugerville, TX 78660",http://hometowncoffeecompany.com/,pflugerville,no_store_page
+Lazydaze Pflugerville,"1202 FM 685 A5, Pflugerville, TX 78660",https://www.lazydazeshop.com/,pflugerville,scrape_failed
+107 Roasters & Cafe,"512 SW 47th Ave, Amarillo, TX 79110",http://107roasters.com/,pflugerville,scrape_failed
+"BInxCorp, LLC","4717 Priem Ln Bldg. 7 Suite 701, Pflugerville, TX 78660",http://www.binxcorp.com/,pflugerville,no_shop
+Dazzle Coffee & Smoothies,"100 2nd St N, Pflugerville, TX 78660",http://dazzlecoffee.com/,pflugerville,no_store_page
+Barbarossa Coffee Roasters,"9166 Farm to Market 2920 Suite 100, Tomball, TX 77375",http://www.barbarossacoffee.com/,pflugerville,scrape_failed
+The Human Bean,"105 Rex Kerwin Ct Bldg. 1, Pflugerville, TX 78660",https://thehumanbean.com/location/human-bean-101-rex-kerwin-court-pflugerville-texas-78660/,pflugerville,scrape_failed
+Medici Roasting - Domain,"10727 Domain Dr, Austin, TX 78758",http://www.mediciroasting.com/,pflugerville,scrape_failed
+Nearby Coffee Co.,"16921 Joe Barbee Dr Suite B, Pflugerville, TX 78660",https://nearbycoffeeroasters.com/,pflugerville,no_store_page
+Third Wave Coffee,"SCO 467-468, Ground Floor, 35C, Sector 35, Chandigarh, 160022, India",https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-sector-35-chandigarh-chandigarh/,pflugerville,scrape_failed
+Lo-Fi Coffee House & Studio,"109 A, Central Ave, Elgin, TX 78621",https://www.loficoffeehouse.com/,pflugerville,no_store_page
+HTeaO - Pflugerville (Kay & Pflugerville),"710 Kay Ln, Pflugerville, TX 78660",https://hteao.com/locations/pflugerville-tx-kaye/,pflugerville,scrape_failed
+Ghoul Coffee Company,"2324 E Cesar Chavez St #A, Austin, TX 78702",https://ghoulcoffeecompany.com/,pflugerville,no_store_page
+Neon Moon Coffee,"12510 W Texas St, Burton, TX 77835",http://neonmooncoffee.com/,pflugerville,scrape_failed
+Forrest Coffee House,"103 Forrest St, Liberty Hill, TX 78642",https://forrest.coffee/,pflugerville,no_store_page
+Matinee! Coffee + Concessions,"209 W Broade St, Leander, TX 78641",http://www.matineecoffeetx.com/,pflugerville,no_store_page
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,georgetown,wrong_region
+Standing Wave Coffee,"2024 Sarah St, Pittsburgh, PA 15203",https://www.standingwavecoffee.com/,georgetown,wrong_region
+Georgetown Co-Roasting,"208 S Mead St, Seattle, WA 98108",https://www.georgetowncoroasting.com/,georgetown,wrong_region
+Lost Horse Coffee,"1000 Garrett Oaks Ln, Georgetown, TX 78633",https://www.losthorsecoffee.com/,georgetown,scrape_failed
+August Beverage Company,"1204 Williams Dr, Georgetown, TX 78628",https://www.augustbeveragecompany.com/,georgetown,no_coffee_keywords
+Just Love Coffee Cafe - Georgetown,"1013 W University Ave Suite 195, Georgetown, TX 78628",https://justlovecoffeecafe.com/tx-georgetown/,georgetown,scrape_failed
+Sweet Lemon Kitchen,"812 S Church St, Georgetown, TX 78626",https://www.sweetlemonkitchen.com/,georgetown,no_store_page
+BiG Cafe and Shop- Brookwood in Georgetown,"905 N Church St, Georgetown, TX 78626",http://www.brookwoodingeorgetown.org/,georgetown,no_store_page
+Rabbit Coffee Co.,"610 N Austin Ave Ste 110, Georgetown, TX 78626",https://www.rabbitcoffeeco.com/,georgetown,scrape_failed
+Monument Cafe,"500 S Austin Ave, Georgetown, TX 78626",https://www.themonumentcafe.com/,georgetown,no_store_page
+Laurie's Cafe,"612 S Main St, Georgetown, TX 78626",https://lauriescafe.com/,georgetown,no_shop
+The Yard Milkshake Bar Of Georgetown,"940 W University Ave #120, Georgetown, TX 78626",https://www.theyardmilkshakebar.com/georgetown-menu,georgetown,scrape_failed
+Boomtown Coffee,"242 W 19th St, Houston, TX 77008",http://www.boomtowncoffee.com/,georgetown,scrape_failed
+DECOR WITH AMOR ®,"1107 S Main St, Georgetown, TX 78626",https://www.decorwithamor.com/,georgetown,no_coffee_keywords
+Starbucks,"705 N Austin Ave, Georgetown, TX 78626",https://www.starbucks.com/store-locator/store/9258/,georgetown,scrape_failed
+The Little Lemon at the Library,"402 W 8th St Suite B, Georgetown, TX 78626",https://littlelemon.cafe/,georgetown,no_store_page
+Brewtopia Coffee Cart,"2204 Prairie Oaks Dr, Georgetown, TX 78628",http://www.brewtopiacoffeecart.com/,georgetown,scrape_failed
+Record Coffee Supply,"108 W McKinney St Suite 100, Denton, TX 76201",https://www.recordcoffeesupply.com/,georgetown,no_shop
+Blackwater Coffee Roasters,"3204 Polk St, Houston, TX 77003",http://www.bwcroasters.com/,georgetown,scrape_failed
+The Flower Shop Coffee Co.,"2803 Fort Worth Dr, Denton, TX 76205",http://theflowershopcc.square.site/,georgetown,scrape_failed
+Neon Belly Coffee & Bakery,"8312 Burnet Rd Unit 101, Austin, TX 78757",https://neonbellycoffee.com/order-online,georgetown,scrape_failed
+Muscovy Coffee Roasters,"100 N Church St, Salado, TX 76571",https://www.muscovycoffee.com/,georgetown,scrape_failed
+Coyote Moon Coffee LLC,"710 N Rosemary Dr, Bryan, TX 77802",http://www.coyotemooncoffee.com/,georgetown,no_store_page
+Galaxy Bakery & CoffeeHouse,"107 E 7th St, Georgetown, TX 78626",http://www.galaxybakery.com/,georgetown,no_shop
+Barking Armadillo Brewing & Coffeehouse,"507 Riverbend Dr ||, Georgetown, TX 78628",http://www.barkingarmadillo.com/,georgetown,no_store_page
+Family Barn,"1231 Leander Rd, Georgetown, TX 78628",https://familyplaybarn.com/,georgetown,no_store_page
+Dwell House Coffee and Tap,"204 E Main St, Florence, TX 76527",https://dwellhousecoffeeandtap.com/,georgetown,scrape_failed
+Wander Coffee,"16, 217 Racquette Dr STE 16, Fort Collins, CO 80524",http://www.wandercoffee.com/,leander,wrong_region
+Futura Coffee Roasters - The Mill District,"73 Cowls Rd, Amherst, MA 01002",https://futuracoffeeroasters.com/,leander,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,leander,wrong_region
+Summer Moon,"133 Collective Wy, Leander, TX 78641",http://summermooncoffee.com/,leander,scrape_failed
+PJ's Coffee,"11620 Hero Way W, Leander, TX 78641",https://locations.pjscoffee.com/tx/leander/coffee-shop-tx0039.html,leander,scrape_failed
+Casa Costa Bake Shop,"201 Bagdad St, Leander, TX 78641",http://www.casacostabakeshop.com/,leander,scrape_failed
+Van Zandt Coffee,"6353 State Hwy 19 N, Athens, TX 75752",http://www.vanzandtcoffee.com/,leander,scrape_failed
+Theo’s Roast,"189 Elm St Suite 108, Lewisville, TX 75057",https://theosroast.com/,leander,no_store_page
+Pearland Coffee Roasters,"201 S Friendswood Dr, Friendswood, TX 77546",http://pearlandcoffeeroasters.com/,leander,no_store_page
+ARWA YEMENI COFFEE,"12301 W Parmer Ln Unit 206 Bldg 2, Cedar Park, TX 78613",http://www.arwacoffee.com/,leander,no_store_page
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,cedar park,wrong_region
+Coffee Shop at Slackers Brewing,"12233 Ranch Rd 620 N #204, Austin, TX 78750",https://slackersbrewing.com/craft-coffee/,cedar park,scrape_failed
+Cedar Coffee Roasters (Roastery + Store),"Unit 8, Side Street Studios, 48 Albert Rd, Woodstock, Cape Town, 7915, South Africa",https://cedarcoffeeroasters.com/,cedar park,scrape_failed
+SereniTea Cup,"600 S Bell Blvd #17, Cedar Park, TX 78613",http://www.sereniteacup.com/,cedar park,no_store_page
+Pineview Coffee Company,"13805 Research Blvd, Austin, TX 78750",http://pineviewcoffee.com/,cedar park,scrape_failed
+Cultivar Coffee Roasting Co.,"1155 Peavy Rd, Dallas, TX 75218",https://www.cultivarcoffee.com/,cedar park,scrape_failed
+Nervous Charlie's Bagels,"410 W Whitestone Blvd Suite 300, Cedar Park, TX 78613",https://www.nervouscharlies.com/,cedar park,no_coffee_keywords
+Russell's Bakery & Coffee @ 2222,"7300 Ranch to Market Rd 2222 #111, Austin, TX 78730",https://russells-bakery-coffee-2222.square.site/,cedar park,no_store_page
+"Snooze, an A.M. Eatery","1915 E Whitestone Blvd Suite 101, Cedar Park, TX 78613",https://www.snoozeeatery.com/restaurant/texas/cedar-park/,cedar park,scrape_failed
+Babylon Coffee Roasters,"9986 Grapevine Hwy C, Hurst, TX 76054",http://babyloncoffeeroasters.com/,cedar park,scrape_failed
+Happy Lemon - Boba Tea & Lemonades,"1310 E Whitestone Blvd #530, Cedar Park, TX 78613",http://happylemoncedarpark.com/,cedar park,no_shop
+Morning Sunshine Cafe,"115 S Lakeline Blvd STE 100, Cedar Park, TX 78613",https://morning-sunshine-cafe.square.site/,cedar park,scrape_failed
+Latte Factory,"11200 Lakeline Mall Dr, Cedar Park, TX 78613",https://lattefactory.net/,cedar park,no_store_page
+La Dosis Coffee + Cocktails,"300 W Whitestone Blvd, Cedar Park, TX 78613",https://ladosiscoffee.com/,cedar park,no_store_page
+"Dumont Creamery & Cafe, Cedar Park","601 W New Hope Dr Suite 106 Building 1, Cedar Park, TX 78613",http://www.dumont.us/,cedar park,scrape_failed
+Dame Café,"5006 Hamilton Rd, Austin, TX 78759",https://www.damecafecoffee.com/,cedar park,no_store_page
+The Alley Cedar Park,"1468 E Whitestone Blvd #400, Cedar Park, TX 78613",https://thealleyatx.com/,cedar park,no_store_page
+Rigby Roastery,"Inside Boycott Coffee, 240 Madison Ave, Memphis, TN 38103",https://rigbyroastery.com/,buda,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,buda,wrong_region
+Halo's Coffee Bar LLC,"2610 Main St, Buda, TX 78610",https://www.toasttab.com/local/order/halos-coffee-bar,buda,scrape_failed
+Teal House Coffee & Bakery,"200 Main St, Buda, TX 78610",https://www.tealhouse.co/,buda,no_store_page
+Progress Coffee + Beer,"750 FM2001, Buda, TX 78610",http://progresscoffee.com/,buda,no_store_page
+Meridian,"200 Main St, Buda, TX 78610",http://www.meridianbuda.com/,buda,no_store_page
+Community Coffee Company Distribution,"98 Dupree Dr, Buda, TX 78610",https://www.communitycoffee.com/forbusiness/austin-coffee-service,buda,no_store_page
+Overland Roast,"115 Crawford, Kyle, TX 78640",https://www.overlandroast.com/pages/contact,buda,scrape_failed
+Nate's Coffee & Cocktails,"306 S Main St Ste. 101, Buda, TX 78610",http://nates-buda.com/,buda,scrape_failed
+Kyle's Daily Grind,"607a W Center St, Kyle, TX 78640",https://www.kylesdailygrind.com/,buda,no_store_page
+BudaFull Cup,"At Doc's Drive-In next to Tejas Birria, 1540 Satterwhite Rd, Buda, TX 78610",https://budafullcup.com/order,buda,scrape_failed

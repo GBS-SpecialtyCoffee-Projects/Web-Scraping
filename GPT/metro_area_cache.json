@@ -1,0 +1,230 @@
+{
+  "atlanta": [
+    "Atlanta",
+    "Decatur",
+    "Sandy Springs",
+    "Marietta",
+    "Alpharetta",
+    "Roswell",
+    "Buckhead"
+  ],
+  "san francisco": [
+    "San Francisco",
+    "Oakland",
+    "Berkeley",
+    "San Jose",
+    "Palo Alto",
+    "Mountain View",
+    "Sunnyvale",
+    "Fremont",
+    "Hayward",
+    "Daly City"
+  ],
+  "new york": [
+    "New York",
+    "Brooklyn",
+    "Queens",
+    "Manhattan",
+    "The Bronx",
+    "Jersey City",
+    "Newark",
+    "Yonkers",
+    "New Rochelle"
+  ],
+  "chicago": [
+    "Chicago",
+    "Evanston",
+    "Oak Park",
+    "Naperville",
+    "Aurora",
+    "Schaumburg",
+    "Arlington Heights"
+  ],
+  "los angeles": [
+    "Los Angeles",
+    "Long Beach",
+    "Pasadena",
+    "Santa Monica",
+    "Beverly Hills",
+    "Burbank",
+    "Glendale",
+    "Torrance"
+  ],
+  "seattle": [
+    "Seattle",
+    "Bellevue",
+    "Redmond",
+    "Tacoma",
+    "Kent",
+    "Renton",
+    "Federal Way"
+  ],
+  "denver": [
+    "Denver",
+    "Boulder",
+    "Aurora",
+    "Lakewood",
+    "Broomfield",
+    "Westminster",
+    "Littleton"
+  ],
+  "boston": [
+    "Boston",
+    "Cambridge",
+    "Somerville",
+    "Brookline",
+    "Newton",
+    "Waltham",
+    "Watertown"
+  ],
+  "syracuse": [
+    "syracuse",
+    "liverpool",
+    "dewitt",
+    "east syracuse",
+    "camillus",
+    "solvay",
+    "fayetteville",
+    "north syracuse"
+  ],
+  "chattanooga": [
+    "chattanooga",
+    "east ridge",
+    "red bank",
+    "soddy-daisy",
+    "lookout mountain",
+    "signal mountain",
+    "walden",
+    "collegedale"
+  ],
+  "hamilton": [
+    "hamilton",
+    "cincinnati",
+    "mason",
+    "west chester",
+    "fairfield",
+    "springdale",
+    "blue ash",
+    "lebanon"
+  ],
+  "edmonton": [
+    "edmonton",
+    "st. albert",
+    "sherwood park",
+    "leduc",
+    "fort saskatchewan",
+    "spruce grove",
+    "beaumont",
+    "morinville"
+  ],
+  "chattanooga, tn": [
+    "chattanooga",
+    "east ridge",
+    "red bank",
+    "soddy-daisy",
+    "signal mountain",
+    "lookout mountain",
+    "walden",
+    "collegedale"
+  ],
+  "syracuse, ny": [
+    "syracuse",
+    "liverpool",
+    "dewitt",
+    "east syracuse",
+    "camillus",
+    "solvay",
+    "fayetteville",
+    "north syracuse"
+  ],
+  "edmonton, ab": [
+    "edmonton",
+    "st. albert",
+    "leduc",
+    "fort saskatchewan",
+    "spruce grove",
+    "sherwood park",
+    "beaumont",
+    "morinville"
+  ],
+  "hamilton, on": [
+    "hamilton",
+    "burlington",
+    "stoney creek",
+    "ancaster",
+    "dundas",
+    "grimsby",
+    "caledonia",
+    "waterdown"
+  ],
+  "austin, tx": [
+    "austin",
+    "round rock",
+    "san marcos",
+    "pflugerville",
+    "georgetown",
+    "leander",
+    "cedar park",
+    "buda"
+  ],
+  "louisville, ky": [
+    "louisville",
+    "jeffersonville",
+    "new albany",
+    "clarksville",
+    "shively",
+    "st. matthews",
+    "bardstown",
+    "shelbyville"
+  ],
+  "london, on": [
+    "london",
+    "st. thomas",
+    "strathroy",
+    "ingersoll",
+    "woodstock",
+    "tillsonburg",
+    "aylmer",
+    "sarnia"
+  ],
+  "lancaster, pa": [
+    "lancaster",
+    "york",
+    "harrisburg",
+    "reading",
+    "lebanon",
+    "ephrata",
+    "millersville",
+    "columbia"
+  ],
+  "portland, me": [
+    "portland",
+    "south portland",
+    "westbrook",
+    "scarborough",
+    "falmouth",
+    "cape elizabeth",
+    "gorham",
+    "biddeford"
+  ],
+  "scranton, pa": [
+    "scranton",
+    "wilkes-barre",
+    "pittston",
+    "carbondale",
+    "hazleton",
+    "dunmore",
+    "west hazleton",
+    "nanticoke"
+  ],
+  "new haven, ct": [
+    "new haven",
+    "bridgeport",
+    "hartford",
+    "stamford",
+    "waterbury",
+    "meriden",
+    "west haven",
+    "milford"
+  ]
+}

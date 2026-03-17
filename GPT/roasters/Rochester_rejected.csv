@@ -1,0 +1,139 @@
+Name,Address,Website,source_city,reason
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,rochester,wrong_region
+Mercury Coffee Co.,"681 South Ave, Rochester, NY 14620",https://mercuryroc.com/,rochester,no_shop
+Winter Swan Coffee,"43 Russell St, Rochester, NY 14607",http://www.winterswancoffee.com/,rochester,no_store_page
+Ugly Duck Coffee,"89 Charlotte St, Rochester, NY 14607",http://uglyduckcoffee.com/,rochester,no_store_page
+Canaltown Coffee Roasters,"1805 East Ave C, Rochester, NY 14610",http://www.canaltowncoffee.com/,rochester,no_shop
+Eden Coffee and Co,"Eden coffee, 200 East Ave, Rochester, NY 14604",https://www.instagram.com/edencoffeeandco/,rochester,no_shop
+AM:FM Coffee Cocktails Vinyl,"45 Euclid St, Rochester, NY 14604",http://www.amfm.cafe/,rochester,no_shop
+Best Coffee At The Market,"57 Rochester Public Market, Rochester, NY 14609",https://m.facebook.com/thebestcoffeeatthemarket/,rochester,no_shop
+Legendary Beans Coffee,"222 Alexander St, Rochester, NY 14607",https://legendarybeans.com/,rochester,scrape_failed
+Imprint Coffee Roasting - Coffee House,"7 Mill St, Sodus, NY 14551",http://www.imprintcoffeeroasting.com/,rochester,no_store_page
+Boulder Coffee Co Cafe and Lounge,"100 Alexander St, Rochester, NY 14620",http://www.bouldercoffeeroaster.com/,rochester,no_store_page
+EuroCafe Imports,"1150 University Ave, Rochester, NY 14607",http://eurocafeimports.com/,rochester,no_shop
+RoCoCo Cafe,"240 E Main St, Rochester, NY 14604",https://rococorochester.com/,rochester,no_store_page
+Cafe Sasso,"739 Park Ave, Rochester, NY 14607",https://facebook.com/cafesassorochester/,rochester,no_shop
+Sips Coffee & Cafe,"149 Pattonwood Dr, Rochester, NY 14617",https://www.sipsrochester.com/,rochester,no_store_page
+Little Bits Coffee Roasters,"696 Titus Ave, Irondequoit, NY 14617",https://lbcroasters.com/,rochester,no_shop
+The Chai Guy,"280 N Union St, Rochester, NY 14609",http://www.thechaiguy.com/,rochester,no_store_page
+Prominent Coffee Co.,"9135 Sheridan Dr Suite 4, Clarence, NY 14031",https://prominentcoffeeco.com/,rochester,no_store_page
+Happy Gut Sanctuary,"229 Mill St, Rochester, NY 14614",http://www.happygutsanctuary.com/,rochester,no_coffee_keywords
+Junction361,"24 N Main St, Fairport, NY 14450",http://junction361.com/,rochester,no_store_page
+Steven James Coffee Co.,"349 W Commercial St Suite 1320, East Rochester, NY 14445",https://stevenjamescoffeeco.com/,rochester,no_store_page
+Earl's Coffee,"375 Cooper Rd, Irondequoit, NY 14617",https://genrichs.com/,rochester,no_store_page
+Coffee Connection,"563 Miracle Mile Dr, Rochester, NY 14623",http://ourcoffeeconnection.org/,rochester,no_store_page
+Working Class Coffee,"243 Gorham St, Canandaigua, NY 14424",http://theworkingclasscoffee.com/,rochester,no_store_page
+Neutral Ground Coffeehouse - Pittsford,"45 Schoen Pl, Pittsford, NY 14534",http://www.neutralgroundcoffee.com/,rochester,no_store_page
+Pearson's,"23 Somerton St, Rochester, NY 14607",http://www.ilovepearsons.com/,rochester,no_coffee_keywords
+Sirness Coffee Services,"85 Elmgrove Park, Rochester, NY 14624",https://sirnesscoffee.com/,rochester,no_store_page
+FairPour Coffee Roasters,"25 Parce Ave Suite 160, Fairport, NY 14450",http://www.fairpour.com/,rochester,no_store_page
+Montgomery Court,"1245 Park Ave, Rochester, NY 14610",http://www.montgomerycourt.com/,rochester,no_store_page
+New Roots Coffeehouse,"1273 Long Pond Rd, Greece, NY 14626",http://newrootscoffeehouse.com/,rochester,no_shop
+Melo Coffee & Kitchen,"696 University Ave, Rochester, NY 14607",https://www.melocoffeeandkitchen.com/,rochester,no_store_page
+Union Street Coffee House,"123 S Union St, Spencerport, NY 14559",http://www.unionstreetcoffeehouse.com/,rochester,no_store_page
+Empire Coffee & Donuts,"590 Pre Emption Rd, Geneva, NY 14456",http://ecdgeneva.com/,rochester,no_shop
+Founders Cafe,"13 S Fitzhugh St, Rochester, NY 14614",https://founderscaferochester.com/,rochester,no_store_page
+Hollycake House,"300 Main St suite 25, East Rochester, NY 14445",https://www.hollycakehouse.com/,rochester,no_store_page
+Hydra Coffeehouse,"701 Monroe Ave, Rochester, NY 14607",http://hydracoffeehouse.com/,rochester,no_store_page
+The Siren and The Sea: Books and Coffee,"426 South Ave, Rochester, NY 14620",https://linktr.ee/thesirenandthesea,rochester,no_store_page
+Golden Harvest Bakery & Cafe LLC,"368 Jefferson Rd, Rochester, NY 14623",http://ghbacafe.square.site/,rochester,no_store_page
+Collier’s Cafe,"41 S Main St, Pittsford, NY 14534",https://collierscafe.com/,rochester,no_store_page
+Pure Imagination Cafe,"2997 Buffalo Rd, Rochester, NY 14624",https://www.pureimaginationcafe.com/,rochester,no_store_page
+Tree Town Cafe,"745 Penfield Rd, Rochester, NY 14625",http://treetowncafe.com/,rochester,no_store_page
+Happy Earth Tea,"696 South Ave, Rochester, NY 14620",https://happyearthtea.com/,rochester,no_store_page
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,irondequoit,wrong_region
+"Moschetti Artisan Roaster (Wholesale, Retail, Cafe and Online Shop)","11 6th St, Vallejo, CA 94590",http://www.moschetti.com/,irondequoit,wrong_region
+Stir Coffee,"400 Bakers Park, Rochester, NY 14617",http://marketisquare.com/,irondequoit,no_coffee_keywords
+Ridge Donut Cafe,"1600 Portland Ave, Rochester, NY 14621",https://ridgedonuts.com/,irondequoit,no_store_page
+Atlas Eats,"2185 N Clinton Ave, Rochester, NY 14617",http://www.atlas-eats.com/,irondequoit,no_coffee_keywords
+Village Bakery & Cafe,"145 Culver Rd, Rochester, NY 14620",https://villagebakeries.com/#,irondequoit,no_coffee_keywords
+I-Square,"400 Bakers Park, Rochester, NY 14617",https://i-square.us/,irondequoit,no_store_page
+Olmsted Coffee Company,"567 Exchange St, Buffalo, NY 14210",https://olmstedcoffeecompany.com/,irondequoit,no_store_page
+1872 Cafe,"431 W Main St, Rochester, NY 14608",https://1872-cafe.com/,irondequoit,no_store_page
+Mamaste Cafe and Play,"1235 Hilton Parma Corners Rd, Hilton, NY 14468",http://www.mamastecafeandplay.com/,irondequoit,no_shop
+Donuts Delite,"1700 Culver Rd, Rochester, NY 14609",https://ddelite.com/locations/culver-road,irondequoit,no_coffee_keywords
+Taste of Supreme Bakery & Cafe,"696 Winton Rd N, Rochester, NY 14609",https://tasteofsupreme.com/,irondequoit,no_store_page
+Herrema's Food Market Inc,"125 Pattonwood Dr, Rochester, NY 14617",https://www.herremas.com/,irondequoit,no_coffee_keywords
+ROAM Cafe,"260 Park Ave, Rochester, NY 14607",https://www.roamcafe.com/,irondequoit,no_shop
+Locals Only,"311 Alexander St, Rochester, NY 14604",http://localsonly311.com/,irondequoit,no_store_page
+Polska Chata LLC,"32 Vinedale Ave, Rochester, NY 14622",http://polskachatallc.com/,irondequoit,no_coffee_keywords
+Starbucks Coffee Company,"1495 East Ridge Road, Rochester, NY 14621",https://www.starbucks.com/store-locator/store/1011707/,irondequoit,no_store_page
+Clementine,"6 N Main St #125, Fairport, NY 14450",http://clementineroc.com/,irondequoit,no_store_page
+Mochinut Irondequoit,"850 East Ridge Road, Rochester, NY 14617",http://mochinut104.com/,irondequoit,no_coffee_keywords
+Cobblestone Coffee Roasters,"500 Technology Farm Dr, Geneva, NY 14456",https://cobblestonecoffeeroasters.com/,irondequoit,no_store_page
+Fabiano’s Coffee Roasters,"4180 W Alamos Ave Ste 102, Fresno, CA 93722",http://fabianocoffee.com/,greece,wrong_region
+"Moschetti Artisan Roaster (Wholesale, Retail, Cafe and Online Shop)","11 6th St, Vallejo, CA 94590",http://www.moschetti.com/,greece,wrong_region
+7 Brew Coffee,"2833 W Ridge Rd, Greece, NY 14626",https://7brew.com/,greece,no_shop
+Target,"3181 Chili Ave, Rochester, NY 14624",https://www.target.com/sl/chili/2528,greece,no_store_page
+Oriens Café,"1100 Long Pond Rd #114, Greece, NY 14626",http://www.orienscafe.net/,greece,scrape_failed
+Vertical Cafe,"18 W Buffalo St, Warsaw, NY 14569",http://www.cafevertical.com/,greece,no_store_page
+House Of Whacks,"Mercantile On Main, 250 E Main St, Rochester, NY 14604",http://houseofwhacks585.square.site/,greece,no_coffee_keywords
+Tug Hill Artisan Roasters,"7514 S State St, Lowville, NY 13367",http://tughillartisanroasters.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8525489665835256488,greece,no_store_page
+Sociale Café at del Lago Resort & Casino,"1133 NY-414, Waterloo, NY 13165",https://dellagoresort.com/the-sociale-cafe-bar/,greece,no_shop
+Pino's Deli,"2590 W Ridge Rd, Greece, NY 14626",http://www.pinosdeli.com/,greece,no_shop
+Wildflour,"620 Winton Rd N, Rochester, NY 14609",https://wildflourrochester.com/,greece,no_coffee_keywords
+"Seasoning Thai Bistro Elmwood, Rochester NY","2602 Elmwood Ave, Rochester, NY 14618",http://www.seasoningthaibistro.com/,greece,no_coffee_keywords
+Royal Cafe,"15 N Main St, Fairport, NY 14450",http://www.royalcafegelato.com/,greece,no_shop
+Boscov's,"294 Greece Ridge Center Dr, Rochester, NY 14626",https://locations.boscovs.com/ny/rochester/294-greece-ridge-center-drive.html?utm_source=google&utm_medium=local,greece,no_coffee_keywords
+Lazy Cat Lounge and Cafe,"523 Eastview Mall, Victor, NY 14564",http://lazycatloungeandcafe.com/,greece,no_store_page
+Root 31,"3349 Monroe Ave, Rochester, NY 14618",http://root31.com/,greece,no_coffee_keywords
+The Shops On West Ridge,"3200 W Ridge Rd, Rochester, NY 14626",https://theshopsonwestridge.com/,greece,no_coffee_keywords
+Artisan Coffeehouse of Scottsville,"2 Main St, Scottsville, NY 14546",http://www.artisancoffeehouse.com/,greece,no_store_page
+Burnap's Farm Market & Garden Cafe,"7277 Maple Ave ext, Sodus, NY 14551",http://www.burnapsfarm.com/,greece,no_store_page
+Pilot Coffee Roasters,"117 Ossington Ave, Toronto, ON M6J 2Z2, Canada",https://www.pilotcoffeeroasters.com/,chili,wrong_region
+jitters cafe,"4357 Buffalo Rd, North Chili, NY 14514",http://jittersroc.com/,chili,no_coffee_keywords
+The Dalai Java,"157 S Main St, Canandaigua, NY 14424",http://www.thedalaijavacdga.com/,chili,no_store_page
+Grinds Café and Sweet Shoppe,"122 West Ave, Brockport, NY 14420",https://www.grindscafebrockport.com/,chili,no_store_page
+Old School Cafe,"196 N Main St, Naples, NY 14512",https://www.oldschoolcafeny.com/,chili,no_store_page
+Millie's,"Lorette Wilmot Library, 4245 East Ave, Rochester, NY 14618",https://nazdining.sodexomyway.com/en-us/locations/millies-cafe,chili,no_store_page
+Niblack Foods,"900 Jefferson Rd Building 9 Suite 904, Rochester, NY 14623",http://niblackfoods.com/,chili,no_store_page
+CRISP Rochester,"819 S Clinton Ave, Rochester, NY 14620",http://crisprochester.com/,chili,no_coffee_keywords
+Ellicottville Coffee Company,"16 Washington St rt 219, Ellicottville, NY 14731",https://ellicottvillecoffee.com/,chili,no_store_page
+Touchy Coffee,"625 River St, Troy, NY 12180",http://www.touchycoffee.com/,chili,no_store_page
+Raha Coffee House,"370 Amherst St, Buffalo, NY 14207",http://rahacoffeehouse.com/,chili,no_store_page
+Alias Coffee,"219 4th St, Troy, NY 12180",http://aliascoffee.com/,chili,no_coffee_keywords
+Perfect Blend Cafe & Bakery,"376 Delaware Ave, Delmar, NY 12054",http://www.perfectblendcafe.com/,chili,no_store_page
+Public Espresso,"391 Washington St, Buffalo, NY 14203",http://www.publicespresso.com/,chili,no_store_page
+Labyrinth Press Company,"12 E 4th St, Jamestown, NY 14701",https://www.labpressco.com/,chili,no_store_page
+Aroma Ridge Coffee Roasters,"1831 W Oak Pkwy # C, Marietta, GA 30062",http://aromaridge.com/,henrietta,wrong_region
+Beanz,"Grace Watson Hall, Greenleaf Ct, Rochester, NY 14623",https://www.rit.edu/fa/diningservices/node/114#1,henrietta,no_shop
+The Old Farm Cafe and Dining Experience,"3450 Winton Pl Suite 6, Rochester, NY 14623",https://www.theoldfarmcafe.com/,henrietta,no_shop
+KORNERSTONE COFFEE,"Rear of Building, 1530 Military Rd, Kenmore, NY 14217",http://www.kornerstonecoffee.com/,henrietta,no_store_page
+As Evi Bakery And Restaurant,"2973 W Henrietta Rd, Rochester, NY 14623",https://asevirestaurants.com/,henrietta,no_shop
+Colby's Ice Cream & Bake Shop,"Inside Rush Market (Sonoco Station, 7283 W Henrietta Rd, Rush, NY 14543",http://www.colbysicecreambakery.com/,henrietta,no_shop
+CoreLife Eatery,"100 Marketplace Dr Suite # 520, Rochester, NY 14623",https://www.corelifeeatery.com/,henrietta,no_store_page
+Fire Crust,"4843 W Henrietta Rd, Henrietta, NY 14467",http://www.firecrust.pizza/,henrietta,no_coffee_keywords
+Palmer's Direct To You Market,"900 Jefferson Rd Suite 1000, Rochester, NY 14623",http://www.palmersdirecttoyou.com/,henrietta,no_store_page
+Cracker Barrel Old Country Store,"2075 Hylan Dr, Rochester, NY 14623",https://www.crackerbarrel.com/Locations/States/ny/rochester/387/?utm_source=google&utm_medium=maps&utm_campaign=crackerbarrelurl,henrietta,no_coffee_keywords
+The Distillery Restaurant Henrietta,"3010 S Winton Rd, Henrietta, NY 14623",https://thedistillery.com/,henrietta,no_coffee_keywords
+Tai Chi Bubble Tea,"3300 W Henrietta Rd, Rochester, NY 14623",https://heroorder.com/taichibubbletea/,henrietta,no_coffee_keywords
+Knucklehead Craft Brewing,"426 Ridge Rd, Webster, NY 14580",http://www.knuckleheadcraftbrewing.com/,webster,no_shop
+Sunshine Coffee Roasters,"1932 Palmer Ave, Larchmont, NY 10538",http://www.sunshineroaster.com/,webster,no_store_page
+Mama Lor's Cafe,"1891 Ridge Rd, Webster, NY 14580",http://www.mamalorscafe.com/,webster,no_store_page
+Sergi Coffee Roaster,"780 Sunrise Hwy, West Babylon, NY 11704",http://www.sergicoffee.com/,webster,no_store_page
+Simply Crepes Kitchen and Bar Webster - Penfield,"1229 Bay Rd, Webster, NY 14580",http://www.simplycrepes.com/,webster,no_coffee_keywords
+Roller Coasta Coffee,"769 Horseblock Road, Farmingville, NY 11738",https://rollercoastacoffee.com/,webster,no_store_page
+The Peppered Pig,"1759 Empire Blvd, Webster, NY 14580",http://thepigroc.com/,webster,no_store_page
+The Cobblestone on Main,"109 W Main St, Webster, NY 14580",https://www.cobblestoneonmain.com/,webster,no_coffee_keywords
+Jersey Mike's Subs,"975 Ridge Rd, Webster, NY 14580",https://www.jerseymikes.com/34058/webster-ny?utm_source=google&utm_medium=organic&utm_campaign=listings,webster,no_coffee_keywords
+Busy Bean Cafe,"10 E Main St #106, Victor, NY 14564",http://busybcafe.com/,webster,no_coffee_keywords
+Golden Boys Family Restaurant,"36 W Main St, Webster, NY 14580",https://www.goldenboysny.com/,webster,no_coffee_keywords
+Brimont Bistro,"24 W Main St, Webster, NY 14580",http://brimontbistro.com/,webster,no_coffee_keywords
+Arabica Coffee Co.,"496 River Dr Unit B, Garfield, NJ 07026",http://arabicacoffeeco.com/,penfield,wrong_region
+Penstock Coffee Shop & Roastery,"13 S 3rd Ave suite c, Highland Park, NJ 08904",http://penstockcoffee.com/,penfield,wrong_region
+Aegis Coffee Roasters,"1290 Rich Hwy, DuBois, PA 15801",http://www.aegiscoffeeroasters.com/,penfield,wrong_region
+The 5 Mile Cafe,"2084 Five Mile Line Rd, Penfield, NY 14526",http://fivemilecafe.com/,penfield,no_store_page
+Leo's Bakery and Deli,"101 Despatch Dr, East Rochester, NY 14445",http://www.leosbakeryanddeli.com/,penfield,no_shop
+King's Street Coffee,"121 W 30th St, New York, NY 10001",http://kingsstreetcoffee.com/,penfield,no_shop
+Bruegger's Bagels,"1601 Penfield Rd, Penfield, NY 14625",https://locations.brueggers.com/us/ny/penfield/1601-penfield-road?y_source=1_OTczMjE5OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,penfield,no_store_page
+Iron Smoke Distillery,"111 Parce Ave #5b, Fairport, NY 14450",http://ironsmokedistillery.com/,penfield,no_coffee_keywords
+The Original Steve's Diner,"1694 Penfield Rd, Rochester, NY 14625",https://theoriginalstevesdiner.com/,penfield,no_coffee_keywords
+Wegmans,"2157 Penfield Rd, Penfield, NY 14526",https://www.wegmans.com/stores/penfield-ny/?cid=GMB_Wegmans_2024:aw:ow:gb:gb:ao::,penfield,no_coffee_keywords
+Bright Raven Coffee Roasters,"16001 W SR-84 Weston, Sunrise, FL 33326",https://brightraven.coffee/,brighton,wrong_region
+Barrington Coffee Roasting Company,"165 Quarry Hill Rd, Lee, MA 01238",http://www.barringtoncoffee.com/,brighton,wrong_region
+Hyperion Coffee Co - Ann Arbor,"111 W Liberty St, Ann Arbor, MI 48104",http://hyperioncoffee.com/,brighton,wrong_region
+Hyperion Coffee Co,"306D N River St, Ypsilanti, MI 48198",http://www.hyperioncoffee.com/,brighton,wrong_region
+Graffeo Coffee Roasting Co.,"735 Columbus Ave, San Francisco, CA 94133",http://www.graffeo.com/,brighton,wrong_region
+Bright Raven Coffee Roasters,"16001 W SR-84 Weston, Sunrise, FL 33326",https://brightraven.coffee/,brighton,wrong_region
+Malek's Bakery,"1795 Monroe Ave, Rochester, NY 14618",http://www.maleksbakery.com/,brighton,no_store_page
+Georgie's Bakery,"857 S Clinton Ave, Rochester, NY 14620",https://georgiesbakeryandcafe.com/,brighton,no_shop

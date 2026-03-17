@@ -1,0 +1,89 @@
+Name,Address,Website,source_city,reason
+Hasbeans Ltd.,"130 King St, London, ON N6A 1C5",https://hasbeans.ca/,london,no_store_page
+Variety Cafe,"466 Dufferin Ave, London, ON N6B 1Z7",https://variety-cafe.square.site/,london,no_store_page
+Fire Roasted Coffee Co.,"900 King Street, Western Fair Farmers' & Artisans' Market, 2nd Floor, London, ON N5W 2X7",http://www.fireroastedcoffee.com/,london,no_coffee_keywords
+Browned Cafe (Wharncliffe),"275 Wharncliffe Rd N, London, ON N6H 2C1",https://www.browned.ca/,london,no_store_page
+Canada's Finest Coffee Service,"775 Industrial Rd, London, ON N5V 3N5",http://www.canadasfinestcoffee.com/,london,scrape_failed
+Dark Horse Espresso Bar,"1037 Wellington Rd, London, ON N6E 1W4",https://darkhorseespresso.com/,london,no_store_page
+Heritage Coffee Co. Ltd.,"97 Bessemer Rd, London, ON N6E 1P9",https://heritage-coffee.com/,london,no_shop
+Viola Gourmet,"312 Commissioners Rd W #4B, London, ON N6J 1Y3",http://violagourmet.ca/,london,no_coffee_keywords
+The Evergreen Coffee Lounge,"111 Thames St S, Ingersoll, ON N5C 2T3",https://www.evergreencoffeelounge.ca/,london,no_shop
+Early Bird Coffee,"815 Juliana Dr, Woodstock, ON N4V 1A2",http://earlybirdcoffee.ca/,london,no_store_page
+EcoCoffee,"584 Colby Dr #1, Waterloo, ON N2V 1A2",http://www.eco-coffee.ca/,london,no_store_page
+Sidetrack: A Wortley Café,"136 Wortley Rd, London, ON N6C 3P5",https://sidetrack.cafe/,london,no_store_page
+Saga Board Games & Coffee,"105 King St, London, ON N6A 1C1",http://www.sagagamescafe.com/,london,no_store_page
+Reset Social Cafe,"503 Talbot St, London, ON N6A 2S5",http://www.resetsocial.cafe/,london,no_store_page
+Twins Café,"1135 Richmond St, London, ON N6A 2K5",https://www.twinscafe.ca/,london,no_store_page
+Locomotive Espresso - North,"408 Pall Mall St, London, ON N5Y 2Z2",http://www.locomotiveespresso.com/,london,no_store_page
+Coffee Culture Cafe & Eatery,"260 Dundas St, London, ON N6A 1H3",http://www.coffeeculturecafe.com/,london,no_shop
+The Green Earth Cafe London,"1325 Riverbend Rd Unit 15, London, ON N6K 0K1",https://www.thegreenearthcafe.com/?utm_source=gbp&utm_medium=organic&utm_campaign=listing,london,scrape_failed
+The Bearded Barista,"104 Main St S UNIT A, Rockwood, ON N0B 2K0",http://thebeardedbarista.ca/,london,no_shop
+London Coffee House,"371 Hamilton Rd, London, ON N5Z 1R7",https://cmhatv.ca/londoncoffeehouse/,london,no_coffee_keywords
+Cortoba Café,"312 Commissioners Rd W #4B, London, ON N6J 1Y3",http://www.cortoba.ca/,london,no_store_page
+Black Walnut Bakery Café,"724 Richmond St, London, ON N6A 3H3",http://www.blackwalnutbakerycafe.com/,london,no_store_page
+London Bicycle Café,"320 Thames St Unit 101, London, ON N6A 0E1",https://cafe.londonbicyclecafe.com/?utm_source=gmb&utm_medium=organic&utm_campaign=local,london,no_shop
+Virgin Islands Coffee Roasters,"9718 Estate Thomas Suite 5A, St Thomas 00802, US Virgin Islands",http://virginislandscoffeeroasters.com/,st. thomas,wrong_region
+Virgin Islands Coffee Roasters,"9718 Estate Thomas Suite 5A, St Thomas 00802, US Virgin Islands",http://virginislandscoffeeroasters.com/,st. thomas,wrong_region
+St. Thomas Roasters,"5951 Linglestown Rd, Harrisburg, PA 17112, United States",http://www.stthomasroasters.com/,st. thomas,wrong_region
+Virgin Islands Coffee Roasters,"9718 Estate Thomas Suite 5A, St Thomas 00802, US Virgin Islands",http://virginislandscoffeeroasters.com/,st. thomas,wrong_region
+St. Thomas Roasters,"5951 Linglestown Rd, Harrisburg, PA 17112, United States",http://www.stthomasroasters.com/,st. thomas,wrong_region
+Zesty Dessert Café,"831 Talbot St, St Thomas, ON N5P 1E4",https://live.vibemenu.dev/bWMOaEjqPOLkK7QalvvG,st. thomas,no_coffee_keywords
+Los Frutos Del Café,"750 Talbot St Suite 105, St Thomas, ON N5P 1E2",http://frutosdelcafe.org/,st. thomas,no_store_page
+Streamliners Espresso Bar,"767 Talbot St, St Thomas, ON N5P 1E3",http://www.streamlinersespressobar.com/,st. thomas,no_shop
+Jancat Art,"584 Talbot St, St Thomas, ON N5P 1C4",https://www.jancat.art/,st. thomas,no_store_page
+Tim Hortons,"280 Elm St, St Thomas, ON N5R 1J5",https://locations.timhortons.ca/en/on/st-thomas/280-elm-st,st. thomas,no_store_page
+Why Not Cookies Cafe,"373 Talbot St, St Thomas, ON N5P 1B7",http://www.whynotcookies.ca,st. thomas,no_store_page
+The Fritter Shop St. Thomas,"779 Talbot St, St Thomas, ON N5P 1E3",http://www.thefrittershop.com/,st. thomas,no_coffee_keywords
+Spicer's Bakery In St Thomas,"965 Talbot St, St Thomas, ON N5P 3J2",https://www.spicersbakery.ca/,st. thomas,no_coffee_keywords
+Country Charm Cafe,"310 Wellington St, St Thomas, ON N5R 2N6",http://countrycharmcafe.ca/,st. thomas,no_shop
+Cold Creek Coffee Roasters,"230 Haynes Rd, Castleton, ON K0K 1M0",http://www.coldcreekcoffeeroasters.com/,st. thomas,no_store_page
+Colonial Coffee Co Ltd,"3110 Marentette Ave, Windsor, ON N8X 4G2",http://www.colonialcoffee.ca/,st. thomas,no_shop
+Roy's Coffee Shop,"273 Caradoc St S, Strathroy, ON N7G 2P3",http://royscoffeeshop.com/,strathroy,no_store_page
+Backhome Coffee Roaster,"112 Christina St S, Sarnia, ON N7T 2M6",https://www.backhomecoffee.com/,strathroy,no_shop
+Blackwater Coffee Co.,"177 Christina St N, Sarnia, ON N7T 5T8",http://www.blackwatercoffee.ca/,strathroy,no_shop
+Starbucks Coffee Company,"105 Caradoc St S, Strathroy, ON N7G 2N7",https://www.starbucks.ca/,strathroy,no_store_page
+The Cottage Cafe,"71 River Rd, Grand Bend, ON N0M 1T0",http://www.thecottagecafe.ca/,strathroy,no_store_page
+The Olde Bakery Cafe,"120 Thames St S, Ingersoll, ON N5C 2T4",https://www.oldebakerycafe.com/,ingersoll,no_store_page
+Ingersoll Rails House of Brews,"99 Victoria St, Ingersoll, ON N5C 2S9",http://www.ingersollrails.beer/,ingersoll,no_shop
+Rose and Daffodil Bakery,"120 Thames St N, Ingersoll, ON N5C 1K7",http://www.roseanddaffodilbakery.com/,ingersoll,no_coffee_keywords
+The Woodstock Coffee Company,"9550 Main St Suite #190, Woodstock, GA 30188, United States",https://www.thewoodstockcoffeecompany.com/,woodstock,wrong_region
+Beanstock Coffee Roasters,"165 Holmes Rd, Eastham, MA 02642, United States",http://beanstockcoffee.com/,woodstock,wrong_region
+Evergreen Coffee Roasters,"150 Bee St, Woodstock, ON N4S 3Z4",http://evergreencoffee.ca/,woodstock,no_store_page
+Beantown Coffee,"9 Reeve St, Woodstock, ON N4S 3G1",http://instagram.com/beantowncoffeeco,woodstock,no_shop
+Java Jax Good Roast Coffee & Catering,"93 Grand Ave S, Cambridge, ON N1S 2L7",https://www.javajax.ca/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile,woodstock,no_shop
+Country Style,"Shell Gas Station, 200 Dundas St, Woodstock, ON N4S 1A7",https://www.countrystyle.com/stores/?utm_source=G&utm_medium=LPM&utm_campaign=MTY,woodstock,no_coffee_keywords
+SJ FRESH COFFEE,"16 Water St S, Cambridge, ON N1R 3C5",https://sjfreshcoffee.godaddysites.com/,woodstock,no_shop
+Disko Coffee,"63 Dickson St #1, Cambridge, ON N1R 7A5",https://disko.ca/,woodstock,no_store_page
+Full of Beans Coffee Co,"St Jacobs Farmers Market, 878 Weber St N, Waterloo, ON N2J 4G8",https://www.fullofbeans.co/,woodstock,no_store_page
+Tater's Sandwiches,"495 Dundas St, Woodstock, ON N4S 1C3",http://taterssandwiches.ca/,woodstock,no_shop
+Vintage Coffee Roasters,"977 King St E, Hamilton, ON L8M 1C3",http://www.vintagecoffeeroasters.ca/,woodstock,no_shop
+Lighthouse Coffee Roasters,"35931 Empress Dr #1, Abbotsford, BC V3G 2M8",http://www.lighthousecoffeeroasters.ca/,tillsonburg,wrong_region
+Barking Irons Roastery | Chilliwack Coffee Roaster,"50529 Chilliwack Central Rd, Rosedale, BC V0X 1X2",https://www.barkingironsroastery.com/,tillsonburg,wrong_region
+Craft 42 Roasters,"1178 High Rd, Kelowna, BC V1Y 7B1",http://www.craft42roasters.ca/,tillsonburg,wrong_region
+Barking Irons Roastery | Chilliwack Coffee Roaster,"50529 Chilliwack Central Rd, Rosedale, BC V0X 1X2",https://www.barkingironsroastery.com/,tillsonburg,wrong_region
+Lighthouse Coffee Roasters,"35931 Empress Dr #1, Abbotsford, BC V3G 2M8",http://www.lighthousecoffeeroasters.ca/,tillsonburg,wrong_region
+Coyle's Country Store,"244282 Airport Rd, Tillsonburg, ON N4G 4H1",http://www.coylescountrystore.com/,tillsonburg,no_store_page
+Nectar Bistro & Bar,"117 Broadway St, Tillsonburg, ON N4G 3P5",https://www.nectartillsonburg.ca/,tillsonburg,no_shop
+Kingfisher Cafe,"11 Norfolk St N, Simcoe, ON N3Y 3N6",https://www.kingfishercafe.ca/,tillsonburg,no_store_page
+Korner Perk,"101 Broadway St, Tillsonburg, ON N4G 3P5",https://kornerperk.ca/,tillsonburg,no_shop
+Skyway Cafe Tillsonburg,"244411 Airport Rd, Tillsonburg, ON N4G 4H1",https://www.skywaycafe.ca/,tillsonburg,no_store_page
+TC Brewing Co.,"2008 Dorchester Rd, Dorchester, ON N0L 1G2",http://www.tcbrew.ca/,tillsonburg,no_store_page
+Cafe 1517,"16 Roy Blvd, Brantford, ON N3R 7K2",https://reformedbookservices.com/pages/cafe-1517,tillsonburg,no_store_page
+Golden Grounds Coffee House,"154 Dalhousie St, Brantford, ON N3T 2J4",https://www.yourstudentsunion.ca/golden-grounds,tillsonburg,no_coffee_keywords
+Joy Bakery Café,"126 Robinson St, Simcoe, ON N3Y 1W9",http://www.joyofnorfolk.ca/,tillsonburg,no_coffee_keywords
+Solarien Cafe,"960 King St E, Cambridge, ON N3H 3K7",http://solarien.ca/,tillsonburg,no_shop
+Friday cafe,"75 Dalhousie St, Brantford, ON N3T 2J1",https://fridaycafebrantford.wixsite.com/friday-cafe,tillsonburg,no_shop
+The Social,"7 Main St E, Selkirk, ON N0A 1P0",http://selkirksocial.ca/,tillsonburg,no_store_page
+Tamp Coffee Co.,"480 Brant St, Burlington, ON L7R 2G4",http://tampcoffee.com/,tillsonburg,no_shop
+Alaska Artisan Coffee,"4576 Glenn Hwy, Palmer, AK 99645, United States",http://www.alaskaartisancoffee.com/,aylmer,wrong_region
+Abby Mae's Cafe & Bakery,"516 John St N, Aylmer, ON N5H 0A6",http://abbymaescafeandbakery.com/,aylmer,no_store_page
+Huckleberry Cakes & Coffee,"49 Talbot St E, Aylmer, ON N5H 1H3",http://huckleberrycakes.ca/,aylmer,no_store_page
+Abby Mae's Gluten Free Bakery,"300 Talbot St W, Aylmer, ON N5H 1K2",http://abbymaes.square.site/,aylmer,no_store_page
+Café Mulligan,"149 Principale St, Gatineau, Quebec J9H 3M7",https://www.cafemulligan.com/,aylmer,no_coffee_keywords
+Café British,"79 Principale St, Gatineau, Quebec J9H 4N5",http://thebritish.ca/,aylmer,no_store_page
+Ukrainian Homemade Food,"128 Talbot St E, Aylmer, ON N5H 1H5",https://ukrainianhomefood.ca/,aylmer,no_coffee_keywords
+Walker Dairy Bar,"49681 Talbot St E, Aylmer, ON N5H 2W1",http://walkerfarms.ca/,aylmer,no_store_page
+Pinecroft,"8122 Rogers Rd, Aylmer, ON N5H 2R4",https://pinecroft.ca/,aylmer,no_coffee_keywords
+Beanzz,"207 Christina St N, Sarnia, ON N7T 5T9",https://www.beanzzsarnia.com/,sarnia,no_store_page
+Coffee Lodge,"400 Exmouth St, Sarnia, ON N7T 5N9",http://www.coffeelodge.ca/,sarnia,no_store_page
+Greens,"196 Christina St N, Sarnia, ON N7T 5V3",http://greenssarnia.com/,sarnia,no_shop

@@ -1,0 +1,7 @@
+pandas
+requests
+beautifulsoup4
+playwright
+playwright-stealth
+openai
+python-dotenv

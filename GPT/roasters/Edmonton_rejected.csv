@@ -1,0 +1,93 @@
+Name,Address,Website,source_city,reason
+Standing Wave Coffee,"2024 Sarah St, Pittsburgh, PA 15203, United States",https://www.standingwavecoffee.com/,edmonton,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084, United States",https://3rdwavecoffee.com/,edmonton,wrong_region
+Kaffa Roaster and Studio,"10920 88 Ave NW, 10920 88ave nw #201, Edmonton, AB T6G 0Z1",https://www.kaffaroasterystudio.com/,edmonton,no_store_page
+NXT Roasters - Freshly roasted coffee,"10352 68 Ave NW, Edmonton, AB T6H 2A7",https://nxtroasters.com/,edmonton,no_shop
+The Wall Coffee Roasters,"27717 Acheson Rd, Acheson, AB T7X 6B1",https://www.thewallcoffeeroasters.com/,edmonton,no_store_page
+BOXCAR COFFEESHOP,"11926 129 Ave NW, Edmonton, AB T5E 0N3",http://boxcarcoffeeshop.ca/,edmonton,no_shop
+Stopgap Coffee,"9749 111 St NW, Edmonton, AB T5K 0E1",http://www.stopgapcoffee.com/,edmonton,no_shop
+Jafa Coffee,"13131 35 St NW, Edmonton, AB T5A 5C6",https://jafacoffee.com/,edmonton,no_store_page
+ADD Coffee,"11624 145 St NW, Edmonton, AB T5M 1V8",http://www.addcoffee.ca/,edmonton,no_shop
+Tea And Coffee Company,"10561 111 St NW, Edmonton, AB T5H 3E8",http://www.teaandcoffeecompany.com/,edmonton,scrape_failed
+Bar Oro Caffè & Lounge,"10550 Jasper Ave, Edmonton, AB T5J 1Z7",http://www.baroro.ca/,edmonton,no_shop
+Respire Coffeehouse,"3550 76 Ave NW, Edmonton, AB T6B 2N8",https://www.respirecoffee.ca/,edmonton,no_shop
+Roam Cafe,"10130 112 St NW, Edmonton, AB T5K 2K4",http://roamcafeyeg.com/,edmonton,no_shop
+Coffee Bureau - Mercury Block,"12316 102 Ave NW, Edmonton, AB T5N 3S3",http://coffeebureau.square.site/,edmonton,scrape_failed
+PACT Coffee,"10370 Whyte Ave NW, Edmonton, AB T6E 1Z8",http://www.pactcoffee.ca/,edmonton,no_shop
+Island Brew Coffee House,"10802 124 St, Edmonton, AB T5M 0H3",http://islandbrewcoffee.ca/,edmonton,no_store_page
+BE Coffee,"11015 26 Ave NW, Edmonton, AB T6J 5V3",http://www.becoffeeyeg.ca/,edmonton,no_shop
+Milk & Honey,"6315 199 St NW, Edmonton, AB T5T 6N2",https://www.instagram.com/milkandhoney.gl?igsh=ZmI1dXdzbGQ4aGU5,edmonton,no_coffee_keywords
+Lui-Chi’s Coffee,"10020 101A Ave, Edmonton, AB T5J 3G2",http://www.luichiscoffee.com/,edmonton,no_shop
+Square 1 Coffee - Mayfield,"16819 111 Ave NW, Edmonton, AB T5M 2S4",https://www.square1coffee.ca/,edmonton,no_shop
+Cafe Bel-Air,"8020 101 St NW, Edmonton, AB T6E 3R1",https://www.cafebelair.ca/,edmonton,no_coffee_keywords
+Tala Coffee Trading,"3305 Orchards Link SW #104, Edmonton, AB T6X 2H1",http://talacoffee.ca/,edmonton,no_shop
+Doorstep Barista,"9807 62 Ave NW, Edmonton, AB T6E 0E4",https://doorstepbarista.ca/,edmonton,no_shop
+Cloverdale Coffee,"9407 98 Ave NW, Edmonton, AB T6C 2C8",http://www.cloverdalecoffee.ca/,edmonton,no_shop
+Planet Coffee Edmonton,"9408 39 Ave NW, Edmonton, AB T6E 5T9",https://www.planetedmonton.com/,edmonton,no_shop
+Awake Coffee House,"11029 9 Ave NW, Edmonton, AB T6J 6T5",http://awake.cafe/,edmonton,no_shop
+The Woodrack Café,"10324 Whyte Ave NW #102, Edmonton, AB T6E 1Z8",http://www.thewoodrackcafe.com/,edmonton,no_shop
+ANVIL Coffee House,"6148 90 Ave NW, Edmonton, AB T6B 0P2",http://anvilcoffeehouse.com/,edmonton,no_shop
+Krew Cafe,"5722 111 St NW, Edmonton, AB T6H 3G1",https://krew-cafe.square.site/,edmonton,scrape_failed
+Block 1912 Cafe,"10361 Whyte Ave NW, Edmonton, AB T6E 1Z9",http://www.block1912.com/,edmonton,no_shop
+Take Care Cafe,"9621 Whyte Ave NW, Edmonton, AB T6C 0Z9",http://www.takecarecafe.co/,edmonton,no_shop
+Brown Butter Cafe,"1528 91 St SW, Edmonton, AB T6X 1M5",http://www.brownbuttercafe.com/,edmonton,no_shop
+Credo Coffee,"10134 104 Street NW, Edmonton, AB T5J 0B5",http://www.credocoffee.ca/,edmonton,no_shop
+Dirtbag Cafe,"10505 107 St NW, Edmonton, AB T5H 2Y5",https://www.rockjungleclimbing.ca/dirtbag-cafe,edmonton,no_shop
+Waves Coffee House - WEM,"8882 170 St NW k013, Edmonton, AB T5T 3J7",https://www.wavescoffee.ca/,edmonton,scrape_failed
+District Café & Bakery,"10011 109 St NW #101, Edmonton, AB T5J 0B9",https://districtcafe.ca/,edmonton,no_shop
+Waves Coffee House - Rabbit Hill,"5124 Mullen Rd, Edmonton, AB T6R 0S9",http://wavescoffee.com/,edmonton,scrape_failed
+Andromeda Coffee,"607 Patricia St Upper Level, Jasper, AB T0E 1E0",https://snowdome.coffee/,edmonton,no_shop
+Farrow Ritchie,"9855 76 Ave NW, Edmonton, AB T6E 1K6",http://farrowsandwiches.ca/,edmonton,no_shop
+Turkish Coffee House,"24 Perron St Unit 50, St. Albert, AB T8N 1E7",https://www.turkishcoffeehouse.ca/,st. albert,no_shop
+Sunday coffee roaster,"114 Wylie Pl, Fort McMurray, AB T9H 4R4",http://sundaycoffee.ca/,st. albert,no_shop
+TasTea Yours,"31 Fairview Blvd #101, St. Albert, AB T8N 3M5",https://www.facebook.com/tasteayours,st. albert,no_coffee_keywords
+Tealicious Blend,"11 St Anne St, St. Albert, AB T8N 1E8",http://www.tealiciousblend.com/,st. albert,no_shop
+Confections cake co.,"15 Perron St Unit 140, St. Albert, AB T8N 1E5",http://www.confectionscakeco.com/,st. albert,no_coffee_keywords
+...is good Coffee Bar & more,"4715 50 Ave Unit 201, Calmar, AB T0C 0V0",http://www.isgoodcoffeebar.ca/,st. albert,no_shop
+Glasshouse Kitchen|Bar,"Entrance - Glasshouse Gate, 100, 101 Riel Dr, St. Albert, AB T8N 3X4",http://www.glasshousekitchenbar.com/,st. albert,no_coffee_keywords
+"Canadian Roasting Society, Dreamy Cafe.","3780 Saint-Patrick St., Montreal, Quebec H4E 1A2",https://www.canadianroastingsociety.ca/,st. albert,no_shop
+Good Earth Coffeehouse,"130 Bellerose Dr, St. Albert, AB T8N 8N8",http://goodearthcoffeehouse.com/,st. albert,no_shop
+BreadLove Inc,"46C St Michael St, St. Albert, AB T8N 1C9",http://www.breadlove.ca/,st. albert,no_coffee_keywords
+Leduc Coffee Shop,"4728 50th Ave, Leduc, AB T9E 6Y6",http://www.magpiescollection.com/,leduc,no_shop
+Range Road Roasters,"48434 Range Rd 281, Thorsby, AB T0C 2P0",http://www.rangeroadroasters.ca/,leduc,no_shop
+Prestigio Bakery,"5210 50th Ave, Leduc, AB T9E 6V2",http://www.prestigiobakerybistro.com/,leduc,no_coffee_keywords
+The Coffee Shop in Devon,"3 Superior St Unit 102, Devon, AB T9G 1E9",http://www.thecoffeeshopindevon.ca/,leduc,no_coffee_keywords
+Phat Tony's Bistro & Cafe,"5607A 50 St, Leduc, AB T9E 6Z7",http://www.phattonys.ca/,leduc,no_shop
+G.O.A.T Coffee Co,"3805 48 Ave, Camrose, AB T4V 2Y9",http://www.thegoatcoffeeco.ca/,leduc,no_shop
+LOS ANDES COFFEE ROASTERS & PASTRIES,"5373 Edgemont Blvd NW, Edmonton, AB T6M 3C6",http://www.losandescoffeeroasters.ca/,leduc,scrape_failed
+Foreword Specialty Coffee Roasters,"370 Hwy 7, Richmond Hill, ON L4B 1A7",https://forewordroasters.ca/,fort saskatchewan,wrong_region
+Venn Coffee Roasters,"216 Avenue D N, Saskatoon, SK S7L 1M6",http://www.venncoffeeroasters.com/,fort saskatchewan,wrong_region
+1905 Coffee Company,"NW 03-40-04 West of the 3rd Meridian, Osler, SK S0K 3A0",https://1905coffeecompany.ca/,fort saskatchewan,wrong_region
+SasKoffee Roastery,"RM of, 19 21 W2 NE 28, Lumsden No. 189, SK S0G 3C0",https://saskoffeeroastery.ca/,fort saskatchewan,wrong_region
+Duck Mountain Coffee Roasting Company,"2050 Pinkie Rd, Regina, SK S4R 8R6",http://duckmountaincoffee.square.site/,fort saskatchewan,wrong_region
+Prairie Bean Roastery 219 LTD,"Outlook, SK S0L 2N0",http://www.prairiebean.com/,fort saskatchewan,wrong_region
+Caliber Coffee Roasters,"1400 St John St, Regina, SK S4R 1S4",http://www.calibercoffee.ca/,fort saskatchewan,wrong_region
+Black Pearl Coffee - Beans,"Black pearl, 460 Dufferin Ave., Winnipeg, MB R2W 2Y5",http://www.blackpearlcoffee.ca/,fort saskatchewan,wrong_region
+Zemona Coffee,"West, 7th Ave. W, Watrous, SK S0K 4T0",https://www.zemona.ca/,fort saskatchewan,wrong_region
+SasKoffee Roastery,"RM of, 19 21 W2 NE 28, Lumsden No. 189, SK S0G 3C0",https://saskoffeeroastery.ca/,fort saskatchewan,wrong_region
+Venn Coffee Roasters,"216 Avenue D N, Saskatoon, SK S7L 1M6",http://www.venncoffeeroasters.com/,fort saskatchewan,wrong_region
+Duck Mountain Coffee Roasting Company,"2050 Pinkie Rd, Regina, SK S4R 8R6",http://duckmountaincoffee.square.site/,fort saskatchewan,wrong_region
+Prairie Bean Roastery 219 LTD,"Outlook, SK S0L 2N0",http://www.prairiebean.com/,fort saskatchewan,wrong_region
+Caliber Coffee Roasters,"1400 St John St, Regina, SK S4R 1S4",http://www.calibercoffee.ca/,fort saskatchewan,wrong_region
+Mokha Coffee House,"5344 Admiral Girouard St, Edmonton, AB T5X 3N5",http://mymokhacafe.com/,fort saskatchewan,no_shop
+Spinelli's Bar Italia,"Sherwood Park, AB T8H 0P1",https://italiancentre.ca/spinellis-bar-italia/,fort saskatchewan,no_shop
+Starbucks Coffee Company,"112 Town Crest Rd, Fort Saskatchewan, AB T8L 0G7",https://www.starbucks.ca/,fort saskatchewan,no_shop
+Nuestra Coffee Shop,"7601 112 Ave NW, Edmonton, AB T5B 0H4",https://www.nuestra.ca/,fort saskatchewan,no_shop
+Cafe Haven,"9 Sioux Rd, Sherwood Park, AB T8A 4C7",http://www.cafehaven.ca/,fort saskatchewan,scrape_failed
+Strada Coffee Co.,"5003 50 Ave, Camrose, AB T4V 0S4",https://stradacoffeeco.com/,fort saskatchewan,no_shop
+Station Coffee Co.,"644 2 St SE, Medicine Hat, AB T1A 0C9",https://stationcoffeeco.ca/,fort saskatchewan,no_shop
+Dara's Luxury Decor & Coffee Bar,"5111 50 St, Stony Plain, AB T7Z 1T5",http://www.daras.ca/,fort saskatchewan,no_shop
+Morning Brew (192),"51056 Range Rd 204, Sherwood Park, AB T8G 1E5",http://morningbrew192.com/,fort saskatchewan,no_shop
+Felice Cafe,"10930 84 Street NW, Edmonton, AB T5H 1M7",https://www.felicecafe.ca/,fort saskatchewan,no_shop
+ch. Cafeteria,"14802 Stony Plain Rd, Edmonton, AB T5N 3S5",https://chcafeteria.ca/,fort saskatchewan,no_shop
+Tim Hortons,"10080 88 Ave, Fort Saskatchewan, AB T8L 0J4",http://locations.timhortons.ca/en/ab/fort-saskatchewan/10080-88-ave,fort saskatchewan,no_shop
+Fort Saskatchewan Home Hardware Building Centre,"8817 111 St, Fort Saskatchewan, AB T8L 3S6",https://www.homehardware.ca/en/store/50314?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=50314,fort saskatchewan,no_coffee_keywords
+Walmart Supercentre,"9551 87 Ave, Fort Saskatchewan, AB T8L 4N3",https://www.walmart.ca/en/store/5753?utm_source=local&utm_medium=listings&utm_campaign=sc&cmpid=gmb,fort saskatchewan,no_coffee_keywords
+Great North Cookie Co.,"20 McLeod Ave #1, Spruce Grove, AB T7X 3Y1",http://www.greatnorthcookieco.com/,spruce grove,no_coffee_keywords
+Bubble Tea & Coffee Lab -Spruce Grove,"100 King St #3, Spruce Grove, AB T7X 0J6",http://www.btcl.ca/,spruce grove,no_shop
+Perks Coffee House,"420 King St #9, Spruce Grove, AB T7X 2C5",http://perkscoffeehouse.ca/,spruce grove,no_shop
+The Mill Artisanal Bakery,"Spruce Grove, AB T0E 0N0",http://www.themillbakery.ca/,spruce grove,no_coffee_keywords
+Mogiana Coffee,"7037 Antrim Ave, Burnaby, BC V5J 4M5",http://www.mogianacoffee.com/,beaumont,wrong_region
+Caffe Monte Coffee Roasters,"6703 30 St SE, Calgary, AB T2C 1N6",http://www.caffemonte.com/,beaumont,scrape_failed
+Jef's Café,"5012 50 St, Beaumont, AB T4X 1E6",http://jefscafe.ca/,beaumont,no_shop
+The Foxhole Canteen,"10220 100 Ave, Morinville, AB T8R 1P9",https://foxholecanteen.ca/,morinville,no_shop

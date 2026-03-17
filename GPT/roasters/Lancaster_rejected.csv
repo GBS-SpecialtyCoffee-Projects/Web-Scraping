@@ -1,0 +1,230 @@
+Name,Address,Website,source_city,sub_city,state,reason
+Little Goat Coffee Roasting Co.,"16 Haines St, Newark, DE 19711",http://www.littlegoatcoffeeroasting.com/,Lancaster,lancaster,PA,wrong_region
+Lancaster Coffee Co. & Cafe,"24 Central Ave, Lancaster, NY 14086",https://lancastercoffeeco.getrestaurantops.com/,Lancaster,lancaster,PA,wrong_region
+Little Goat Coffee Roasting Co.,"16 Haines St, Newark, DE 19711",http://www.littlegoatcoffeeroasting.com/,Lancaster,lancaster,PA,wrong_region
+Lancaster Coffee Co. & Cafe,"24 Central Ave, Lancaster, NY 14086",https://lancastercoffeeco.getrestaurantops.com/,Lancaster,lancaster,PA,wrong_region
+Hopeful Brews,"2467 Old Philadelphia Pike, Lancaster, PA 17602",https://hopefulbrews.com/,Lancaster,lancaster,PA,no_store_page
+Mean Cup,"398 Harrisburg Ave, Lancaster, PA 17603",http://www.meancup.com/,Lancaster,lancaster,PA,no_shop
+Daily Brew Coffee Trailer,"2584 Horseshoe Rd, Lancaster, PA 17601",https://dailybrewcoffeetrailer.square.site/,Lancaster,lancaster,PA,no_store_page
+Last Call Coffee,"53 McGovern Ave, Lancaster, PA 17602",http://www.lastcall.coffee.com/,Lancaster,lancaster,PA,scrape_failed
+Lancaster Beignet Company,"230 N Prince St, Lancaster, PA 17603",http://www.lancasterbeignetco.com/,Lancaster,lancaster,PA,no_store_page
+Endo Cafe Lancaster,"237 N Prince St, Lancaster, PA 17603",https://endotuneup.com/,Lancaster,lancaster,PA,no_coffee_keywords
+Restless Coffee Co,"2495 Lincoln Hwy E, Lancaster, PA 17602",https://restlesscoffeeco.com/,Lancaster,lancaster,PA,no_store_page
+Joe on the Go Coffee Co at Lampeter Cafe,"1702 Lampeter Rd, Lancaster, PA 17602",https://www.joeonthegocoffeeco.com/,Lancaster,lancaster,PA,no_store_page
+Wittness Coffeehouse,"1 E Main St Suite 1, Strasburg, PA 17579",http://www.wittnesscoffeehouse.com/,Lancaster,lancaster,PA,no_shop
+Edd's & Flo's Artisan Bakery Cafe,"47 N Queen St, Lancaster, PA 17603",http://www.eddsandflos.com/,Lancaster,lancaster,PA,no_store_page
+Noel's Cafe,"1669 Old Philadelphia Pike, Lancaster, PA 17602",https://www.noelscafe.com/,Lancaster,lancaster,PA,no_shop
+Chevere Cafe,"910 S Duke St Suite 105, Lancaster, PA 17602",https://www.cheverecafe.com/,Lancaster,lancaster,PA,no_shop
+Linden Coffee,"2916 Old Philadelphia Pike, Ronks, PA 17572",https://www.drinklindencoffee.com/,Lancaster,lancaster,PA,no_store_page
+Butter and Bean Cafe-Tanger Outlets,"307 Stanley K Tanger Dr Suite 307, Lancaster, PA 17602",http://www.butterandbeanpa.com/,Lancaster,lancaster,PA,no_shop
+Pa Dutch Coffee Co.,"N Hollander Rd, Gordonville, PA 17529",https://www.padutchcoffee.com/,Lancaster,lancaster,PA,no_store_page
+Lancaster Pie & Coffee,"136 N Prince St, Lancaster, PA 17603",https://www.lancasterpieandcoffee.com/,Lancaster,lancaster,PA,no_store_page
+Wired Cup Cafe,"216 N Duke St, Lancaster, PA 17602",https://wiredcupcafe.com/,Lancaster,lancaster,PA,no_store_page
+Copper Cup Lancaster,"922 Columbia Ave, Lancaster, PA 17603",http://coppercup.co/,Lancaster,lancaster,PA,no_store_page
+Front Porch Baking Co.,"170 E King St, Lancaster, PA 17602",http://www.frontporchbakingco.com/,Lancaster,lancaster,PA,no_coffee_keywords
+Chestnut Hill Cafe,"532 W Chestnut St, Lancaster, PA 17603",http://www.chestnuthilllancaster.com/,Lancaster,lancaster,PA,no_shop
+Cafe One Eight,"18 W Orange St, Lancaster, PA 17603",http://www.cafe1eight.com/,Lancaster,lancaster,PA,no_store_page
+Parlor Doughnuts,"2350 Lincoln Hwy E, Lancaster, PA 17602",https://www.parlordoughnuts.com/,Lancaster,lancaster,PA,no_store_page
+Javateas Gourmet Coffee Cafe,"1 Dutchland Ave, Ephrata, PA 17522",http://www.javateas.com/,Lancaster,lancaster,PA,no_store_page
+Four Monkeys Coffee Shop and Roastery,"100 Constitution Blvd, Kutztown, PA 19530",http://www.fourmonkeyscoffee.com/,Lancaster,lancaster,PA,no_store_page
+Speckled Hen,"141 E Main St, Strasburg, PA 17579",http://www.speckledhencoffee.com/,Lancaster,lancaster,PA,no_store_page
+Ric's Bread,"24 N Queen St, Lancaster, PA 17603",https://ricsbread.com/,Lancaster,lancaster,PA,no_store_page
+La Dolce Vita Courthouse Bakery,"9 N Duke St, Lancaster, PA 17602",http://www.ladolcevitalancaster.com/,Lancaster,lancaster,PA,no_shop
+Cafe Arabella,"40 E Main St #1947, Lititz, PA 17543",http://www.cafearabella.com/,Lancaster,lancaster,PA,no_store_page
+DELICIAS GOURMET,"243 Green St, Lancaster, PA 17602",https://deliciasgourmetpa.com/,Lancaster,lancaster,PA,no_coffee_keywords
+Aura Little Cafe - Espresso & Boba Tea,"44 N Queen St, Lancaster, PA 17603",https://www.auralittlecafe.com/,Lancaster,lancaster,PA,no_store_page
+Mayhem's Bookstore & Board Game Café,"102 W King St, Lancaster, PA 17603",https://mayhemscafe.com/,Lancaster,lancaster,PA,no_store_page
+Latte Luv,"214 Hartman Bridge Rd, Ronks, PA 17572",https://www.strasburgmarketplace.com/latte-luv.php,Lancaster,lancaster,PA,no_store_page
+The Coffee Host,"10 E Penn Grant Rd, Willow Street, PA 17584",https://www.facebook.com/profile.php?id=61566560416275,Lancaster,lancaster,PA,no_shop
+Main Street Café,"2384 New Holland Pike, Lancaster, PA 17601",http://worshipcenter.org/cafe,Lancaster,lancaster,PA,no_shop
+Starbucks Coffee Company,"1581 Fruitville Pike, Lancaster, PA 17601",https://www.starbucks.com/store-locator/store/1021546,Lancaster,lancaster,PA,no_store_page
+Hitch Coffee Truck -Drive through only,"346 Hershey Rd, Elizabethtown, PA 17022",http://www.hitch-coffee.com/,Lancaster,lancaster,PA,no_store_page
+Indulge Lititz (within Artisan Mill),"813 Rothsville Rd, Lititz, PA 17543",http://www.indulgelititz.com/,Lancaster,lancaster,PA,no_store_page
+The Roaming Roast,"116 E King St, York, PA 17401",https://roamingroastcafe.com/,Lancaster,lancaster,PA,scrape_failed
+Folklore Coffee & Co.,"1 N Market St, Elizabethtown, PA 17022",http://www.folklorecoffee.com/,Lancaster,lancaster,PA,no_shop
+Grounding,"252 N Franklin St Ste C, Red Lion, PA 17356",https://www.groundingcoffee.com/,Lancaster,lancaster,PA,no_store_page
+Lancaster Central Market,"23 N Market St, Lancaster, PA 17603",http://www.centralmarketlancaster.com/,Lancaster,lancaster,PA,no_coffee_keywords
+Morgantown Coffee House,"4997 N Twin Valley Rd, Elverson, PA 19520",http://mcoffeehouse.com/,Lancaster,lancaster,PA,no_store_page
+Lancaster Sweet Shoppe,"141 N Duke St, Lancaster, PA 17602",http://lancastersweetshoppe.com/,Lancaster,lancaster,PA,no_coffee_keywords
+York Coffee Roastery,"132 Blackburn St, York, SC 29745",http://www.yorkcoffeeroastery.com/,Lancaster,york,PA,wrong_region
+Premium Coffee Company,"2510 Hamburg Turnpike, Buffalo, NY 14218",http://premiumcoffeeco.com/,Lancaster,york,PA,wrong_region
+Royal New York,"661 Hadley Rd, South Plainfield, NJ 07080",http://www.royalny.com/,Lancaster,york,PA,wrong_region
+OneDo Coffee Roasters,"913 S Lakewood Ave, Baltimore, MD 21224",http://www.onedocoffee.com/,Lancaster,york,PA,wrong_region
+York Coffee Roastery,"132 Blackburn St, York, SC 29745",http://www.yorkcoffeeroastery.com/,Lancaster,york,PA,wrong_region
+Belmont Bean Co,"18 S Belmont St, York, PA 17403",http://www.belmontbean.com/,Lancaster,york,PA,no_store_page
+Britton Coffee Co - York,"1125 Edgar St, York, PA 17403",https://www.thebrittoncoffee.com/,Lancaster,york,PA,no_store_page
+Gather 256,"256 W Philadelphia St, York, PA 17401",http://gather256.com/,Lancaster,york,PA,no_store_page
+The Copper Crust Co.,"966 S George St, York, PA 17403",https://thecoppercrustcompany.com/,Lancaster,york,PA,no_coffee_keywords
+Colonial Coffee Shop,"938 S George St, York, PA 17403",https://colonialcoffeeshop.com/,Lancaster,york,PA,no_store_page
+Common Grounds,"109 E Main St, Dallastown, PA 17313",http://www.gotobethlehem.org/cafe,Lancaster,york,PA,no_coffee_keywords
+Janina's Fine Desserts,"176 Leader Heights Rd, York, PA 17402",http://www.janinasfinedesserts.com/,Lancaster,york,PA,no_shop
+7 Brew Coffee,"3140 Cape Horn Rd, Red Lion, PA 17356",https://7brew.com/location/pennsylvania-red-lion-000297,Lancaster,york,PA,no_store_page
+Perrydell Farm and Dairy,"90 Indian Rock Dam Rd, York, PA 17403",http://www.perrydellfarm.com/,Lancaster,york,PA,no_coffee_keywords
+Leg Up Farmers Market,"3100 N George St, York, PA 17406",http://legupfarmersmarket.com/,Lancaster,york,PA,no_coffee_keywords
+Safe & Sweet,"2131 S Queen St, York, PA 17403",http://www.safensweetyork.com/,Lancaster,york,PA,no_coffee_keywords
+Splitshift,"33-35 W Market St, York, PA 17401",https://splitshiftyork.com/,Lancaster,york,PA,no_coffee_keywords
+Whitecomb's Farm Market,"2410 Roosevelt Ave, York, PA 17408",https://www.whitecombsfarmmarket.com/,Lancaster,york,PA,no_store_page
+Stauffer's Cookie Outlet,"375 S Belmont St, York, PA 17403",https://meijiamerica.com/,Lancaster,york,PA,no_coffee_keywords
+Festive Board,"2031 Springwood Rd, York, PA 17403",http://www.festiveboardonline.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2891765004905151246,Lancaster,york,PA,no_coffee_keywords
+Maple Donuts,"204 St Charles Way # A, York, PA 17402",https://www.mapledonuts.com/,Lancaster,york,PA,no_coffee_keywords
+The Stage Deli on George,"26 N George St, York, PA 17401",https://deliborodin.wixsite.com/stage-deli-on-george,Lancaster,york,PA,no_shop
+Exotic Snaxx,"1216 Greensprings Dr, York, PA 17402",http://www.exoticsnaxx.com/,Lancaster,york,PA,no_coffee_keywords
+Kung Fu Tea,"2035 Springwood Rd, York, PA 17403",https://www.kungfutea.com/,Lancaster,york,PA,no_store_page
+Tucker&Co. Bakery,"148 S Baltimore St, Dillsburg, PA 17019",http://www.tuckercobakery.com/,Lancaster,york,PA,no_store_page
+Cracker Barrel Old Country Store,"236 Pauline Dr, York, PA 17402",https://www.crackerbarrel.com/Locations/States/pa/york/199/?utm_source=google&utm_medium=maps&utm_campaign=crackerbarrelurl,Lancaster,york,PA,no_coffee_keywords
+New Eastern Market,"201 Memory Ln, York, PA 17402",https://neweasternmarket.com/,Lancaster,york,PA,no_coffee_keywords
+Sips Cafe - Downtown York,"9 W Philadelphia St, York, PA 17401",http://www.sips-cafe.com/,Lancaster,york,PA,no_store_page
+Take Five Expresso Bar,"34 W Philadelphia St, York, PA 17401",https://www.centralmarketyork.com/vendorblog/2015/12/29/take-five-expresso-bar,Lancaster,york,PA,no_store_page
+Common Ground / 3rd Space,"2 S Front St, York Haven, PA 17370",https://commongroundcn.org/3rd-space-1,Lancaster,york,PA,no_shop
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,Lancaster,harrisburg,PA,wrong_region
+Black Acres Roastery - Lexington Market,"112 N Eutaw St Lexington, Market - Stall, #42, Baltimore, MD 21201",https://www.blackacrescoffee.com/,Lancaster,harrisburg,PA,wrong_region
+Eagle Coffee Co Inc,"1019 Hillen St, Baltimore, MD 21202",https://eaglecoffee.com/,Lancaster,harrisburg,PA,wrong_region
+Dublin Roasters Coffee,"1780 N Market St, Frederick, MD 21701",https://dublinroasterscoffee.com/,Lancaster,harrisburg,PA,wrong_region
+"Gracefully Coffee Roasters, Inc.","2601 Rolling Rd. #104, Windsor Mill, MD 21244",http://www.gracefullycoffee.com/,Lancaster,harrisburg,PA,wrong_region
+Vent Coffee Roasters,"Union Collective, 1700 W 41st St #480, Baltimore, MD 21211",http://ventcoffee.com/,Lancaster,harrisburg,PA,wrong_region
+Consciousness Coffee,"1 Lemoyne Square Suite 108, Lemoyne, PA 17043",https://consciousness.coffee/,Lancaster,harrisburg,PA,no_shop
+Yellow Bird Café,"1320 N 3rd St, Harrisburg, PA 17102",http://yellowbird.arqbox.com/,Lancaster,harrisburg,PA,no_shop
+Cornerstone Coffeehouse,"2133 Market St, Camp Hill, PA 17011",http://www.thecornerstonecoffeehouse.com/,Lancaster,harrisburg,PA,no_store_page
+Cafe Fresco Linglestown,"2017 Eg Dr, Harrisburg, PA 17110",https://www.cafefrescolinglestown.com/,Lancaster,harrisburg,PA,no_store_page
+Brew Crumberland's Best,"1903 Bridge St, New Cumberland, PA 17070",http://www.bcbcoffee.com/,Lancaster,harrisburg,PA,no_store_page
+Bagel Lovers Café,"2237 Paxton Church Rd, Harrisburg, PA 17110",http://www.bagelloverscafe.com/,Lancaster,harrisburg,PA,no_store_page
+Broad Street Market,"Broad Street Market, 1233 N 3rd St, Harrisburg, PA 17102",https://broadstreetmarket.org/,Lancaster,harrisburg,PA,no_shop
+Cafe Fresco Center City,"215 N 2nd St, Harrisburg, PA 17101",http://www.cafefresco.com/,Lancaster,harrisburg,PA,no_store_page
+Speakeasy Coffee Company,"875 Main St, Pennsburg, PA 18073",http://www.speakeasycoffeecompany.com/,Lancaster,harrisburg,PA,no_store_page
+Idea Coffee,"Market House Ln, Mechanicsburg, PA 17055",http://idea-coffeehouse.com/,Lancaster,harrisburg,PA,no_store_page
+The Millworks,"340 Verbeke St, Harrisburg, PA 17102",http://www.millworksharrisburg.com/,Lancaster,harrisburg,PA,no_store_page
+Profile Coffee Company,"185 S Market St, Elysburg, PA 17824",https://www.profilecoffeeandroasters.com/?srsltid=AfmBOooRDGy08YhBWoB8JcWkGwmXFfjA2kSJj8eTQwK-vuMRFC4vuMc4,Lancaster,harrisburg,PA,no_store_page
+The Sturges Speakeasy,"400 Forster St, Harrisburg, PA 17102",http://sturgesspeakeasy.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Appalachian Brewing Company,"50 N Cameron St, Harrisburg, PA 17101",http://www.abcbrew.com/,Lancaster,harrisburg,PA,no_store_page
+Williams-Sonoma,"2571 Brindle Dr, Harrisburg, PA 17110",https://www.williams-sonoma.com/stores/us-pa-harrisburg-shops-at-susquehanna-mkpl/,Lancaster,harrisburg,PA,no_coffee_keywords
+Rice & Beans Bar and Restaurant,"319 S 17th St, Harrisburg, PA 17104",https://riceandbeansbarrestaurant.com/,Lancaster,harrisburg,PA,no_store_page
+Downtown Deli And Catering,"225 Market St #1, Harrisburg, PA 17101",http://downtowndeli.catering/,Lancaster,harrisburg,PA,no_store_page
+Bella Sicilia,"79 Erford Rd, Camp Hill, PA 17011",https://bellasiciliapa.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Front Street Diner,"4003 N Front St, Harrisburg, PA 17110",http://frontstreetdiner.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Market,"3700 Market St, Camp Hill, PA 17011",http://www.3700market.com/,Lancaster,harrisburg,PA,no_store_page
+Lancaster Brewing Company - Harrisburg,"469 Eisenhower Blvd, Harrisburg, PA 17111",https://www.lancasterbrewing.com/,Lancaster,harrisburg,PA,no_store_page
+Ad Lib Craft Kitchen & Bar,"1 N 2nd St, Harrisburg, PA 17101",http://adlibrestaurants.com/,Lancaster,harrisburg,PA,no_shop
+Harvest Seasonal Grill - Harrisburg,"2625 Brindle Dr, Harrisburg, PA 17110",https://harvestseasonal.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Capital City Music Hall,"234 N 2nd St, Harrisburg, PA 17101",https://www.capcitymusichall.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Stock's on 2nd,"211 N 2nd St, Harrisburg, PA 17101",http://www.stocksonsecond.com/menu/,Lancaster,harrisburg,PA,no_shop
+Bass Pro Shops,"3501 Paxton St, Harrisburg, PA 17111",https://stores.basspro.com/us/pa/harrisburg/3501-paxton-st.html?y_source=1_MzAxMTUwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,Lancaster,harrisburg,PA,no_coffee_keywords
+Tito’s Diner,"9 N Progress Ave, Harrisburg, PA 17109",https://www.titosdinermenu.com/,Lancaster,harrisburg,PA,no_store_page
+Peachtree Restaurant and Lounge,"251 N Progress Ave, Harrisburg, PA 17109",http://www.peachtree251.biz/,Lancaster,harrisburg,PA,no_coffee_keywords
+Splits and Giggles Cafe,"500 W Lemon St, Lancaster, PA 17603",http://www.splitsandgiggles.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Freshido,"300 Market St #157-159, Harrisburg, PA 17101",https://www.freshido.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Price Rite Marketplace of Harrisburg,"3812 Union Deposit Rd, Harrisburg, PA 17109",https://www.priceritemarketplace.com/,Lancaster,harrisburg,PA,no_coffee_keywords
+Mellow Minded Café,"5943 Linglestown Rd, Harrisburg, PA 17112",http://mellowmindedcafe.com/,Lancaster,harrisburg,PA,no_shop
+EVO 206 Coffee Co.,"206 S Market St Ste 105, Elizabethtown, PA 17022",https://www.hubonmarket.com/evo-206,Lancaster,harrisburg,PA,no_shop
+The Cracked Pot Coffee Shop,"130 Gettysburg Pike A, Mechanicsburg, PA 17055",http://thecrackedpotcoffeeshop.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16060532182778554958,Lancaster,harrisburg,PA,no_store_page
+"Reading Coffee Company HQ, Birdsboro","316 W Main St, Birdsboro, PA 19508",https://www.readingcoffee.com/,Lancaster,harrisburg,PA,no_store_page
+Culture Coffee,"216 St John St, Lewisburg, PA 17837",https://cfw009.wixsite.com/culturecoffee,Lancaster,harrisburg,PA,no_shop
+Trackside Coffee,"75 S Vine St Suite 3, Hazleton, PA 18201",http://www.trackside-coffee-bar.square.site/,Lancaster,harrisburg,PA,scrape_failed
+Fog & Flame Craft Coffee,"34 E Main St, Bloomsburg, PA 17815",http://cafe-martha.com/,Lancaster,harrisburg,PA,no_shop
+Grateful Roast Cafe and Coffee Roaster,"75 N Market St, Nanticoke, PA 18634",https://www.gratefulroast.com/,Lancaster,harrisburg,PA,no_store_page
+Groovy Bean Café,"153 E High St, Elizabethtown, PA 17022",http://trellis-marketplace.com/,Lancaster,harrisburg,PA,no_store_page
+Quinn’s Coffee Bar LLC,"344 N Front St, Wormleysburg, PA 17043",http://quinnscoffeebar.com/,Lancaster,harrisburg,PA,no_shop
+Biscotti's,"777 W Harrisburg Pike, Middletown, PA 17057",https://liveon.psu.edu/harrisburg/dining/biscottis,Lancaster,harrisburg,PA,no_shop
+The Pulse Cafe,"35 N 6th St, Reading, PA 19601",http://thepulsecafe.net/,Lancaster,reading,PA,no_store_page
+Rooted & Grounded Cafe,"1400 Lancaster Ave, Reading, PA 19607",https://www.rootedgroundedcafe.com/,Lancaster,reading,PA,no_shop
+Crave Cafe,"4600 W Penn Ave, Reading, PA 19608",http://www.cravecafe.net/location/,Lancaster,reading,PA,no_shop
+Simply Bold Cafe | Boutique | Bookstore,"550 Penn Ave, West Reading, PA 19611",http://simplyboldcafe.com/,Lancaster,reading,PA,no_store_page
+The Farmhouse Kitchen,"426 Penn Ave, West Reading, PA 19611",https://www.thefarmhouse-kitchen.com/,Lancaster,reading,PA,no_store_page
+Gourmand Cafe and Catering,"945 Berkshire Blvd, Wyomissing, PA 19610",http://gourmandpa.com/,Lancaster,reading,PA,no_store_page
+Fairgrounds Farmer's Market,"2934 N 5th Street Hwy, Reading, PA 19605",http://www.fairgroundsfarmersmarket.com/,Lancaster,reading,PA,no_coffee_keywords
+Café de Colombia Restaurant and Bakery,"645 Penn St Suite 106, Reading, PA 19601",http://cafedecolombiarestaurant.com/,Lancaster,reading,PA,no_store_page
+The Restaurant Store - Reading,"845 Woodland Rd, Wyomissing, PA 19610",https://www.therestaurantstore.com/stores/Reading,Lancaster,reading,PA,no_coffee_keywords
+"Schaylor Brewing Company - Reading, PA","2390 Lancaster Pike #2373, Reading, PA 19607",https://www.schaylorbrewingcompany.com/,Lancaster,reading,PA,no_store_page
+HOCAA BUBBLE TEA(Berkshire Mall),"1665 State Hill Rd, Wyomissing, PA 19610",http://hocaabubbletea.com/,Lancaster,reading,PA,no_store_page
+Courtyard Cafe on Main,"349 Main St, Denver, PA 17517",https://www.courtyardcafeonmain.com/,Lancaster,reading,PA,no_shop
+Pike Cafe,"930 Pike St #1944, Reading, PA 19604",http://pikecafe.com/,Lancaster,reading,PA,no_store_page
+Saucony Creek Franklin Station Brewpub,"100 S 7th St, Reading, PA 19602",http://www.sauconybeer.com/,Lancaster,reading,PA,no_shop
+Winnie Tea Bar,"1st Floor, 402 Penn Ave, West Reading, PA 19611",https://www.thewinnieteabar.com/,Lancaster,reading,PA,no_store_page
+Taste of Crepes,"617 Penn Ave, West Reading, PA 19611",http://tasteofcrepes.com/,Lancaster,reading,PA,no_shop
+FRESH Breakfast | Lunch,"614 Penn Ave, West Reading, PA 19611",https://freshbreakfastlunch.com/,Lancaster,reading,PA,no_coffee_keywords
+Dundore & Heister,"1331 Penn Ave, Wyomissing, PA 19610",https://dundoreandheister.com/,Lancaster,reading,PA,no_coffee_keywords
+The Barley Mow,"719 Penn Ave, West Reading, PA 19611",http://www.barleymowbeer.com/,Lancaster,reading,PA,no_shop
+B2 Bistro + Bar,"701 Reading Ave, West Reading, PA 19611",https://www.b2bistro.com/west-reading.html,Lancaster,reading,PA,no_store_page
+Willoughby's on Park,"305 N Park Rd, Wyomissing, PA 19610",http://www.willoughbysonpark.com/,Lancaster,reading,PA,no_coffee_keywords
+Wyomissing Restaurant and Bakery,"1245 Penn Ave, Wyomissing, PA 19610",http://wyomissingrestaurantandbakery.com/,Lancaster,reading,PA,no_coffee_keywords
+Brewer's Bar & Grill,"101 S 3rd Ave, West Reading, PA 19611",http://www.brewersbarandgrill.com/,Lancaster,reading,PA,no_store_page
+Klingers at the Airport,"2385 Bernville Rd, Reading, PA 19605",http://www.klingerspubs.com/klingers-at-the-airport,Lancaster,reading,PA,no_coffee_keywords
+Andy Pepper's,"820 Limekiln Rd, Limekiln, PA 19535",http://www.andypeppers.com/,Lancaster,reading,PA,no_coffee_keywords
+Shirley's Cafe & Tequila Bar,"1615 Duke St, Laureldale, PA 19605",http://www.shirleystequilabar.com/#!contact-us/c2q4,Lancaster,reading,PA,no_store_page
+Isaac's Craft Kitchen & Brewery - Wyomissing,"94 Commerce Dr, Wyomissing, PA 19610",https://www.isaacsrestaurants.com/,Lancaster,reading,PA,no_store_page
+Panera Bread,"4395 Perkiomen Ave, Reading, PA 19606",https://www.panerabread.com/en-us/cafe/locations/pa/reading/4395-perkiomen-ave?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=601684&utm_content=main,Lancaster,reading,PA,no_store_page
+Liberty Ale House,"1501 Lancaster Ave, Reading, PA 19607",https://www.thelibertytaproom.com/,Lancaster,reading,PA,no_coffee_keywords
+Calvary Roasters,"910 Park St, Lebanon, OR 97355",https://www.calvaryroasters.com/,Lancaster,lebanon,PA,wrong_region
+Split Bean Roasting Co.,"1050 Hamilton Station Blvd Suite 103, Lebanon, TN 37087",https://www.splitbeanroasting.com/,Lancaster,lebanon,PA,wrong_region
+Lebanon Coffee House,"110A E Main St, Lebanon, TN 37087",http://lebanoncoffeehouse.com/,Lancaster,lebanon,PA,wrong_region
+City Watch Coffee Lebanon,"1501 E Cumberland St Suite 5, Lebanon, PA 17042",http://www.citywatchcoffee.com/,Lancaster,lebanon,PA,no_store_page
+The Clay House Cafe,"720 Quentin Rd #3, Lebanon, PA 17042",http://www.theclayhousecafe.com/,Lancaster,lebanon,PA,no_store_page
+La Coffeeteria,"45 S 8th St, Lebanon, PA 17042",https://www.instagram.com/la_coffeeteria_pa?igsh=MW9va3duaXJ3MGVpbQ==&utm_source=qr,Lancaster,lebanon,PA,no_shop
+Iron Star Roasting Company,"1200 Lebanon Rd, West Mifflin, PA 15122",https://store.ironstarroasting.com/,Lancaster,lebanon,PA,no_shop
+Timeless Café,"18 S 8th St, Lebanon, PA 17042",http://www.thetimelesscafe.com/,Lancaster,lebanon,PA,no_store_page
+Whirling Dervish Bakery & Coffee Shop,"50 W Main St Side Door, Annville, PA 17003",http://www.whirlingdervishbakery.com/,Lancaster,lebanon,PA,no_store_page
+Patches Family Creamery,"201 Fonderwhite Rd, Lebanon, PA 17042",http://www.patchesfamilycreamery.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Dave's Country Store,"241 Freeport Rd, Lebanon, PA 17046",https://m.facebook.com/davescountrystore,Lancaster,lebanon,PA,no_coffee_keywords
+Newtown Specialty Coffee Roasters,Mina، Lebanon,http://www.newtowncoffee.com/,Lancaster,lebanon,PA,no_shop
+Zig's Bakery & Cafe,"800 E Newport Rd, Lititz, PA 17543",http://zigsbakery.com/,Lancaster,lebanon,PA,no_shop
+Slate Cafe,"43 E Main St, Lititz, PA 17543",http://slatelititz.com/,Lancaster,lebanon,PA,no_shop
+Cafe 58,"58 W Main Ave, Myerstown, PA 17067",http://www.cafe58.net/,Lancaster,lebanon,PA,no_coffee_keywords
+Snitz Creek Brewery,"7 N 9th St, Lebanon, PA 17046",http://www.snitzcreekbrewery.com/,Lancaster,lebanon,PA,no_store_page
+Heisey's Diner,"1740 PA-72, Lebanon, PA 17046",http://heiseysdinerpa.com/,Lancaster,lebanon,PA,scrape_failed
+Quentin Haus,"PA-72, Lebanon, PA 17042",https://quentin-haus.site/,Lancaster,lebanon,PA,no_coffee_keywords
+Uptown Coffee,"723 Washington Rd, Mount Lebanon Township, PA 15228",https://uptowncoffeepgh.com/,Lancaster,lebanon,PA,no_shop
+DiNunzio's Authentic Italian Hoagie,"718 Poplar St, Lebanon, PA 17042",http://www.dinunzioshoagie.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Cedar Grill,"1800 E Cumberland St, Lebanon, PA 17042",https://cedargrill.shop/,Lancaster,lebanon,PA,scrape_failed
+Dosie Dough,"45 S Broad St, Lititz, PA 17543",http://dosiedough.com/,Lancaster,lebanon,PA,no_store_page
+Visit Lebanon Valley,"115 Springwood Dr Suite 500, Lebanon, PA 17042",http://visitlebanonvalley.com/,Lancaster,lebanon,PA,no_store_page
+Blue Bird Inn,"2387 Cornwall Rd, Lebanon, PA 17042",http://www.bluebirdinn.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Quentin Tavern,"81 W Main St, Lebanon, PA 17042",http://www.quentintavern.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Tony’s Mining Company Restaurant,"211 Rexmont Rd, Lebanon, PA 17042",http://tonysminingcompany.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Humane Society of Lebanon County Thrift Shop,"129 Cumberland St, Lebanon, PA 17042",https://lebanonhumane.org/thrift-shop/,Lancaster,lebanon,PA,no_coffee_keywords
+Risser Marvel Farm Market,"2425 Horseshoe Pike, Palmyra, PA 17078",http://rissermarvel.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Seltzer's Smokehouse Meats Store,"209 N Railroad St, Palmyra, PA 17078",https://seltzersoutletstore.com/,Lancaster,lebanon,PA,no_store_page
+Lisa's Cafe,"600 E Main St, Palmyra, PA 17078",https://lisascafe2.com/,Lancaster,lebanon,PA,no_store_page
+Fox Crest Farm,"1000 Bomgardner Ln, Annville, PA 17003",https://www.foxcrestfarm.com/,Lancaster,lebanon,PA,no_coffee_keywords
+Element by Bodega,"124 E Main St, Ephrata, PA 17522",http://www.elementbybodega.com/,Lancaster,ephrata,PA,no_store_page
+The Floral Cup Coffee Shop,"170 Cocalico Creek Rd, Ephrata, PA 17522",https://www.farmsteadflowers.com/,Lancaster,ephrata,PA,no_coffee_keywords
+Stonehouse Cafe,"2415 W Main St, Ephrata, PA 17522",https://stonehousecafe.net/,Lancaster,ephrata,PA,no_store_page
+BrewTeks Coffee Service Technicians,"107 Zooks Mill Rd, Ephrata, PA 17522",http://www.brewteks.com/,Lancaster,ephrata,PA,no_store_page
+Connections Cafe,"70 Clay School Rd, Ephrata, PA 17522",https://connectionscafe.net/,Lancaster,ephrata,PA,no_store_page
+Tin Roof Cafe n' Sweets,"108-I N, Reading Rd, Ephrata, PA 17522",http://www.tinroofcafensweets.com/,Lancaster,ephrata,PA,no_store_page
+Griddle & Grind Cafe,"20 W Main St, Ephrata, PA 17522",http://www.griddleandgrind.com/,Lancaster,ephrata,PA,no_store_page
+"Pureblend Tea, LLC","1501 W Main St, Ephrata, PA 17522",http://www.pureblendtea.com/,Lancaster,ephrata,PA,no_shop
+Dynamic Coffee Roasters,"317 E Carson St Suite 35, Pittsburgh, PA 15219",https://shop.dynamiccoffeeroasters.com/,Lancaster,ephrata,PA,no_store_page
+Fox Meadows Creamery - Ephrata,"2475 W Main St, Ephrata, PA 17522",http://www.foxmeadowscreamery.com/,Lancaster,ephrata,PA,no_store_page
+Cardinal Coffee Roasters,"820 Lowry Ave, Jeannette, PA 15644",https://www.cardinalcoffeeroasters.com/,Lancaster,ephrata,PA,no_shop
+Udder Choice,"1812 W Main St, Ephrata, PA 17522",https://udder-choice.com/,Lancaster,ephrata,PA,no_coffee_keywords
+"Rocsato Coffee Roasters, LLC","701 N Perry St, Titusville, PA 16354",http://www.rocsatocoffeeroasters.com/,Lancaster,ephrata,PA,no_store_page
+Pancake Farm,"1032 S State St, Ephrata, PA 17522",http://www.pancakefarmpa.com/,Lancaster,ephrata,PA,no_coffee_keywords
+Botanical Creperie by NHCC,"856 W Main St, New Holland, PA 17557",https://www.botanicalcreperie.com/,Lancaster,ephrata,PA,no_store_page
+Tomato Pie Cafe,"23 N Broad St, Lititz, PA 17543",http://www.tomatopiecafe.net/?y_source=1_MTk1Mzc0OTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,Lancaster,ephrata,PA,no_shop
+3 Sisters' Chicken,"1025 S State St, Ephrata, PA 17522",https://www.3sisterschicken.com/,Lancaster,ephrata,PA,no_coffee_keywords
+Dutch-Way Café,"1125 S State St, Ephrata, PA 17522",https://www.dutchwayfarmmarket.com/restaurants/ephrata-cafe/,Lancaster,ephrata,PA,no_store_page
+Old Republic Distillery Tavern,"3 Dutchland Ave, Ephrata, PA 17522",http://www.ephrataspeakeasy.com/,Lancaster,ephrata,PA,no_store_page
+Premium Coffee Company,"2510 Hamburg Turnpike, Buffalo, NY 14218",http://premiumcoffeeco.com/,Lancaster,millersville,PA,wrong_region
+Baltimore Coffee & Tea Company,"1110 Town Center Blvd, Odenton, MD 21113",https://www.baltcoffee.com/,Lancaster,millersville,PA,wrong_region
+3rd Wave Coffee Roasters,"215 W King St #3, St. Augustine, FL 32084",https://3rdwavecoffee.com/,Lancaster,millersville,PA,wrong_region
+Evergreen Cafe,"40 James St, Millersville, PA 17551",https://www.millersville.edu/dining/retaildining.php,Lancaster,millersville,PA,no_coffee_keywords
+Cactus Café,"2 S Prince St, Millersville, PA 17551",https://cactuscafe.wixsite.com/cactuscafemillersvil,Lancaster,millersville,PA,no_shop
+Big Blue Coffee Roasters,"638 S Madden Rd, Hustontown, PA 17229",https://www.bigblueroasters.com/contact-us/,Lancaster,millersville,PA,no_coffee_keywords
+Molly's Courtyard Cafe of Marietta,"17 E Market St, Marietta, PA 17547",http://www.mollyscourtyardcafe.com/,Lancaster,millersville,PA,no_shop
+Someday Coffee Roastery,"1400 Easton Rd, Riegelsville, PA 18077",http://somedaycoffee.com/,Lancaster,millersville,PA,no_store_page
+Neighbors Cafe,"450 N Prince St Floor 1, Lancaster, PA 17603",https://www.neighborslancaster.com/cafe/,Lancaster,millersville,PA,no_store_page
+Traveller Coffee Company,"17 Main St, Glen Rock, PA 17327",http://www.travellercoffeeco.com/,Lancaster,millersville,PA,no_shop
+Fireside Cafe,"158 Toddy Dr, East Earl, PA 17519",https://www.firesidecafe.net/,Lancaster,millersville,PA,no_store_page
+Industry Coffee Works,"908 Hyatt St, Chester, PA 19013",http://industrycoffee.com/ContactUs_Page_ZTEN.html,Lancaster,millersville,PA,no_shop
+Rise 'N Grind Cafe,"8 E Main St, Rising Sun, MD 21911",https://risengrindcafe.com/,Lancaster,columbia,PA,wrong_region
+Aveley Farms Coffee Roasters,"42 W Chesapeake Ave, Towson, MD 21204",https://www.aveleyfarmscoffee.com/,Lancaster,columbia,PA,wrong_region
+Columbia River Coffee Roaster,"279 W Marine Dr, Astoria, OR 97103",https://www.columbiarivercoffeeroaster.com/,Lancaster,columbia,PA,wrong_region
+HomeGoodies & Coffee,"336 Locust St, Columbia, PA 17512",https://homegoodiescolumbia.com/,Lancaster,columbia,PA,no_store_page
+Coffee and Cream,"101 N Front St, Columbia, PA 17512",https://coffeecream.toast.site/,Lancaster,columbia,PA,no_store_page
+Evergreen Coffee Company,"102 Wallace Ave, Downingtown, PA 19335",https://evergreencoffeeco.com/,Lancaster,columbia,PA,no_store_page
+Black Olive Family Diner,"1506 Lancaster Ave, Columbia, PA 17512",http://blackolivediner.com/,Lancaster,columbia,PA,scrape_failed
+Columbia Diner,"1725 Columbia Ave, Lancaster, PA 17603",http://columbiadinerpa.com/,Lancaster,columbia,PA,no_coffee_keywords
+The Farmhouse Coffee & Espresso Bar,"115 W Lancaster Ave, Downingtown, PA 19335",https://www.farmhousecoffee.com/,Lancaster,columbia,PA,no_store_page
+Whisk Cafe,"98 Masonic Dr #102, Elizabethtown, PA 17022",https://www.thewhiskcafe.com/,Lancaster,columbia,PA,no_shop
+LanCATster Cat Cafe,"222 N Duke St, Lancaster, PA 17602",http://www.lancatstercatcafe.com/,Lancaster,columbia,PA,no_shop
+New Town Food & Spirits,"2833 Columbia Ave, Lancaster, PA 17603",https://www.newtownfoodandspirits.com/,Lancaster,columbia,PA,no_shop
+"Art Printing Co., Inc.","131 Locust St, Columbia, PA 17512",http://www.artprintingco.com/,Lancaster,columbia,PA,no_coffee_keywords

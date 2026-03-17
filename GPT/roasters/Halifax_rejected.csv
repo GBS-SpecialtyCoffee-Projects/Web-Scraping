@@ -1,0 +1,79 @@
+Name,Address,Website,source_city,reason
+The Roastory Specialty Coffee and Roastery Inc.,"12 Ella Ln Unit 106, Bedford, NS B4B 2J6",https://www.theroastorycoffee.com/,halifax,no_shop
+Roastery 46,"170 Joseph Zatzman Dr Unit 12, Dartmouth, NS B3B 1M3",http://roastery46.ca/,halifax,scrape_failed
+Scotian Grind Coffee,"26 Windfield Crescent, Middle Sackville, NS B4E 3A1",http://www.scotiangrindcoffee.ca/,halifax,no_shop
+Espresso 46,"2867 Isleville St, Halifax, NS B3K 3X4",https://www.facebook.com/Espresso46/,halifax,no_coffee_keywords
+Caffè Lucca,"1625 Grafton St, Halifax, NS B3J 0B1",https://www.caffelucca.ca/,halifax,no_shop
+Café Lara & Roastery,"3121 Kempt Rd, Halifax, NS B3K 5N6",http://www.cafelara.ca/,halifax,scrape_failed
+Tartan Coffee Company,"Dingle Rd, Halifax, NS B3P 1A1",https://www.tartancoffee.ca/,halifax,scrape_failed
+Weird Harbour Espresso Bar,"1656 Barrington St, Halifax, NS B3J 0C2",https://www.weirdharbour.com/,halifax,no_coffee_keywords
+The Barn Coffee & Social House,"458 Main St, Mahone Bay, NS B0J 2E0",http://www.thebarncoffee.com/,halifax,no_shop
+The Fourth Pull by Stoke Food Supply,"5687 West St, Halifax, NS B3K 4C1",http://stokefood.ca/,halifax,no_coffee_keywords
+Ramblers,"5576 Nora Bernard St, Halifax, NS B3K 5K9",http://www.instagram.com/ramblers.hfx,halifax,no_shop
+Beanville Coffee Roastery,"771 Bedford Hwy, Bedford, NS B4A 1A1",https://www.beanvillecoffee.com/,halifax,no_store_page
+Terra Cafe,"1496 Lower Water St, Halifax, NS B3J 3R5",http://terracafe.ca/,halifax,no_shop
+Uncommon Grounds,"1030 South Park St Suite # 321, Halifax, NS B3H 2W3",https://www.theuncommongroup.com/,halifax,no_coffee_keywords
+Sully and Porter Cafe,"2959 Oxford St, Halifax, NS B3L 2W3",http://sullyandporter.com/,halifax,no_store_page
+Creative Cup Cafe,"2792 Gottingen St, Halifax, NS B3K 3C8",http://www.creativecupcafe.ca/,halifax,no_store_page
+Balancing Rock Coffeehouse,"1919 Upper Water St, Halifax, NS B3J 3J5",https://www.marriott.com/en-us/hotels/yhzmc-halifax-marriott-harbourfront-hotel/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108,halifax,no_shop
+Apartment 3 Espresso Bar,"1565 South Park St Unit 2, Halifax, NS B3J 0H8",http://www.apt3coffee.com/,halifax,no_store_page
+Nhà Specialty Coffee & Kitchen,"205 Bedford Hwy Ground Floor, Halifax, NS B3M 0R5",https://nhacoffee.com/,halifax,no_shop
+Xena's Bread and Butter Ltd.,"1996 Brunswick St, Halifax, NS B3J 2G7",https://xenasbreadandbutter.com/,halifax,no_store_page
+Steve-O-Reno's Cappuccino,"1536 Brunswick St, Halifax, NS B3J 2G2",https://www.steveorenos.com/,halifax,no_store_page
+Glitter Bean Cafe Co-op,"5896 Spring Garden Rd, Halifax, NS B3H 0A6",https://www.glitterbeancafe.com/,halifax,no_store_page
+Open Book Coffee,"3660 Strawberry Hill St, Halifax, NS B3K 5A9",https://openbookcoffee.ca/,halifax,no_store_page
+The 5K Cafe,"124 Chain Lake Dr, Halifax, NS B3N 3B4",https://www.the5kcafe.ca/,halifax,no_shop
+Lucy's Hydrostone Café,"5517 Young St, Halifax, NS B3K 1Z7",https://lucyshydrostone.ca/?utm_source=boom12&utm_medium=gbl&utm_campaign=orgsoc,halifax,no_shop
+Dilly Dally Coffee Cafe,"6100 Quinpool Rd, Halifax, NS B3L 1A1",http://www.dillydallyeats.com/contact.html,halifax,no_store_page
+Bird's Nest Cafe + Catering,"1547 Barrington St, Halifax, NS B3J 1Z4",https://www.birdsnesthalifax.com/,halifax,no_store_page
+The Mellow Mug (Halifax),"7071 Bayers Rd Suite 1011, Halifax, NS B3L 2C2",http://mellowmug.ca/,halifax,no_shop
+Seven Bays Cafe,"2017 Gottingen St, Halifax, NS B3K 3B1",https://sevenbaysbouldering.com/gottingen/cafe/menu/,halifax,no_coffee_keywords
+Cafe Byron,"2456 Agricola St, Halifax, NS B3K 4C2",https://www.cafebyron.ca/,halifax,no_store_page
+Trident Booksellers & Cafe,"1256 Hollis St, Halifax, NS B3J 1T6",https://tridenthalifax.ca/,halifax,no_shop
+Pane e Circo,"1515 Queen St, Halifax, NS B3J 1G1",http://www.panecirco.ca/,halifax,no_coffee_keywords
+Selby’s Bunker Coffee & Gifts,"1090 Cole Harbour Rd, Dartmouth, NS B2V 1E7",http://selby.store/,halifax,no_store_page
+Tart & Soul Cafe,"6389 Coburg Rd, Halifax, NS B3H 2A5",http://tartandsoulcafe.ca/,halifax,no_store_page
+Bliss Caffeine Bar,"1451 South Park St, Halifax, NS B3J 2L1",https://blisscaffeinebar.com/,halifax,no_store_page
+North End Baking Co. & Café,"5505 Clyde St., Halifax, NS B3J 0M2",https://northendbaking.com/,halifax,no_shop
+Café du Port,"1597 Barrington St, Halifax, NS B3J 1Z7",https://www.caféduport.com/,halifax,no_store_page
+Cabin Coffee,"1554 Hollis St, Halifax, NS B3J 1V3",http://cabincoffeehalifax.ca/,halifax,no_store_page
+Bramble Cafe,"2851 Agricola St, Halifax, NS B3K 4E6",http://www.bramblehfx.ca/,halifax,no_store_page
+Two If By Sea Cafe,"66 Ochterloney St, Dartmouth, NS B2Y 1C2",http://twoifbysea.cafe/,halifax,no_shop
+Rosefinch Mercantile & Tea Room,"1615 Port Medway Rd, Port Medway, NS B0J 2T0",http://www.rosefinch.co/,halifax,no_store_page
+Starbucks Coffee Company,"5640 Spring Garden Rd, Halifax, NS B3J 3M7",https://www.starbucks.ca/,halifax,no_store_page
+Spill The Tea in Mahone Bay,"503 Main St, Mahone Bay, NS B0J 2E0",http://teabrewery.com/,halifax,no_store_page
+Bee's Knees General Store & Bakery,"498 Main St, Lawrencetown, NS B0S 1M0",http://www.beeskneesgeneral.ca/,halifax,no_store_page
+Rose & Rooster Cafe,"6502 NS-207, Head of Chezzetcook, NS B3E 1K7",http://roseandrooster.com/,halifax,no_coffee_keywords
+Tim Hortons,"217 Chain Lake Dr, Halifax, NS B3S 1C1",http://locations.timhortons.ca/en/ns/halifax/217-chain-lake-dr,halifax,no_store_page
+Supreme Bean,"36 Esdaile Ave, Dartmouth, NS B2Y 3N6",https://www.supremebean.ca/,dartmouth,scrape_failed
+Café Goodluck,"145 Portland St, Dartmouth, NS B2Y 1H9",https://cafegoodluck.ca/,dartmouth,no_shop
+Morley's Coffee / Taz Records / Friction Books,"45 Portland St, Dartmouth, NS B2Y 1H1",http://www.frictionbooks.com/,dartmouth,no_store_page
+Cafe Marco Polo,"15 Kings Wharf Pl, Dartmouth, NS B2Y 0B4",https://cafemarcopolodartmouth.com/,dartmouth,no_store_page
+Woodroast Coffee Shop,"2 Smith St, Dartmouth TQ6 9QR, United Kingdom",http://www.italianfoodheroes.com/information.php?t=Woodroast&s=Our-Businesses&id=53,dartmouth,scrape_failed
+Standing Wave Coffee,"2024 Sarah St, Pittsburgh, PA 15203, United States",https://www.standingwavecoffee.com/,bedford,wrong_region
+Lëvantic Bakery and Café,"226 Broad St Unit 101, Bedford, NS B4B 1J6",https://levantic.square.site/,bedford,no_coffee_keywords
+GERRISH & GRAY CAFE,"134 Gerrish St, Windsor, NS B0N 2T0",https://www.gerrishandgray.ca/,bedford,no_shop
+Izzy's Bagel Co.,"1180 Bedford Hwy, Bedford, NS B4A 1N8",http://izzysbagel.com/,bedford,no_coffee_keywords
+Axe to Grind Foods,"OFFICE ONLY, 24 Andrea Lori Dr, Middle Sackville, NS B4E 3B6",http://www.axetogrindfoods.com/,bedford,no_store_page
+HARVEST | Clean Eats (Bedford),"936 Bedford Hwy, Bedford, NS B4A 3P1",http://orderharvest.ca/,bedford,no_store_page
+Il Mercato,"1595 Bedford Hwy, Bedford, NS B4A 3Y4",http://www.il-mercato.ca/,bedford,no_coffee_keywords
+North Mountain Fine Coffees,"210 Commercial St, Berwick, NS B0P 0B0",https://www.northmountaincoffee.com/,bedford,no_store_page
+Xpresso Café,"1658 Bedford Hwy Unit 130, Bedford, NS B4A 2X9",https://xpresso.ca/,bedford,no_coffee_keywords
+Standing Wave Coffee,"2024 Sarah St, Pittsburgh, PA 15203, United States",https://www.standingwavecoffee.com/,sackville,wrong_region
+The Pink Piano Cafe & Lounge,"585 Sackville Dr Unit 1, Lower Sackville, NS B4C 2S4",https://www.thepinkpianocafe.com/,sackville,no_store_page
+Futures Café,"61 Glendale Ave, Lower Sackville, NS B4C 3J4",https://buildfutures.ca/futures-cafe,sackville,no_store_page
+The Café - Powered by Youth Worx,"409 Glendale Dr, Lower Sackville, NS B4C 2Y9",https://www.halifax.ca/about-halifax/employment/youth-worx-job-experience-program/youth-worx-cafe,sackville,no_shop
+Kopi cafe,"2069 Hammonds Plains Rd, Hammonds Plains, NS B4B 1P3",http://www.kopicafe.ca/,sackville,scrape_failed
+MediTerra Kitchen,"111 Cobequid Rd Unit:7, Lower Sackville, NS B4C 2N1",http://www.mediterrakitchen.ca/,sackville,no_coffee_keywords
+Halisi Café,"1710 Sackville Dr unit 102, Middle Sackville, NS B4E 3A9",http://halisicafe.com/,sackville,no_coffee_keywords
+Casa di Stefano,"111 Cobequid Rd, Lower Sackville, NS B4C 2N1",https://casadistefano.ca/,sackville,no_shop
+Sankofa Cafe,"1081 Cole Harbour Rd Unit 5, Dartmouth, NS B2V 1E8",https://sankofacafes.com/,cole harbour,no_shop
+"Coffee, Tea & Sea","18 Government Wharf Rd, Eastern Passage, NS B3G 1A3",http://httpscoffeesteaandsea.wordpress.com/,eastern passage,no_shop
+Preserving Traditions,"121 Cow Bay Rd, Eastern Passage, NS B3G 1T3",http://preservingtraditions.ca/,eastern passage,no_coffee_keywords
+Pavia Gallery - Espresso Bar & Café,"995 Herring Cove Rd, Herring Cove, NS B3V 1H5",http://www.paviagallery.com/,eastern passage,no_shop
+Main & Mersey Dining Room & Coffee Bar,"267 Main St, Liverpool, NS B0T 1K0",https://www.mainandmerseyhomestore.ca/,eastern passage,no_store_page
+Eastern Tea Bar & Friends (ETBF),"2093 Gottingen St, Halifax, NS B3K 3B2",http://www.easternteabar.com/shop,eastern passage,no_coffee_keywords
+South Shore Coffee Company,"4200 NS-308 #4B, Tusket, NS B0W 3M0",http://www.southshorecoffeecompany.com/,eastern passage,no_coffee_keywords
+Sissiboo Coffee Roaster,"1886 Clementsvale Rd, Bear River, NS B0S 1B0",http://sissiboocoffee.com/,fall river,no_store_page
+Picadilly Coffee Roasters,"33 Rosemont Ave, Sussex, NB E4E 2R6",https://www.picadillycoffee.ca/,waverley,wrong_region
+The Hungry Traveler Cafe,"15 King St, Lunenburg, NS B0J 2C0",https://www.thehungrytravelercafe.com/,waverley,no_shop
