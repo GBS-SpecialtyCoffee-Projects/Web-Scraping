@@ -25,11 +25,11 @@ tail -n +2 "$CSV_FILE" | head -n "$LIMIT" | while IFS=',' read -r city state cou
     fi
 
     COUNT=$((COUNT + 1))
-    SESSION="city_${COUNT}_${city// /_}_${state}"
-    CMD="source venv/bin/activate && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"logs/${city}_${state}.log\"; echo 'DONE'; read"
-
-    tmux new-session -d -s "$SESSION" "$CMD"
-    echo "[$COUNT] Started tmux session '$SESSION': $city, $state, $country"
+    CMDS="$CMDS && echo '[$COUNT] Running: $city, $state, $country' && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"logs/${city}_${state}.log\""
 done
 
-echo "Launched $COUNT tmux sessions — use 'tmux ls' to see them"
+# Build full command with venv activation
+FULL_CMD="source venv/bin/activate $CMDS; echo 'ALL DONE'; read"
+
+tmux new-session -d -s "shopfind_run" "$FULL_CMD"
+echo "Started tmux session 'shopfind_run' with $COUNT cities — use 'tmux attach -t shopfind_run' to watch"
