@@ -28,7 +28,7 @@ while IFS=',' read -r city state country; do
     COUNT=$((COUNT + 1))
     [ "$COUNT" -gt "$LIMIT" ] && break
 
-    CMDS="$CMDS && echo '[$COUNT] Running: $city, $state, $country' && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"logs/${city}_${state}.log\""
+    CMDS="$CMDS && echo '[$COUNT] Running: $city, $state, $country' && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"${city}_${state}.log\""
 done < <(tail -n +2 "$CSV_FILE")
 
 # Build full command with venv activation

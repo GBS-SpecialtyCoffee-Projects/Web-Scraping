@@ -1,0 +1,30 @@
+Name,Address,Website,source_city,sub_city,state,reason
+Red Captain Coffee Company,"4004 N Stone Ave, Tucson, AZ 85705",http://redcaptain.coffee/,Tucson,tucson,AZ,no_store_page
+Raging Sage Coffee Roasters,"2458 N Campbell Ave, Tucson, AZ 85719",http://www.ragingsage.com/,Tucson,tucson,AZ,no_store_page
+Celestia Collective,"1122 N Stone Ave, Tucson, AZ 85705",http://www.celestiacollective.com/,Tucson,tucson,AZ,scrape_failed
+Hebrews Coffee,"1439 S 4th Ave, Tucson, AZ 85713",https://ordernow.applova.io/webstore-v2/CPB1DVJ22CRS1,Tucson,tucson,AZ,no_shop
+Black Crown Coffee Company,"4024 E Speedway Blvd, Tucson, AZ 85712",https://blackcrowncoffeecompany.shop/,Tucson,tucson,AZ,no_shop
+Bar Crisol/Exo,"196 W Simpson St, Tucson, AZ 85701",http://www.barcrisol.com/,Tucson,tucson,AZ,no_store_page
+Crema Coffee,"3725 W Ina Rd #120, Tucson, AZ 85741",http://cremacoffeeaz.com/,Tucson,tucson,AZ,no_store_page
+Hello Cafe,"3702 E Hardy Dr Suite 2, Tucson, AZ 85716",https://www.hellobicycle.com/hello-cafe,Tucson,tucson,AZ,no_store_page
+Roadrunner Coffee Co.,"9665 N Thornydale Rd #140a, Tucson, AZ 85742",http://www.roadrunnercoffeeco.com/,Tucson,tucson,AZ,no_store_page
+Way of Bean - coffee club,"335 W American Ave, Oracle, AZ 85623",http://www.wayofbeancoffeeclub.com/,Tucson,oro valley,AZ,no_shop
+Pour My Coffee,"9136 E Valencia Rd #160, Tucson, AZ 85747",http://pourmycoffeeco.com/,Tucson,marana,AZ,no_shop
+Sky Rider Cafe,"Marana, AZ 85653, USA",https://usmapz.me/sky-rider-cafe-809054-us,Tucson,marana,AZ,no_shop
+Arizona Artisan Creations,"8800 W Water St, Marana, AZ 85653",https://arizonaartisancreation.com/,Tucson,marana,AZ,no_store_page
+Sonoita Heritage Coffee,"3174 AZ-83, Sonoita, AZ 85637",http://www.sonoitaheritagecoffee.com/,Tucson,sahuarita,AZ,no_store_page
+Posada Java,"665 S Park Centre Ave, Sahuarita, AZ 85614",https://laposadagreenvalley.org/posada-java/,Tucson,sahuarita,AZ,no_store_page
+Vail Coffee Stop,"13105 E Colossal Cave Rd, Vail, AZ 85641",https://www.vailcoffeestop.com/,Tucson,south tucson,AZ,no_store_page
+Cariño Coffee Bar,"3305 N Cardi Blvd, Tucson, AZ 85716",https://carino-coffee.square.site/,Tucson,south tucson,AZ,no_store_page
+Barista del Barrio,"1002 N Grande Ave, Tucson, AZ 85745",http://baristadelbarrio.square.site/,Tucson,south tucson,AZ,no_coffee_keywords
+HeeMee Coffee + Bakery,"20 E Congress St #110, Tucson, AZ 85701",http://heemee.online/,Tucson,south tucson,AZ,no_store_page
+Bakery by Ren,"4300 N Campbell Ave Suite #12, Tucson, AZ 85718",http://renbakery.com/,Tucson,south tucson,AZ,no_shop
+Revolutionary Grounds Books & Coffee,"4675 E Speedway Blvd, Tucson, AZ 85712",http://revolutionarygrounds.com/,Tucson,south tucson,AZ,no_shop
+"Espresso Art Cafe, Cocktail Bar & Hookah Lounge","942 E University Blvd, Tucson, AZ 85719",https://www.espressoartcafe.com/,Tucson,south tucson,AZ,no_shop
+Unravel Coffee Vail,"352 E Meadow Dr, Vail, CO 81657",https://www.unravel.coffee/locations/vail-colorado,Tucson,vail,AZ,no_store_page
+Two Arrows Coffee | Bar,"225 Wall St Ste 103a, Vail, CO 81657",https://www.twoarrowscoffee.com/,Tucson,vail,AZ,no_store_page
+Yeti's Grind coffee,"141 E Meadow Dr #108, Vail, CO 81657",http://yetisgrind.com/,Tucson,vail,AZ,no_store_page
+Dos Cabezas Coffee Co.,"308 S Haskell Ave, Willcox, AZ 85643",https://www.doscabezascoffeeco.com/,Tucson,vail,AZ,no_store_page
+Treff Café,"20 Vail Rd, Vail, CO 81657",https://sonnenalp.com/dining/treff-cafe/,Tucson,vail,AZ,no_store_page
+Cyclelogical Coffee,"2012 E White Mountain Blvd, Pinetop, AZ 85935",https://cyclelogicalcoffee.square.site/,Tucson,catalina foothills,AZ,no_store_page
+Stasyss,"6580 E Tanque Verde Rd, Tucson, AZ 85715",http://www.stasyss.com/,Tucson,drexel heights,AZ,no_coffee_keywords

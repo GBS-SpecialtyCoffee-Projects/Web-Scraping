@@ -226,5 +226,25 @@
     "meriden",
     "west haven",
     "milford"
+  ],
+  "worcester, ma": [
+    "worcester",
+    "shrewsbury",
+    "leicester",
+    "auburn",
+    "west boylston",
+    "holden",
+    "grafton",
+    "millbury"
+  ],
+  "seattle, wa": [
+    "seattle",
+    "bellevue",
+    "tacoma",
+    "everett",
+    "kent",
+    "renton",
+    "redmond",
+    "federal way"
   ]
 }

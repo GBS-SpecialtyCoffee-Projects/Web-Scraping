@@ -1,0 +1,1655 @@
+2026-03-18 11:03:00,227 - __main__ - INFO - Logging to file: logs/Denver_CO.log
+2026-03-18 11:03:00,227 - __main__ - INFO - Location context: state=CO, country=USA
+2026-03-18 11:03:17,341 - __main__ - INFO - Launched headless browser with stealth context
+2026-03-18 11:03:17,702 - __main__ - INFO - Loaded master list: 2473 names, 2425 domains
+2026-03-18 11:03:17,710 - __main__ - INFO - Discovering metropolitan area for denver, co...
+2026-03-18 11:03:20,654 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:03:20,670 - __main__ - INFO - Discovered metro cities for denver, co: ['denver', 'aurora', 'lakewood', 'thornton', 'arvada', 'westminster', 'centennial', 'littleton']
+2026-03-18 11:03:20,830 - __main__ - INFO - Geocoded 'Denver, CO' -> (39.7392358, -104.990251)
+2026-03-18 11:03:20,831 - __main__ - INFO - Using location bias: (39.7392358, -104.990251) with radius 100000m
+2026-03-18 11:03:20,832 - __main__ - INFO - === PROCESSING CITY: denver ===
+2026-03-18 11:03:20,832 - __main__ - INFO - Searching for 'specialty coffee roaster in denver, CO, USA'
+2026-03-18 11:03:21,566 - __main__ - INFO -   Added: Wagon Coffee Roasters
+2026-03-18 11:03:22,647 - __main__ - INFO -   Added: Corvus Coffee Roasters
+2026-03-18 11:03:23,736 - __main__ - INFO -   Added: Coda Coffee
+2026-03-18 11:03:24,848 - __main__ - INFO -   Added: Selah Coffee Co. | Coffee Cart Catering in Denver
+2026-03-18 11:03:25,960 - __main__ - INFO -   Added: Procession Coffee
+2026-03-18 11:03:27,048 - __main__ - INFO -   Added: Moonrise Coffee Roasters
+2026-03-18 11:03:28,173 - __main__ - INFO -   Added: Locus Coffee
+2026-03-18 11:03:29,314 - __main__ - INFO -   Added: Migas Coffee
+2026-03-18 11:03:30,474 - __main__ - INFO -   Added: Novo Coffee (Roastery + Supply)
+2026-03-18 11:03:31,555 - __main__ - INFO -   Added: Little Owl Coffee - LoHi
+2026-03-18 11:03:32,690 - __main__ - INFO -   Added: Nowhere Coffee
+2026-03-18 11:03:33,831 - __main__ - INFO -   Added: MiddleState Coffee
+2026-03-18 11:03:34,914 - __main__ - INFO -   Added: Servant Coffee
+2026-03-18 11:03:35,996 - __main__ - INFO -   Added: Huckleberry Roasters
+2026-03-18 11:03:37,081 - __main__ - INFO -   Added: Scr3am & Sugar Coffee Co.
+2026-03-18 11:03:38,182 - __main__ - INFO -   Added: Parley Coffee Roasters
+2026-03-18 11:03:39,264 - __main__ - INFO -   Added: Metropolis Coffee
+2026-03-18 11:03:42,887 - __main__ - INFO -   Added: RoasterShare
+2026-03-18 11:03:44,061 - __main__ - INFO -   Added: Lavender Coffee Boutique
+2026-03-18 11:03:45,144 - __main__ - INFO -   Added: Blue Sparrow Coffee
+2026-03-18 11:03:46,299 - __main__ - INFO -   Added: Garden Coffee Co. Roastery
+2026-03-18 11:03:47,380 - __main__ - INFO -   Added: Lilac Coffee
+2026-03-18 11:03:48,486 - __main__ - INFO -   Added: The DNVR Coffee Co
+2026-03-18 11:03:49,627 - __main__ - INFO -   Added: Kaladi Coffee Roasters
+2026-03-18 11:03:50,753 - __main__ - INFO -   Added: Sapor Coffee & Concepts
+2026-03-18 11:03:51,840 - __main__ - INFO -   Added: Sweet Bloom Coffee
+2026-03-18 11:03:52,944 - __main__ - INFO -   Added: First Crack Coffee
+2026-03-18 11:03:56,599 - __main__ - INFO -   Added: Coffee Sarap
+2026-03-18 11:03:57,678 - __main__ - INFO -   Added: Bworz coffee
+2026-03-18 11:03:58,894 - __main__ - INFO -   Added: Red Silo Coffee Roasters
+2026-03-18 11:04:00,019 - __main__ - INFO -   Added: Queen City Collective Coffee
+2026-03-18 11:04:01,138 - __main__ - INFO -   Added: Luna Gourmet Coffee & Tea Co. Headquarters
+2026-03-18 11:04:02,255 - __main__ - INFO -   Added: Crema Coffee House
+2026-03-18 11:04:03,370 - __main__ - INFO -   Added: Cafe Typica small batch roasters
+2026-03-18 11:04:04,453 - __main__ - INFO -   Added: Brew Culture Coffee
+2026-03-18 11:04:05,538 - __main__ - INFO -   Added: Copper Door Coffee Roasters
+2026-03-18 11:04:06,664 - __main__ - INFO -   Added: Imack Coffee
+2026-03-18 11:04:07,749 - __main__ - INFO -   Added: Vivid Minds Cafe
+2026-03-18 11:04:08,751 - __main__ - INFO - Searching for 'artisan coffee roaster in denver, CO, USA'
+2026-03-18 11:04:09,319 - __main__ - INFO -   Added: Amp Artisan Coffee
+2026-03-18 11:04:10,510 - __main__ - INFO -   Added: Hearth
+2026-03-18 11:04:14,229 - __main__ - INFO -   Added: Art Club Coffee
+2026-03-18 11:04:15,420 - __main__ - INFO -   Added: SONDER Coffee & Tea
+2026-03-18 11:04:16,563 - __main__ - INFO -   Added: Roostercat Coffee House
+2026-03-18 11:04:17,691 - __main__ - INFO -   Added: Jubilee Roasting Co.
+2026-03-18 11:04:18,899 - __main__ - INFO -   Added: The Coffee Ride - Coffee Roasters & Cafe
+2026-03-18 11:04:20,024 - __main__ - INFO -   Added: Mango Tree Coffee
+2026-03-18 11:04:21,108 - __main__ - INFO -   Added: Village Roaster Coffee & Tea
+2026-03-18 11:04:22,210 - __main__ - INFO -   Added: Verb Coffee Roasters
+2026-03-18 11:04:23,376 - __main__ - INFO -   Added: The Great American Coffee Company
+2026-03-18 11:04:24,467 - __main__ - INFO -   Added: Dazbog Coffee Company
+2026-03-18 11:04:27,931 - __main__ - INFO -   Added: Elevation Coffee Traders
+2026-03-18 11:04:29,029 - __main__ - INFO -   Added: Thump Coffee
+2026-03-18 11:04:30,134 - __main__ - INFO -   Added: Boyer's Coffee
+2026-03-18 11:04:31,228 - __main__ - INFO -   Added: Ampersand Coffee Roasters
+2026-03-18 11:04:32,363 - __main__ - INFO -   Added: Sati Coffee Co
+2026-03-18 11:04:33,471 - __main__ - INFO -   Added: Stella's Coffee Haus
+2026-03-18 11:04:34,555 - __main__ - INFO -   Added: Steam Espresso Bar
+2026-03-18 11:04:35,751 - __main__ - INFO -   Added: Lost Coffee
+2026-03-18 11:04:36,886 - __main__ - INFO -   Added: Pigtrain Coffee Company
+2026-03-18 11:04:37,890 - __main__ - INFO - Processing https://www.wagoncoffeeroasters.com/
+2026-03-18 11:04:40,023 - __main__ - INFO - BS4 scrape successful for https://www.wagoncoffeeroasters.com/ (3000 chars)
+2026-03-18 11:04:40,032 - __main__ - INFO - Shop link detected in nav for https://www.wagoncoffeeroasters.com/, skipping GPT shop check
+2026-03-18 11:04:40,035 - __main__ - INFO - [Depth 1] Checking: https://www.wagoncoffeeroasters.com/
+2026-03-18 11:04:41,911 - __main__ - INFO - BS4 scrape successful for https://www.wagoncoffeeroasters.com/ (3000 chars)
+2026-03-18 11:04:42,543 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:42,560 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.wagoncoffeeroasters.com/
+2026-03-18 11:04:44,399 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:44,421 - __main__ - INFO - [Depth 2] Checking: https://www.wagoncoffeeroasters.com/collections/all-products
+2026-03-18 11:04:46,389 - __main__ - INFO - BS4 scrape successful for https://www.wagoncoffeeroasters.com/collections/all-products (3000 chars)
+2026-03-18 11:04:46,900 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:46,912 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.wagoncoffeeroasters.com/collections/all-products
+2026-03-18 11:04:46,926 - __main__ - INFO - Processing http://www.corvuscoffee.com/
+2026-03-18 11:04:48,186 - __main__ - INFO - BS4 scrape successful for http://www.corvuscoffee.com/ (1845 chars)
+2026-03-18 11:04:48,202 - __main__ - INFO - Shop link detected in nav for http://www.corvuscoffee.com/, skipping GPT shop check
+2026-03-18 11:04:48,208 - __main__ - INFO - [Depth 1] Checking: http://www.corvuscoffee.com/
+2026-03-18 11:04:48,621 - __main__ - INFO - BS4 scrape successful for http://www.corvuscoffee.com/ (1845 chars)
+2026-03-18 11:04:49,606 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:49,611 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.corvuscoffee.com/
+2026-03-18 11:04:50,579 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:50,609 - __main__ - INFO - [Depth 2] Checking: http://www.corvuscoffee.com/pages/all-coffees
+2026-03-18 11:04:52,449 - __main__ - INFO - BS4 scrape successful for http://www.corvuscoffee.com/pages/all-coffees (2920 chars)
+2026-03-18 11:04:52,842 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:52,848 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.corvuscoffee.com/pages/all-coffees
+2026-03-18 11:04:52,852 - __main__ - INFO - Processing http://codacoffee.com/
+2026-03-18 11:04:53,969 - __main__ - INFO - BS4 scrape successful for http://codacoffee.com/ (1599 chars)
+2026-03-18 11:04:53,976 - __main__ - INFO - Shop link detected in nav for http://codacoffee.com/, skipping GPT shop check
+2026-03-18 11:04:53,978 - __main__ - INFO - [Depth 1] Checking: http://codacoffee.com/
+2026-03-18 11:04:54,101 - __main__ - INFO - BS4 scrape successful for http://codacoffee.com/ (1599 chars)
+2026-03-18 11:04:54,561 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:54,565 - __main__ - INFO - Found coffee-selling page at depth 1: http://codacoffee.com/
+2026-03-18 11:04:55,096 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:55,108 - __main__ - INFO - [Depth 2] Checking: http://codacoffee.com/buy-online
+2026-03-18 11:04:55,465 - __main__ - INFO - BS4 scrape successful for http://codacoffee.com/buy-online (1614 chars)
+2026-03-18 11:04:56,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:04:56,022 - __main__ - INFO - Found coffee-selling page at depth 2: http://codacoffee.com/buy-online
+2026-03-18 11:04:56,026 - __main__ - INFO - Processing http://selah.coffee/
+2026-03-18 11:04:56,137 - __main__ - WARNING - BS4 scrape failed for http://selah.coffee/: 403 Client Error: Forbidden for url: http://selah.coffee/
+2026-03-18 11:04:56,138 - __main__ - INFO - BS4 failed for http://selah.coffee/, trying Playwright
+2026-03-18 11:05:00,146 - __main__ - INFO - Only 2 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:05:04,713 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:04,718 - __main__ - INFO - Skipped (no shop): http://selah.coffee/
+2026-03-18 11:05:04,722 - __main__ - INFO - Processing http://www.processioncoffee.com/
+2026-03-18 11:05:05,130 - __main__ - INFO - BS4 returned insufficient content (86 chars) for http://www.processioncoffee.com/, trying Playwright
+2026-03-18 11:05:11,812 - __main__ - INFO - Shop link detected in nav for http://www.processioncoffee.com/, skipping GPT shop check
+2026-03-18 11:05:11,818 - __main__ - INFO - [Depth 1] Checking: http://www.processioncoffee.com/
+2026-03-18 11:05:11,938 - __main__ - INFO - BS4 returned insufficient content (86 chars) for http://www.processioncoffee.com/, trying Playwright
+2026-03-18 11:05:17,830 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:18,519 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:18,522 - __main__ - INFO - [Depth 2] Checking: http://www.processioncoffee.com/webstore
+2026-03-18 11:05:19,157 - __main__ - INFO - BS4 scrape successful for http://www.processioncoffee.com/webstore (1304 chars)
+2026-03-18 11:05:19,630 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:19,635 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.processioncoffee.com/webstore
+2026-03-18 11:05:19,636 - __main__ - INFO - Processing https://moonrisecoffeeroasters.com/
+2026-03-18 11:05:20,744 - __main__ - INFO - BS4 scrape successful for https://moonrisecoffeeroasters.com/ (3000 chars)
+2026-03-18 11:05:20,754 - __main__ - INFO - Shop link detected in nav for https://moonrisecoffeeroasters.com/, skipping GPT shop check
+2026-03-18 11:05:20,757 - __main__ - INFO - [Depth 1] Checking: https://moonrisecoffeeroasters.com/
+2026-03-18 11:05:22,178 - __main__ - INFO - BS4 scrape successful for https://moonrisecoffeeroasters.com/ (3000 chars)
+2026-03-18 11:05:22,638 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:22,645 - __main__ - INFO - Found coffee-selling page at depth 1: https://moonrisecoffeeroasters.com/
+2026-03-18 11:05:23,503 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:23,511 - __main__ - INFO - [Depth 2] Checking: https://moonrisecoffeeroasters.com/collections/all
+2026-03-18 11:05:24,440 - __main__ - INFO - BS4 scrape successful for https://moonrisecoffeeroasters.com/collections/all (1689 chars)
+2026-03-18 11:05:24,979 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:24,991 - __main__ - INFO - Found coffee-selling page at depth 2: https://moonrisecoffeeroasters.com/collections/all
+2026-03-18 11:05:25,009 - __main__ - INFO - Processing https://www.morucoffee.com/
+2026-03-18 11:05:26,019 - __main__ - INFO - BS4 scrape successful for https://www.morucoffee.com/ (1005 chars)
+2026-03-18 11:05:26,034 - __main__ - INFO - Shop link detected in nav for https://www.morucoffee.com/, skipping GPT shop check
+2026-03-18 11:05:26,043 - __main__ - INFO - [Depth 1] Checking: https://www.morucoffee.com/
+2026-03-18 11:05:27,995 - __main__ - INFO - BS4 scrape successful for https://www.morucoffee.com/ (1005 chars)
+2026-03-18 11:05:28,350 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:28,384 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.morucoffee.com/
+2026-03-18 11:05:28,885 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:28,896 - __main__ - INFO - [Depth 2] Checking: https://www.morucoffee.com/purchase
+2026-03-18 11:05:29,399 - __main__ - INFO - BS4 returned insufficient content (146 chars) for https://www.morucoffee.com/purchase, trying Playwright
+2026-03-18 11:05:42,198 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:42,884 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:42,893 - __main__ - INFO - [Depth 3] Checking: https://www.morucoffee.com/purchase?category=coffee
+2026-03-18 11:05:43,470 - __main__ - INFO - BS4 returned insufficient content (146 chars) for https://www.morucoffee.com/purchase?category=coffee, trying Playwright
+2026-03-18 11:05:54,281 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:05:54,295 - __main__ - INFO - Found coffee-selling page at depth 3: https://www.morucoffee.com/purchase?category=coffee
+2026-03-18 11:05:54,295 - __main__ - INFO - Processing https://www.migascoffee.com/
+2026-03-18 11:05:57,627 - __main__ - INFO - BS4 scrape successful for https://www.migascoffee.com/ (3000 chars)
+2026-03-18 11:05:57,650 - __main__ - INFO - Shop link detected in nav for https://www.migascoffee.com/, skipping GPT shop check
+2026-03-18 11:05:57,653 - __main__ - INFO - [Depth 1] Checking: https://www.migascoffee.com/
+2026-03-18 11:05:59,228 - __main__ - INFO - BS4 scrape successful for https://www.migascoffee.com/ (3000 chars)
+2026-03-18 11:05:59,701 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:00,640 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:00,645 - __main__ - INFO - Skipped (no store page found): https://www.migascoffee.com/
+2026-03-18 11:06:00,647 - __main__ - INFO - Processing http://www.novocoffee.com/
+2026-03-18 11:06:02,820 - __main__ - INFO - BS4 scrape successful for http://www.novocoffee.com/ (3000 chars)
+2026-03-18 11:06:02,834 - __main__ - INFO - Shop link detected in nav for http://www.novocoffee.com/, skipping GPT shop check
+2026-03-18 11:06:02,837 - __main__ - INFO - [Depth 1] Checking: http://www.novocoffee.com/
+2026-03-18 11:06:03,984 - __main__ - INFO - BS4 scrape successful for http://www.novocoffee.com/ (3000 chars)
+2026-03-18 11:06:04,431 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:04,443 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.novocoffee.com/
+2026-03-18 11:06:05,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:05,432 - __main__ - INFO - [Depth 2] Checking: https://novocoffee.com/shop/
+2026-03-18 11:06:06,164 - __main__ - INFO - BS4 scrape successful for https://novocoffee.com/shop/ (2775 chars)
+2026-03-18 11:06:06,610 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:06,629 - __main__ - INFO - Found coffee-selling page at depth 2: https://novocoffee.com/shop/
+2026-03-18 11:06:06,631 - __main__ - INFO - Processing http://littleowlcoffee.com/
+2026-03-18 11:06:06,915 - __main__ - INFO - BS4 scrape successful for http://littleowlcoffee.com/ (403 chars)
+2026-03-18 11:06:06,919 - __main__ - INFO - Shop link detected in nav for http://littleowlcoffee.com/, skipping GPT shop check
+2026-03-18 11:06:06,919 - __main__ - INFO - [Depth 1] Checking: http://littleowlcoffee.com/
+2026-03-18 11:06:06,999 - __main__ - INFO - BS4 scrape successful for http://littleowlcoffee.com/ (403 chars)
+2026-03-18 11:06:07,383 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:07,387 - __main__ - INFO - Found coffee-selling page at depth 1: http://littleowlcoffee.com/
+2026-03-18 11:06:08,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:08,017 - __main__ - INFO - [Depth 2] Checking: http://littleowlcoffee.com/store/ethiopia-ayla-shawantanene
+2026-03-18 11:06:08,355 - __main__ - INFO - BS4 scrape successful for http://littleowlcoffee.com/store/ethiopia-ayla-shawantanene (732 chars)
+2026-03-18 11:06:09,981 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:09,984 - __main__ - INFO - Found coffee-selling page at depth 2: http://littleowlcoffee.com/store/ethiopia-ayla-shawantanene
+2026-03-18 11:06:09,988 - __main__ - INFO - Processing http://nowherecoffee.co/
+2026-03-18 11:06:10,233 - __main__ - INFO - BS4 returned insufficient content (16 chars) for http://nowherecoffee.co/, trying Playwright
+2026-03-18 11:06:18,731 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:18,734 - __main__ - INFO - Skipped (no shop): http://nowherecoffee.co/
+2026-03-18 11:06:18,734 - __main__ - INFO - Processing http://www.middlestatecoffee.com/
+2026-03-18 11:06:19,116 - __main__ - INFO - BS4 scrape successful for http://www.middlestatecoffee.com/ (243 chars)
+2026-03-18 11:06:19,123 - __main__ - INFO - Shop link detected in nav for http://www.middlestatecoffee.com/, skipping GPT shop check
+2026-03-18 11:06:19,131 - __main__ - INFO - [Depth 1] Checking: http://www.middlestatecoffee.com/
+2026-03-18 11:06:19,242 - __main__ - INFO - BS4 scrape successful for http://www.middlestatecoffee.com/ (243 chars)
+2026-03-18 11:06:19,499 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:19,514 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.middlestatecoffee.com/
+2026-03-18 11:06:20,457 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:20,471 - __main__ - INFO - [Depth 2] Checking: http://www.middlestatecoffee.com/shop?category=coffee
+2026-03-18 11:06:21,034 - __main__ - INFO - BS4 returned insufficient content (26 chars) for http://www.middlestatecoffee.com/shop?category=coffee, trying Playwright
+2026-03-18 11:06:30,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:30,449 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.middlestatecoffee.com/shop?category=coffee
+2026-03-18 11:06:30,451 - __main__ - INFO - Processing https://servantcoffee.com/
+2026-03-18 11:06:31,059 - __main__ - INFO - BS4 scrape successful for https://servantcoffee.com/ (456 chars)
+2026-03-18 11:06:31,067 - __main__ - INFO - Shop link detected in nav for https://servantcoffee.com/, skipping GPT shop check
+2026-03-18 11:06:31,068 - __main__ - INFO - [Depth 1] Checking: https://servantcoffee.com/
+2026-03-18 11:06:31,338 - __main__ - INFO - BS4 scrape successful for https://servantcoffee.com/ (456 chars)
+2026-03-18 11:06:31,774 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:31,799 - __main__ - INFO - Found coffee-selling page at depth 1: https://servantcoffee.com/
+2026-03-18 11:06:32,414 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:32,441 - __main__ - INFO - [Depth 2] Checking: https://servantcoffee.com/product-category/coffee/
+2026-03-18 11:06:32,937 - __main__ - INFO - BS4 scrape successful for https://servantcoffee.com/product-category/coffee/ (1237 chars)
+2026-03-18 11:06:33,612 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:33,621 - __main__ - INFO - Found coffee-selling page at depth 2: https://servantcoffee.com/product-category/coffee/
+2026-03-18 11:06:33,630 - __main__ - INFO - Processing http://huckleberryroasters.com/
+2026-03-18 11:06:35,435 - __main__ - INFO - BS4 scrape successful for http://huckleberryroasters.com/ (1386 chars)
+2026-03-18 11:06:35,448 - __main__ - INFO - Shop link detected in nav for http://huckleberryroasters.com/, skipping GPT shop check
+2026-03-18 11:06:35,450 - __main__ - INFO - [Depth 1] Checking: http://huckleberryroasters.com/
+2026-03-18 11:06:36,114 - __main__ - INFO - BS4 scrape successful for http://huckleberryroasters.com/ (1386 chars)
+2026-03-18 11:06:36,468 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:36,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:36,998 - __main__ - INFO - [Depth 2] Checking: http://huckleberryroasters.com/shop
+2026-03-18 11:06:37,715 - __main__ - INFO - BS4 scrape successful for http://huckleberryroasters.com/shop (317 chars)
+2026-03-18 11:06:38,220 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:38,249 - __main__ - INFO - Found coffee-selling page at depth 2: http://huckleberryroasters.com/shop
+2026-03-18 11:06:38,286 - __main__ - INFO - Processing http://www.scr3amnsugar.com/
+2026-03-18 11:06:38,922 - __main__ - INFO - BS4 returned insufficient content (55 chars) for http://www.scr3amnsugar.com/, trying Playwright
+2026-03-18 11:06:55,163 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:06:55,168 - __main__ - INFO - Skipped (no shop): http://www.scr3amnsugar.com/
+2026-03-18 11:06:55,171 - __main__ - INFO - Processing https://parleycoffee.com/
+2026-03-18 11:06:55,875 - __main__ - WARNING - BS4 scrape failed for https://parleycoffee.com/: 404 Client Error: Not Found for url: https://www.parleycoffee.com/
+2026-03-18 11:06:55,879 - __main__ - INFO - BS4 failed for https://parleycoffee.com/, trying Playwright
+2026-03-18 11:07:03,417 - __main__ - INFO - Only 0 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:07:08,344 - __main__ - INFO - Skipped (no coffee keywords): https://parleycoffee.com/
+2026-03-18 11:07:08,345 - __main__ - INFO - Processing http://metropolisdenver.com/
+2026-03-18 11:07:08,568 - __main__ - INFO - BS4 scrape successful for http://metropolisdenver.com/ (583 chars)
+2026-03-18 11:07:09,117 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:09,128 - __main__ - INFO - Skipped (no shop): http://metropolisdenver.com/
+2026-03-18 11:07:09,132 - __main__ - INFO - Processing https://www.roastershare.com/about-us-location
+2026-03-18 11:07:09,763 - __main__ - INFO - BS4 returned insufficient content (197 chars) for https://www.roastershare.com/about-us-location, trying Playwright
+2026-03-18 11:07:19,955 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:19,963 - __main__ - INFO - Skipped (no shop): https://www.roastershare.com/about-us-location
+2026-03-18 11:07:19,967 - __main__ - INFO - Processing http://lavendercb.com/
+2026-03-18 11:07:21,209 - __main__ - INFO - BS4 scrape successful for http://lavendercb.com/ (3000 chars)
+2026-03-18 11:07:21,228 - __main__ - INFO - Shop link detected in nav for http://lavendercb.com/, skipping GPT shop check
+2026-03-18 11:07:21,232 - __main__ - INFO - [Depth 1] Checking: http://lavendercb.com/
+2026-03-18 11:07:22,374 - __main__ - INFO - BS4 scrape successful for http://lavendercb.com/ (3000 chars)
+2026-03-18 11:07:27,201 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:27,226 - __main__ - INFO - Found coffee-selling page at depth 1: http://lavendercb.com/
+2026-03-18 11:07:27,899 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:27,904 - __main__ - INFO - [Depth 2] Checking: http://lavendercb.com/collections/lavender-coffee
+2026-03-18 11:07:28,617 - __main__ - INFO - BS4 scrape successful for http://lavendercb.com/collections/lavender-coffee (2659 chars)
+2026-03-18 11:07:29,163 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:29,171 - __main__ - INFO - Found coffee-selling page at depth 2: http://lavendercb.com/collections/lavender-coffee
+2026-03-18 11:07:29,173 - __main__ - INFO - Processing https://bluesparrowcoffee.com/
+2026-03-18 11:07:29,900 - __main__ - INFO - BS4 returned insufficient content (152 chars) for https://bluesparrowcoffee.com/, trying Playwright
+2026-03-18 11:07:38,040 - __main__ - INFO - Shop link detected in nav for https://bluesparrowcoffee.com/, skipping GPT shop check
+2026-03-18 11:07:38,053 - __main__ - INFO - [Depth 1] Checking: https://bluesparrowcoffee.com/
+2026-03-18 11:07:38,373 - __main__ - INFO - BS4 returned insufficient content (152 chars) for https://bluesparrowcoffee.com/, trying Playwright
+2026-03-18 11:07:45,740 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:46,349 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:46,384 - __main__ - INFO - Skipped (no store page found): https://bluesparrowcoffee.com/
+2026-03-18 11:07:46,389 - __main__ - INFO - Processing https://www.gardencoffeeco.com/
+2026-03-18 11:07:47,850 - __main__ - INFO - BS4 scrape successful for https://www.gardencoffeeco.com/ (1366 chars)
+2026-03-18 11:07:47,859 - __main__ - INFO - Shop link detected in nav for https://www.gardencoffeeco.com/, skipping GPT shop check
+2026-03-18 11:07:47,865 - __main__ - INFO - [Depth 1] Checking: https://www.gardencoffeeco.com/
+2026-03-18 11:07:48,177 - __main__ - INFO - BS4 scrape successful for https://www.gardencoffeeco.com/ (1366 chars)
+2026-03-18 11:07:48,798 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:48,809 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.gardencoffeeco.com/
+2026-03-18 11:07:49,656 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:49,659 - __main__ - INFO - [Depth 2] Checking: https://gardencoffeeco.com/shop/finca-la-limonera/
+2026-03-18 11:07:54,326 - __main__ - INFO - BS4 scrape successful for https://gardencoffeeco.com/shop/finca-la-limonera/ (1527 chars)
+2026-03-18 11:07:54,679 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:54,685 - __main__ - INFO - Found coffee-selling page at depth 2: https://gardencoffeeco.com/shop/finca-la-limonera/
+2026-03-18 11:07:54,688 - __main__ - INFO - Processing https://lilaccoffee.com/
+2026-03-18 11:07:55,991 - __main__ - INFO - BS4 scrape successful for https://lilaccoffee.com/ (787 chars)
+2026-03-18 11:07:55,999 - __main__ - INFO - Shop link detected in nav for https://lilaccoffee.com/, skipping GPT shop check
+2026-03-18 11:07:55,999 - __main__ - INFO - [Depth 1] Checking: https://lilaccoffee.com/
+2026-03-18 11:07:56,468 - __main__ - INFO - BS4 scrape successful for https://lilaccoffee.com/ (787 chars)
+2026-03-18 11:07:56,910 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:57,346 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:57,351 - __main__ - INFO - [Depth 2] Checking: https://www.lilaccoffee.com/store
+2026-03-18 11:07:57,600 - __main__ - INFO - BS4 scrape successful for https://www.lilaccoffee.com/store (235 chars)
+2026-03-18 11:07:58,122 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:58,126 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.lilaccoffee.com/store
+2026-03-18 11:07:58,128 - __main__ - INFO - Processing http://www.thednvrcoffeeco.com/
+2026-03-18 11:07:58,485 - __main__ - INFO - BS4 scrape successful for http://www.thednvrcoffeeco.com/ (1972 chars)
+2026-03-18 11:07:58,984 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:07:58,989 - __main__ - INFO - [Depth 1] Checking: http://www.thednvrcoffeeco.com/
+2026-03-18 11:07:59,100 - __main__ - INFO - BS4 scrape successful for http://www.thednvrcoffeeco.com/ (1972 chars)
+2026-03-18 11:07:59,487 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:00,318 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:00,341 - __main__ - INFO - Skipped (no store page found): http://www.thednvrcoffeeco.com/
+2026-03-18 11:08:00,346 - __main__ - INFO - Processing http://kaladicoffee.com/
+2026-03-18 11:08:01,514 - __main__ - INFO - BS4 scrape successful for http://kaladicoffee.com/ (1033 chars)
+2026-03-18 11:08:01,534 - __main__ - INFO - Shop link detected in nav for http://kaladicoffee.com/, skipping GPT shop check
+2026-03-18 11:08:01,541 - __main__ - INFO - [Depth 1] Checking: http://kaladicoffee.com/
+2026-03-18 11:08:02,039 - __main__ - INFO - BS4 scrape successful for http://kaladicoffee.com/ (1033 chars)
+2026-03-18 11:08:02,345 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:02,353 - __main__ - INFO - Found coffee-selling page at depth 1: http://kaladicoffee.com/
+2026-03-18 11:08:02,967 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:02,972 - __main__ - INFO - [Depth 2] Checking: https://kaladicoffee.com/shop/
+2026-03-18 11:08:03,687 - __main__ - INFO - BS4 scrape successful for https://kaladicoffee.com/shop/ (2999 chars)
+2026-03-18 11:08:04,085 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:04,091 - __main__ - INFO - Found coffee-selling page at depth 2: https://kaladicoffee.com/shop/
+2026-03-18 11:08:04,094 - __main__ - INFO - Processing https://saporcoffee.com/
+2026-03-18 11:08:05,636 - __main__ - INFO - BS4 returned insufficient content (30 chars) for https://saporcoffee.com/, trying Playwright
+2026-03-18 11:08:19,706 - __main__ - INFO - Shop link detected in nav for https://saporcoffee.com/, skipping GPT shop check
+2026-03-18 11:08:19,712 - __main__ - INFO - [Depth 1] Checking: https://saporcoffee.com/
+2026-03-18 11:08:19,939 - __main__ - INFO - BS4 returned insufficient content (30 chars) for https://saporcoffee.com/, trying Playwright
+2026-03-18 11:08:30,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:31,216 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:31,226 - __main__ - INFO - Skipped (no store page found): https://saporcoffee.com/
+2026-03-18 11:08:31,229 - __main__ - INFO - Processing http://sweetbloomcoffee.com/
+2026-03-18 11:08:32,333 - __main__ - INFO - BS4 scrape successful for http://sweetbloomcoffee.com/ (2546 chars)
+2026-03-18 11:08:32,348 - __main__ - INFO - Shop link detected in nav for http://sweetbloomcoffee.com/, skipping GPT shop check
+2026-03-18 11:08:32,348 - __main__ - INFO - [Depth 1] Checking: http://sweetbloomcoffee.com/
+2026-03-18 11:08:34,378 - __main__ - INFO - BS4 scrape successful for http://sweetbloomcoffee.com/ (2546 chars)
+2026-03-18 11:08:35,057 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:35,065 - __main__ - INFO - Found coffee-selling page at depth 1: http://sweetbloomcoffee.com/
+2026-03-18 11:08:35,658 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:35,692 - __main__ - INFO - [Depth 2] Checking: http://sweetbloomcoffee.com/collections/coffee
+2026-03-18 11:08:36,901 - __main__ - INFO - BS4 scrape successful for http://sweetbloomcoffee.com/collections/coffee (1781 chars)
+2026-03-18 11:08:37,451 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:37,456 - __main__ - INFO - Found coffee-selling page at depth 2: http://sweetbloomcoffee.com/collections/coffee
+2026-03-18 11:08:37,459 - __main__ - INFO - Processing http://firstcrack.com/
+2026-03-18 11:08:38,927 - __main__ - INFO - BS4 scrape successful for http://firstcrack.com/ (2964 chars)
+2026-03-18 11:08:39,532 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:39,536 - __main__ - INFO - Skipped (no shop): http://firstcrack.com/
+2026-03-18 11:08:39,539 - __main__ - INFO - Processing http://www.coffeesarap.com/
+2026-03-18 11:08:40,644 - __main__ - INFO - BS4 scrape successful for http://www.coffeesarap.com/ (1384 chars)
+2026-03-18 11:08:40,648 - __main__ - INFO - Shop link detected in nav for http://www.coffeesarap.com/, skipping GPT shop check
+2026-03-18 11:08:40,651 - __main__ - INFO - [Depth 1] Checking: http://www.coffeesarap.com/
+2026-03-18 11:08:42,468 - __main__ - INFO - BS4 scrape successful for http://www.coffeesarap.com/ (1384 chars)
+2026-03-18 11:08:42,872 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:43,436 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:43,442 - __main__ - INFO - [Depth 2] Checking: https://www.coffeesarap.com/category/all-products
+2026-03-18 11:08:44,147 - __main__ - INFO - BS4 scrape successful for https://www.coffeesarap.com/category/all-products (717 chars)
+2026-03-18 11:08:44,525 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:44,870 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:44,875 - __main__ - INFO - Skipped (no store page found): http://www.coffeesarap.com/
+2026-03-18 11:08:44,886 - __main__ - INFO - Processing https://bworzcoffee.com/
+2026-03-18 11:08:48,978 - __main__ - INFO - BS4 scrape successful for https://bworzcoffee.com/ (3000 chars)
+2026-03-18 11:08:49,429 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:49,434 - __main__ - INFO - Skipped (no shop): https://bworzcoffee.com/
+2026-03-18 11:08:49,438 - __main__ - INFO - Processing https://www.redsilocoffeeroasters.com/
+2026-03-18 11:08:50,089 - __main__ - INFO - BS4 scrape successful for https://www.redsilocoffeeroasters.com/ (3000 chars)
+2026-03-18 11:08:50,096 - __main__ - INFO - Shop link detected in nav for https://www.redsilocoffeeroasters.com/, skipping GPT shop check
+2026-03-18 11:08:50,098 - __main__ - INFO - [Depth 1] Checking: https://www.redsilocoffeeroasters.com/
+2026-03-18 11:08:50,439 - __main__ - INFO - BS4 scrape successful for https://www.redsilocoffeeroasters.com/ (3000 chars)
+2026-03-18 11:08:51,384 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:51,847 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:51,866 - __main__ - INFO - Skipped (no store page found): https://www.redsilocoffeeroasters.com/
+2026-03-18 11:08:51,868 - __main__ - INFO - Processing https://queencitycollectivecoffee.com/
+2026-03-18 11:08:54,243 - __main__ - INFO - BS4 scrape successful for https://queencitycollectivecoffee.com/ (3000 chars)
+2026-03-18 11:08:54,270 - __main__ - INFO - Shop link detected in nav for https://queencitycollectivecoffee.com/, skipping GPT shop check
+2026-03-18 11:08:54,276 - __main__ - INFO - [Depth 1] Checking: https://queencitycollectivecoffee.com/
+2026-03-18 11:08:54,966 - __main__ - INFO - BS4 scrape successful for https://queencitycollectivecoffee.com/ (3000 chars)
+2026-03-18 11:08:55,395 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:55,411 - __main__ - INFO - Found coffee-selling page at depth 1: https://queencitycollectivecoffee.com/
+2026-03-18 11:08:56,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:56,492 - __main__ - INFO - [Depth 2] Checking: https://queencitycollectivecoffee.com/collections/coffee
+2026-03-18 11:08:57,741 - __main__ - INFO - BS4 scrape successful for https://queencitycollectivecoffee.com/collections/coffee (3000 chars)
+2026-03-18 11:08:58,139 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:08:58,143 - __main__ - INFO - Found coffee-selling page at depth 2: https://queencitycollectivecoffee.com/collections/coffee
+2026-03-18 11:08:58,147 - __main__ - INFO - Processing http://www.lunagourmet.com/
+2026-03-18 11:08:59,467 - __main__ - INFO - BS4 scrape successful for http://www.lunagourmet.com/ (1164 chars)
+2026-03-18 11:08:59,487 - __main__ - INFO - Shop link detected in nav for http://www.lunagourmet.com/, skipping GPT shop check
+2026-03-18 11:08:59,487 - __main__ - INFO - [Depth 1] Checking: http://www.lunagourmet.com/
+2026-03-18 11:09:00,359 - __main__ - INFO - BS4 scrape successful for http://www.lunagourmet.com/ (1164 chars)
+2026-03-18 11:09:00,852 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:09:01,391 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:09:01,419 - __main__ - INFO - [Depth 2] Checking: https://www.coffeeam.com
+2026-03-18 11:09:05,921 - __main__ - INFO - BS4 scrape successful for https://www.coffeeam.com (2999 chars)
+2026-03-18 11:09:07,158 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:09:07,267 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.coffeeam.com
+2026-03-18 11:09:07,267 - __main__ - INFO - Processing http://cremacoffeehouse.net/
+2026-03-18 11:09:08,949 - __main__ - INFO - BS4 returned insufficient content (89 chars) for http://cremacoffeehouse.net/, trying Playwright
+2026-03-18 11:11:27,061 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:11:28,850 - __main__ - INFO - Skipped (no shop): http://cremacoffeehouse.net/
+2026-03-18 11:11:28,889 - __main__ - INFO - Processing https://cafetypica.com/
+2026-03-18 11:11:46,018 - __main__ - INFO - BS4 scrape successful for https://cafetypica.com/ (3000 chars)
+2026-03-18 11:11:46,035 - __main__ - INFO - Shop link detected in nav for https://cafetypica.com/, skipping GPT shop check
+2026-03-18 11:11:46,044 - __main__ - INFO - [Depth 1] Checking: https://cafetypica.com/
+2026-03-18 11:11:47,930 - __main__ - INFO - BS4 scrape successful for https://cafetypica.com/ (3000 chars)
+2026-03-18 11:11:48,576 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:11:49,265 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:11:49,273 - __main__ - INFO - [Depth 2] Checking: https://cafetypica.com/online-coffee-shop/
+2026-03-18 11:11:51,002 - __main__ - INFO - BS4 scrape successful for https://cafetypica.com/online-coffee-shop/ (3000 chars)
+2026-03-18 11:11:51,537 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:11:51,549 - __main__ - INFO - Found coffee-selling page at depth 2: https://cafetypica.com/online-coffee-shop/
+2026-03-18 11:11:51,563 - __main__ - INFO - Processing http://www.brewculturecoffee.com/
+2026-03-18 11:11:52,628 - __main__ - INFO - BS4 scrape successful for http://www.brewculturecoffee.com/ (1738 chars)
+2026-03-18 11:11:52,635 - __main__ - INFO - Shop link detected in nav for http://www.brewculturecoffee.com/, skipping GPT shop check
+2026-03-18 11:11:52,643 - __main__ - INFO - [Depth 1] Checking: http://www.brewculturecoffee.com/
+2026-03-18 11:11:53,456 - __main__ - INFO - BS4 scrape successful for http://www.brewculturecoffee.com/ (1738 chars)
+2026-03-18 11:11:53,779 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:11:54,803 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:11:54,818 - __main__ - INFO - Skipped (no store page found): http://www.brewculturecoffee.com/
+2026-03-18 11:11:54,821 - __main__ - INFO - Processing https://copperdoorcoffee.com/
+2026-03-18 11:11:59,639 - __main__ - INFO - BS4 scrape successful for https://copperdoorcoffee.com/ (2499 chars)
+2026-03-18 11:11:59,817 - __main__ - INFO - Shop link detected in nav for https://copperdoorcoffee.com/, skipping GPT shop check
+2026-03-18 11:11:59,844 - __main__ - INFO - [Depth 1] Checking: https://copperdoorcoffee.com/
+2026-03-18 11:12:12,907 - __main__ - INFO - BS4 scrape successful for https://copperdoorcoffee.com/ (2499 chars)
+2026-03-18 11:12:14,737 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:15,056 - __main__ - INFO - Found coffee-selling page at depth 1: https://copperdoorcoffee.com/
+2026-03-18 11:12:16,581 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:16,610 - __main__ - INFO - [Depth 2] Checking: https://copperdoorcoffee.com/collections/coffee
+2026-03-18 11:12:30,895 - __main__ - INFO - BS4 scrape successful for https://copperdoorcoffee.com/collections/coffee (1667 chars)
+2026-03-18 11:12:31,979 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:32,113 - __main__ - INFO - Found coffee-selling page at depth 2: https://copperdoorcoffee.com/collections/coffee
+2026-03-18 11:12:32,114 - __main__ - INFO - Processing http://imackcoffee.com/
+2026-03-18 11:12:35,545 - __main__ - INFO - BS4 scrape successful for http://imackcoffee.com/ (1861 chars)
+2026-03-18 11:12:35,606 - __main__ - INFO - Shop link detected in nav for http://imackcoffee.com/, skipping GPT shop check
+2026-03-18 11:12:35,625 - __main__ - INFO - [Depth 1] Checking: http://imackcoffee.com/
+2026-03-18 11:12:36,454 - __main__ - INFO - BS4 scrape successful for http://imackcoffee.com/ (1861 chars)
+2026-03-18 11:12:37,005 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:37,937 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:37,953 - __main__ - INFO - [Depth 2] Checking: https://imack-coffee.myshopify.com/
+2026-03-18 11:12:41,229 - __main__ - INFO - BS4 scrape successful for https://imack-coffee.myshopify.com/ (1576 chars)
+2026-03-18 11:12:41,671 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:41,704 - __main__ - INFO - Found coffee-selling page at depth 2: https://imack-coffee.myshopify.com/
+2026-03-18 11:12:41,704 - __main__ - INFO - Processing https://vividmindscafe.com/
+2026-03-18 11:12:43,659 - __main__ - INFO - BS4 scrape successful for https://vividmindscafe.com/ (3000 chars)
+2026-03-18 11:12:43,685 - __main__ - INFO - Shop link detected in nav for https://vividmindscafe.com/, skipping GPT shop check
+2026-03-18 11:12:43,691 - __main__ - INFO - [Depth 1] Checking: https://vividmindscafe.com/
+2026-03-18 11:12:45,111 - __main__ - INFO - BS4 scrape successful for https://vividmindscafe.com/ (3000 chars)
+2026-03-18 11:12:45,964 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:46,804 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:46,829 - __main__ - INFO - [Depth 2] Checking: https://vividmindscafe.com/products-list
+2026-03-18 11:12:51,276 - __main__ - INFO - BS4 scrape successful for https://vividmindscafe.com/products-list (869 chars)
+2026-03-18 11:12:52,236 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:53,149 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:12:53,185 - __main__ - INFO - Skipped (no store page found): https://vividmindscafe.com/
+2026-03-18 11:12:53,188 - __main__ - INFO - Processing http://ampartisancoffee.com/
+2026-03-18 11:12:55,631 - __main__ - INFO - BS4 failed for http://ampartisancoffee.com/, trying Playwright
+2026-03-18 11:13:33,877 - __main__ - INFO - Only 0 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:14:12,263 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:14:12,267 - __main__ - INFO - [Depth 1] Checking: http://ampartisancoffee.com/
+2026-03-18 11:14:13,055 - __main__ - INFO - BS4 failed for http://ampartisancoffee.com/, trying Playwright
+2026-03-18 11:14:46,566 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:15:33,388 - __main__ - INFO - Skipped (no store page found): http://ampartisancoffee.com/
+2026-03-18 11:15:33,443 - __main__ - INFO - Processing http://hearthdenver.com/
+2026-03-18 11:15:34,710 - __main__ - INFO - BS4 scrape successful for http://hearthdenver.com/ (1135 chars)
+2026-03-18 11:15:34,731 - __main__ - INFO - Shop link detected in nav for http://hearthdenver.com/, skipping GPT shop check
+2026-03-18 11:15:34,747 - __main__ - INFO - [Depth 1] Checking: http://hearthdenver.com/
+2026-03-18 11:15:35,624 - __main__ - INFO - BS4 scrape successful for http://hearthdenver.com/ (1135 chars)
+2026-03-18 11:15:36,470 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:36,976 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:36,995 - __main__ - INFO - Skipped (no store page found): http://hearthdenver.com/
+2026-03-18 11:15:36,997 - __main__ - INFO - Processing http://www.artclubcoffee.com/
+2026-03-18 11:15:37,861 - __main__ - INFO - BS4 scrape successful for http://www.artclubcoffee.com/ (460 chars)
+2026-03-18 11:15:37,869 - __main__ - INFO - Shop link detected in nav for http://www.artclubcoffee.com/, skipping GPT shop check
+2026-03-18 11:15:37,871 - __main__ - INFO - [Depth 1] Checking: http://www.artclubcoffee.com/
+2026-03-18 11:15:38,350 - __main__ - INFO - BS4 scrape successful for http://www.artclubcoffee.com/ (460 chars)
+2026-03-18 11:15:38,689 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:39,409 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:39,462 - __main__ - INFO - [Depth 2] Checking: http://www.artclubcoffee.com/buybeans
+2026-03-18 11:15:40,826 - __main__ - INFO - BS4 scrape successful for http://www.artclubcoffee.com/buybeans (1051 chars)
+2026-03-18 11:15:41,243 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:41,315 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.artclubcoffee.com/buybeans
+2026-03-18 11:15:41,317 - __main__ - INFO - Processing http://www.sondercoffee.co/
+2026-03-18 11:15:48,908 - __main__ - INFO - BS4 scrape successful for http://www.sondercoffee.co/ (732 chars)
+2026-03-18 11:15:48,955 - __main__ - INFO - Shop link detected in nav for http://www.sondercoffee.co/, skipping GPT shop check
+2026-03-18 11:15:48,967 - __main__ - INFO - [Depth 1] Checking: http://www.sondercoffee.co/
+2026-03-18 11:15:51,851 - __main__ - INFO - BS4 scrape successful for http://www.sondercoffee.co/ (732 chars)
+2026-03-18 11:15:52,737 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:52,871 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.sondercoffee.co/
+2026-03-18 11:15:53,574 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:53,881 - __main__ - INFO - Processing http://www.roostercatdenver.com/
+2026-03-18 11:15:57,711 - __main__ - INFO - BS4 scrape successful for http://www.roostercatdenver.com/ (358 chars)
+2026-03-18 11:15:58,290 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:15:58,322 - __main__ - INFO - Skipped (no shop): http://www.roostercatdenver.com/
+2026-03-18 11:15:58,328 - __main__ - INFO - Processing http://jubileeroastingco.com/
+2026-03-18 11:16:17,488 - __main__ - INFO - BS4 scrape successful for http://jubileeroastingco.com/ (2324 chars)
+2026-03-18 11:16:17,519 - __main__ - INFO - Shop link detected in nav for http://jubileeroastingco.com/, skipping GPT shop check
+2026-03-18 11:16:17,544 - __main__ - INFO - [Depth 1] Checking: http://jubileeroastingco.com/
+2026-03-18 11:16:20,180 - __main__ - INFO - BS4 scrape successful for http://jubileeroastingco.com/ (2324 chars)
+2026-03-18 11:16:20,724 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:20,771 - __main__ - INFO - Found coffee-selling page at depth 1: http://jubileeroastingco.com/
+2026-03-18 11:16:21,392 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:21,409 - __main__ - INFO - [Depth 2] Checking: http://jubileeroastingco.com/collections/coffee
+2026-03-18 11:16:24,517 - __main__ - INFO - BS4 scrape successful for http://jubileeroastingco.com/collections/coffee (1050 chars)
+2026-03-18 11:16:25,715 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:25,754 - __main__ - INFO - Found coffee-selling page at depth 2: http://jubileeroastingco.com/collections/coffee
+2026-03-18 11:16:25,756 - __main__ - INFO - Processing http://thecoffeeride.com/
+2026-03-18 11:16:29,229 - __main__ - INFO - BS4 scrape successful for http://thecoffeeride.com/ (3000 chars)
+2026-03-18 11:16:29,316 - __main__ - INFO - Shop link detected in nav for http://thecoffeeride.com/, skipping GPT shop check
+2026-03-18 11:16:29,321 - __main__ - INFO - [Depth 1] Checking: http://thecoffeeride.com/
+2026-03-18 11:16:30,765 - __main__ - INFO - BS4 scrape successful for http://thecoffeeride.com/ (3000 chars)
+2026-03-18 11:16:32,471 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:32,533 - __main__ - INFO - Found coffee-selling page at depth 1: http://thecoffeeride.com/
+2026-03-18 11:16:33,455 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:33,470 - __main__ - INFO - [Depth 2] Checking: http://thecoffeeride.com/collections/coffee
+2026-03-18 11:16:36,374 - __main__ - INFO - BS4 scrape successful for http://thecoffeeride.com/collections/coffee (1820 chars)
+2026-03-18 11:16:37,224 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:37,353 - __main__ - INFO - Found coffee-selling page at depth 2: http://thecoffeeride.com/collections/coffee
+2026-03-18 11:16:37,354 - __main__ - INFO - Processing http://www.mangotreecoffee.org/
+2026-03-18 11:16:40,702 - __main__ - INFO - BS4 scrape successful for http://www.mangotreecoffee.org/ (277 chars)
+2026-03-18 11:16:40,723 - __main__ - INFO - Shop link detected in nav for http://www.mangotreecoffee.org/, skipping GPT shop check
+2026-03-18 11:16:40,754 - __main__ - INFO - [Depth 1] Checking: http://www.mangotreecoffee.org/
+2026-03-18 11:16:41,846 - __main__ - INFO - BS4 scrape successful for http://www.mangotreecoffee.org/ (277 chars)
+2026-03-18 11:16:42,321 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:42,856 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:16:42,892 - __main__ - INFO - [Depth 2] Checking: https://www.mangotreecoffee.org/shop
+2026-03-18 11:16:43,575 - __main__ - INFO - BS4 returned insufficient content (51 chars) for https://www.mangotreecoffee.org/shop, trying Playwright
+2026-03-18 11:17:04,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:04,459 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:04,465 - __main__ - INFO - Skipped (no store page found): http://www.mangotreecoffee.org/
+2026-03-18 11:17:04,475 - __main__ - INFO - Processing http://villageroaster.com/
+2026-03-18 11:17:07,696 - __main__ - INFO - BS4 scrape successful for http://villageroaster.com/ (1402 chars)
+2026-03-18 11:17:07,714 - __main__ - INFO - Shop link detected in nav for http://villageroaster.com/, skipping GPT shop check
+2026-03-18 11:17:07,715 - __main__ - INFO - [Depth 1] Checking: http://villageroaster.com/
+2026-03-18 11:17:08,446 - __main__ - INFO - BS4 scrape successful for http://villageroaster.com/ (1402 chars)
+2026-03-18 11:17:08,790 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:08,799 - __main__ - INFO - Found coffee-selling page at depth 1: http://villageroaster.com/
+2026-03-18 11:17:09,372 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:09,387 - __main__ - INFO - [Depth 2] Checking: https://villageroaster.com/shop/coffee/
+2026-03-18 11:17:10,609 - __main__ - INFO - BS4 scrape successful for https://villageroaster.com/shop/coffee/ (1200 chars)
+2026-03-18 11:17:11,068 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:11,072 - __main__ - INFO - Found coffee-selling page at depth 2: https://villageroaster.com/shop/coffee/
+2026-03-18 11:17:11,077 - __main__ - INFO - Processing http://verbcoffeeroasters.com/
+2026-03-18 11:17:13,589 - __main__ - INFO - BS4 scrape successful for http://verbcoffeeroasters.com/ (2999 chars)
+2026-03-18 11:17:13,600 - __main__ - INFO - Shop link detected in nav for http://verbcoffeeroasters.com/, skipping GPT shop check
+2026-03-18 11:17:13,602 - __main__ - INFO - [Depth 1] Checking: http://verbcoffeeroasters.com/
+2026-03-18 11:17:15,755 - __main__ - INFO - BS4 scrape successful for http://verbcoffeeroasters.com/ (2999 chars)
+2026-03-18 11:17:16,311 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:16,335 - __main__ - INFO - Found coffee-selling page at depth 1: http://verbcoffeeroasters.com/
+2026-03-18 11:17:16,923 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:16,927 - __main__ - INFO - [Depth 2] Checking: http://verbcoffeeroasters.com/collections/all
+2026-03-18 11:17:17,739 - __main__ - INFO - BS4 scrape successful for http://verbcoffeeroasters.com/collections/all (3000 chars)
+2026-03-18 11:17:18,649 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:18,658 - __main__ - INFO - Found coffee-selling page at depth 2: http://verbcoffeeroasters.com/collections/all
+2026-03-18 11:17:18,662 - __main__ - INFO - Processing https://gourmetofficecoffee.com/
+2026-03-18 11:17:25,133 - __main__ - INFO - BS4 scrape successful for https://gourmetofficecoffee.com/ (2999 chars)
+2026-03-18 11:17:26,036 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:26,085 - __main__ - INFO - Skipped (no shop): https://gourmetofficecoffee.com/
+2026-03-18 11:17:26,085 - __main__ - INFO - Processing https://dazbog.com/
+2026-03-18 11:17:27,098 - __main__ - INFO - BS4 scrape successful for https://dazbog.com/ (3000 chars)
+2026-03-18 11:17:27,189 - __main__ - INFO - Shop link detected in nav for https://dazbog.com/, skipping GPT shop check
+2026-03-18 11:17:27,198 - __main__ - INFO - [Depth 1] Checking: https://dazbog.com/
+2026-03-18 11:17:28,454 - __main__ - INFO - BS4 scrape successful for https://dazbog.com/ (3000 chars)
+2026-03-18 11:17:28,835 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:28,898 - __main__ - INFO - Found coffee-selling page at depth 1: https://dazbog.com/
+2026-03-18 11:17:29,446 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:29,468 - __main__ - INFO - [Depth 2] Checking: https://dazbog.com/product-category/coffee/
+2026-03-18 11:17:31,332 - __main__ - INFO - BS4 scrape successful for https://dazbog.com/product-category/coffee/ (3000 chars)
+2026-03-18 11:17:31,749 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:31,770 - __main__ - INFO - Found coffee-selling page at depth 2: https://dazbog.com/product-category/coffee/
+2026-03-18 11:17:31,775 - __main__ - INFO - Processing http://elevationcoffee.com/
+2026-03-18 11:17:33,094 - __main__ - INFO - BS4 scrape successful for http://elevationcoffee.com/ (789 chars)
+2026-03-18 11:17:33,491 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:33,510 - __main__ - INFO - [Depth 1] Checking: http://elevationcoffee.com/
+2026-03-18 11:17:34,380 - __main__ - INFO - BS4 scrape successful for http://elevationcoffee.com/ (789 chars)
+2026-03-18 11:17:34,722 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:35,573 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:35,584 - __main__ - INFO - [Depth 2] Checking: http://elevationcoffee.com/pages/coffee-catalog
+2026-03-18 11:17:36,152 - __main__ - INFO - BS4 scrape successful for http://elevationcoffee.com/pages/coffee-catalog (224 chars)
+2026-03-18 11:17:36,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:36,911 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:36,921 - __main__ - INFO - [Depth 3] Checking: http://elevationcoffee.com/cart
+2026-03-18 11:17:37,406 - __main__ - INFO - BS4 scrape successful for http://elevationcoffee.com/cart (625 chars)
+2026-03-18 11:17:37,751 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:38,253 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:38,264 - __main__ - INFO - Skipped (no store page found): http://elevationcoffee.com/
+2026-03-18 11:17:38,270 - __main__ - INFO - Processing http://www.thumpcoffee.com/
+2026-03-18 11:17:40,699 - __main__ - INFO - BS4 scrape successful for http://www.thumpcoffee.com/ (1133 chars)
+2026-03-18 11:17:40,747 - __main__ - INFO - Shop link detected in nav for http://www.thumpcoffee.com/, skipping GPT shop check
+2026-03-18 11:17:40,756 - __main__ - INFO - [Depth 1] Checking: http://www.thumpcoffee.com/
+2026-03-18 11:17:46,369 - __main__ - INFO - BS4 scrape successful for http://www.thumpcoffee.com/ (1133 chars)
+2026-03-18 11:17:47,793 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:47,872 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.thumpcoffee.com/
+2026-03-18 11:17:48,649 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:48,782 - __main__ - INFO - [Depth 2] Checking: https://www.thumpcoffee.com/shop?category=coffee
+2026-03-18 11:17:50,702 - __main__ - INFO - BS4 scrape successful for https://www.thumpcoffee.com/shop?category=coffee (613 chars)
+2026-03-18 11:17:51,133 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:51,141 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.thumpcoffee.com/shop?category=coffee
+2026-03-18 11:17:51,151 - __main__ - INFO - Processing https://www.boyerscoffee.com/pages/cafe
+2026-03-18 11:17:52,055 - __main__ - INFO - BS4 scrape successful for https://www.boyerscoffee.com/pages/cafe (2707 chars)
+2026-03-18 11:17:52,068 - __main__ - INFO - Shop link detected in nav for https://www.boyerscoffee.com/pages/cafe, skipping GPT shop check
+2026-03-18 11:17:52,072 - __main__ - INFO - [Depth 1] Checking: https://www.boyerscoffee.com/pages/cafe
+2026-03-18 11:17:52,752 - __main__ - INFO - BS4 scrape successful for https://www.boyerscoffee.com/pages/cafe (2707 chars)
+2026-03-18 11:17:53,351 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:53,355 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.boyerscoffee.com/pages/cafe
+2026-03-18 11:17:54,598 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:54,604 - __main__ - INFO - [Depth 2] Checking: https://www.boyerscoffee.com/collections/coffee
+2026-03-18 11:17:55,802 - __main__ - INFO - BS4 scrape successful for https://www.boyerscoffee.com/collections/coffee (2924 chars)
+2026-03-18 11:17:56,527 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:17:56,541 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.boyerscoffee.com/collections/coffee
+2026-03-18 11:17:56,541 - __main__ - INFO - Processing https://www.ampersand-coffee.com/?utm_source=GMB&utm_medium=website&utm_campaign=AmpersandCoffee
+2026-03-18 11:17:57,584 - __main__ - INFO - BS4 scrape successful for https://www.ampersand-coffee.com/?utm_source=GMB&utm_medium=website&utm_campaign=AmpersandCoffee (3000 chars)
+2026-03-18 11:17:57,598 - __main__ - INFO - Shop link detected in nav for https://www.ampersand-coffee.com/?utm_source=GMB&utm_medium=website&utm_campaign=AmpersandCoffee, skipping GPT shop check
+2026-03-18 11:17:57,601 - __main__ - INFO - [Depth 1] Checking: https://www.ampersand-coffee.com/?utm_source=GMB&utm_medium=website&utm_campaign=AmpersandCoffee
+2026-03-18 11:17:59,959 - __main__ - INFO - BS4 scrape successful for https://www.ampersand-coffee.com/?utm_source=GMB&utm_medium=website&utm_campaign=AmpersandCoffee (3000 chars)
+2026-03-18 11:18:00,403 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:00,411 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.ampersand-coffee.com/?utm_source=GMB&utm_medium=website&utm_campaign=AmpersandCoffee
+2026-03-18 11:18:01,501 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:01,542 - __main__ - INFO - [Depth 2] Checking: https://www.ampersand-coffee.com/collections/organic-coffee
+2026-03-18 11:18:04,433 - __main__ - INFO - BS4 scrape successful for https://www.ampersand-coffee.com/collections/organic-coffee (3000 chars)
+2026-03-18 11:18:04,945 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:04,957 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.ampersand-coffee.com/collections/organic-coffee
+2026-03-18 11:18:04,982 - __main__ - INFO - Processing https://www.saticoldbrew.com/
+2026-03-18 11:18:06,886 - __main__ - INFO - BS4 scrape successful for https://www.saticoldbrew.com/ (1516 chars)
+2026-03-18 11:18:06,896 - __main__ - INFO - Shop link detected in nav for https://www.saticoldbrew.com/, skipping GPT shop check
+2026-03-18 11:18:06,910 - __main__ - INFO - [Depth 1] Checking: https://www.saticoldbrew.com/
+2026-03-18 11:18:08,956 - __main__ - INFO - BS4 scrape successful for https://www.saticoldbrew.com/ (1516 chars)
+2026-03-18 11:18:09,545 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:09,582 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.saticoldbrew.com/
+2026-03-18 11:18:10,228 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:10,330 - __main__ - INFO - [Depth 2] Checking: https://www.saticoldbrew.com/whole-bean-coffee
+2026-03-18 11:18:12,261 - __main__ - INFO - BS4 scrape successful for https://www.saticoldbrew.com/whole-bean-coffee (477 chars)
+2026-03-18 11:18:13,110 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:13,202 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.saticoldbrew.com/whole-bean-coffee
+2026-03-18 11:18:13,202 - __main__ - INFO - Processing https://stellascoffee.com/
+2026-03-18 11:18:16,662 - __main__ - INFO - BS4 scrape successful for https://stellascoffee.com/ (2566 chars)
+2026-03-18 11:18:17,185 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:17,262 - __main__ - INFO - Skipped (no shop): https://stellascoffee.com/
+2026-03-18 11:18:17,270 - __main__ - INFO - Processing http://www.steamespressobar.com/
+2026-03-18 11:18:18,986 - __main__ - INFO - BS4 scrape successful for http://www.steamespressobar.com/ (211 chars)
+2026-03-18 11:18:19,052 - __main__ - INFO - Shop link detected in nav for http://www.steamespressobar.com/, skipping GPT shop check
+2026-03-18 11:18:19,052 - __main__ - INFO - [Depth 1] Checking: http://www.steamespressobar.com/
+2026-03-18 11:18:20,669 - __main__ - INFO - BS4 scrape successful for http://www.steamespressobar.com/ (211 chars)
+2026-03-18 11:18:21,139 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:22,391 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:22,568 - __main__ - INFO - [Depth 2] Checking: http://www.steamespressobar.com/shop
+2026-03-18 11:18:35,015 - __main__ - INFO - BS4 scrape successful for http://www.steamespressobar.com/shop (531 chars)
+2026-03-18 11:18:36,337 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:38,558 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:18:38,618 - __main__ - INFO - [Depth 3] Checking: https://steamtogo.square.site/s/order?location=11ea6df7652d6b67ae500cc47a2ae330#6
+2026-03-18 11:18:40,516 - __main__ - INFO - BS4 returned insufficient content (22 chars) for https://steamtogo.square.site/s/order?location=11ea6df7652d6b67ae500cc47a2ae330#6, trying Playwright
+2026-03-18 11:19:13,190 - __main__ - ERROR - Playwright scrape failed for https://steamtogo.square.site/s/order?location=11ea6df7652d6b67ae500cc47a2ae330#6: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://steamtogo.square.site/s/order?location=11ea6df7652d6b67ae500cc47a2ae330#6", waiting until "domcontentloaded"
+
+2026-03-18 11:19:13,900 - __main__ - INFO - Skipped (no store page found): http://www.steamespressobar.com/
+2026-03-18 11:19:13,901 - __main__ - INFO - Processing https://www.lostcoffee.com/pages/highlands-ranch
+2026-03-18 11:19:16,155 - __main__ - INFO - BS4 scrape successful for https://www.lostcoffee.com/pages/highlands-ranch (1654 chars)
+2026-03-18 11:19:16,191 - __main__ - INFO - Shop link detected in nav for https://www.lostcoffee.com/pages/highlands-ranch, skipping GPT shop check
+2026-03-18 11:19:16,197 - __main__ - INFO - [Depth 1] Checking: https://www.lostcoffee.com/pages/highlands-ranch
+2026-03-18 11:19:17,339 - __main__ - INFO - BS4 scrape successful for https://www.lostcoffee.com/pages/highlands-ranch (1654 chars)
+2026-03-18 11:19:17,928 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:19:17,942 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.lostcoffee.com/pages/highlands-ranch
+2026-03-18 11:19:19,047 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:19:19,219 - __main__ - INFO - [Depth 2] Checking: https://www.lostcoffee.com/collections/coffee
+2026-03-18 11:19:22,834 - __main__ - INFO - BS4 scrape successful for https://www.lostcoffee.com/collections/coffee (1511 chars)
+2026-03-18 11:19:23,639 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:19:23,985 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.lostcoffee.com/collections/coffee
+2026-03-18 11:19:24,028 - __main__ - INFO - Processing http://www.pigtraincoffee.com/
+2026-03-18 11:19:27,605 - __main__ - INFO - BS4 scrape successful for http://www.pigtraincoffee.com/ (1634 chars)
+2026-03-18 11:19:27,639 - __main__ - INFO - Shop link detected in nav for http://www.pigtraincoffee.com/, skipping GPT shop check
+2026-03-18 11:19:27,647 - __main__ - INFO - [Depth 1] Checking: http://www.pigtraincoffee.com/
+2026-03-18 11:19:30,061 - __main__ - INFO - BS4 scrape successful for http://www.pigtraincoffee.com/ (1634 chars)
+2026-03-18 11:19:30,897 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:19:31,983 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:19:32,032 - __main__ - INFO - [Depth 2] Checking: https://order.online/business/pigtrain-coffee-co-119357
+2026-03-18 11:19:33,309 - __main__ - WARNING - BS4 scrape failed for https://order.online/business/pigtrain-coffee-co-119357: 403 Client Error: Forbidden for url: https://order.online/business/pigtrain-coffee-co-119357
+2026-03-18 11:19:33,383 - __main__ - INFO - BS4 failed for https://order.online/business/pigtrain-coffee-co-119357, trying Playwright
+2026-03-18 11:24:52,502 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:24:58,517 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:24:58,874 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:24:58,895 - __main__ - INFO - Skipped (no store page found): http://www.pigtraincoffee.com/
+2026-03-18 11:24:58,910 - __main__ - INFO - === PROCESSING CITY: aurora ===
+2026-03-18 11:24:58,911 - __main__ - INFO - Searching for 'specialty coffee roaster in aurora, CO, USA'
+2026-03-18 11:25:00,262 - __main__ - INFO -   Added: Carbon Coffee
+2026-03-18 11:25:01,383 - __main__ - INFO -   Added: Mishap Coffee
+2026-03-18 11:25:02,535 - __main__ - INFO -   Added: Berihu coffee
+2026-03-18 11:25:03,699 - __main__ - INFO -   Added: Lucy Coffee House
+2026-03-18 11:25:04,858 - __main__ - INFO -   Added: Ollin Cafetzin
+2026-03-18 11:25:06,042 - __main__ - INFO -   Added: Endless Grind Coffee
+2026-03-18 11:25:07,163 - __main__ - INFO -   Added: Coffee Story by Barakah Brews
+2026-03-18 11:25:08,463 - __main__ - INFO -   Added: Change Please Coffee
+2026-03-18 11:25:09,593 - __main__ - INFO -   Added: Legends Coffee
+2026-03-18 11:25:10,908 - __main__ - INFO -   Added: Wake & Take Café and Event Center
+2026-03-18 11:25:14,683 - __main__ - INFO -   Added: Harar Beans Coffee
+2026-03-18 11:25:15,783 - __main__ - INFO -   Added: Coffee Shop
+2026-03-18 11:25:16,894 - __main__ - INFO -   Added: Kitty Beanz Coffee
+2026-03-18 11:25:18,034 - __main__ - INFO -   Added: Pablo's Coffee - East Colfax
+2026-03-18 11:25:19,145 - __main__ - INFO -   Added: STRAVA CRAFT COFFEE
+2026-03-18 11:25:20,283 - __main__ - INFO -   Added: EMPANADA ESPRESSO Coffee
+2026-03-18 11:25:24,038 - __main__ - INFO - Searching for 'artisan coffee roaster in aurora, CO, USA'
+2026-03-18 11:25:24,713 - __main__ - INFO -   Added: Krack Coffee Coffee Roaster Roasted to order.
+2026-03-18 11:25:25,856 - __main__ - INFO -   Added: Whiskey Barrel Coffee
+2026-03-18 11:25:29,509 - __main__ - INFO -   Added: OTIS Craft Collective
+2026-03-18 11:25:33,170 - __main__ - INFO -   Added: Doulos Coffee Co
+2026-03-18 11:25:34,177 - __main__ - INFO - Processing http://www.carboncoffeebar.com/
+2026-03-18 11:25:35,128 - __main__ - INFO - BS4 scrape successful for http://www.carboncoffeebar.com/ (1613 chars)
+2026-03-18 11:25:35,138 - __main__ - INFO - Shop link detected in nav for http://www.carboncoffeebar.com/, skipping GPT shop check
+2026-03-18 11:25:35,139 - __main__ - INFO - [Depth 1] Checking: http://www.carboncoffeebar.com/
+2026-03-18 11:25:35,472 - __main__ - INFO - BS4 scrape successful for http://www.carboncoffeebar.com/ (1613 chars)
+2026-03-18 11:25:36,200 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:36,606 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:36,618 - __main__ - INFO - Skipped (no store page found): http://www.carboncoffeebar.com/
+2026-03-18 11:25:36,622 - __main__ - INFO - Processing https://www.mishapcoffee.com/
+2026-03-18 11:25:37,520 - __main__ - INFO - BS4 scrape successful for https://www.mishapcoffee.com/ (518 chars)
+2026-03-18 11:25:37,529 - __main__ - INFO - Shop link detected in nav for https://www.mishapcoffee.com/, skipping GPT shop check
+2026-03-18 11:25:37,536 - __main__ - INFO - [Depth 1] Checking: https://www.mishapcoffee.com/
+2026-03-18 11:25:37,816 - __main__ - INFO - BS4 scrape successful for https://www.mishapcoffee.com/ (518 chars)
+2026-03-18 11:25:38,231 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:39,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:39,103 - __main__ - INFO - [Depth 2] Checking: https://www.mishapcoffee.com/store
+2026-03-18 11:25:39,332 - __main__ - INFO - BS4 scrape successful for https://www.mishapcoffee.com/store (474 chars)
+2026-03-18 11:25:39,763 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:39,770 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.mishapcoffee.com/store
+2026-03-18 11:25:39,773 - __main__ - INFO - Processing https://berihucoffee.com/
+2026-03-18 11:25:43,204 - __main__ - INFO - BS4 scrape successful for https://berihucoffee.com/ (2999 chars)
+2026-03-18 11:25:43,208 - __main__ - INFO - Shop link detected in nav for https://berihucoffee.com/, skipping GPT shop check
+2026-03-18 11:25:43,211 - __main__ - INFO - [Depth 1] Checking: https://berihucoffee.com/
+2026-03-18 11:25:44,423 - __main__ - INFO - BS4 scrape successful for https://berihucoffee.com/ (2999 chars)
+2026-03-18 11:25:44,889 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:44,895 - __main__ - INFO - Found coffee-selling page at depth 1: https://berihucoffee.com/
+2026-03-18 11:25:45,620 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:45,627 - __main__ - INFO - [Depth 2] Checking: https://berihucoffee.com/collections/all
+2026-03-18 11:25:46,216 - __main__ - INFO - BS4 scrape successful for https://berihucoffee.com/collections/all (1847 chars)
+2026-03-18 11:25:46,470 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:46,475 - __main__ - INFO - Found coffee-selling page at depth 2: https://berihucoffee.com/collections/all
+2026-03-18 11:25:46,481 - __main__ - INFO - Processing https://lucycoffeehouse.com/
+2026-03-18 11:25:47,420 - __main__ - INFO - BS4 scrape successful for https://lucycoffeehouse.com/ (848 chars)
+2026-03-18 11:25:47,451 - __main__ - INFO - Shop link detected in nav for https://lucycoffeehouse.com/, skipping GPT shop check
+2026-03-18 11:25:47,458 - __main__ - INFO - [Depth 1] Checking: https://lucycoffeehouse.com/
+2026-03-18 11:25:47,975 - __main__ - INFO - BS4 scrape successful for https://lucycoffeehouse.com/ (848 chars)
+2026-03-18 11:25:48,431 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:49,082 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:25:49,108 - __main__ - INFO - [Depth 2] Checking: https://shop.lucycoffeehouse.com/
+2026-03-18 11:26:19,985 - __main__ - WARNING - BS4 scrape failed for https://shop.lucycoffeehouse.com/: HTTPSConnectionPool(host='shop.lucycoffeehouse.com', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 502 error responses'))
+2026-03-18 11:26:19,988 - __main__ - INFO - BS4 failed for https://shop.lucycoffeehouse.com/, trying Playwright
+2026-03-18 11:26:24,276 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:26:28,154 - __main__ - INFO - Skipped (no store page found): https://lucycoffeehouse.com/
+2026-03-18 11:26:28,169 - __main__ - INFO - Processing https://ollincafetzin.squarespace.com/
+2026-03-18 11:26:29,517 - __main__ - INFO - BS4 scrape successful for https://ollincafetzin.squarespace.com/ (1134 chars)
+2026-03-18 11:26:29,527 - __main__ - INFO - Shop link detected in nav for https://ollincafetzin.squarespace.com/, skipping GPT shop check
+2026-03-18 11:26:29,533 - __main__ - INFO - [Depth 1] Checking: https://ollincafetzin.squarespace.com/
+2026-03-18 11:26:30,072 - __main__ - INFO - BS4 scrape successful for https://ollincafetzin.squarespace.com/ (1134 chars)
+2026-03-18 11:26:30,502 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:26:31,242 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:26:31,331 - __main__ - INFO - [Depth 2] Checking: https://ollincafetzin.squarespace.com/ollin-store
+2026-03-18 11:26:33,412 - __main__ - INFO - BS4 scrape successful for https://ollincafetzin.squarespace.com/ollin-store (218 chars)
+2026-03-18 11:26:33,867 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:26:33,925 - __main__ - INFO - Found coffee-selling page at depth 2: https://ollincafetzin.squarespace.com/ollin-store
+2026-03-18 11:26:33,927 - __main__ - INFO - Processing https://www.endlessgrindcoffee.com/
+2026-03-18 11:26:46,703 - __main__ - INFO - BS4 scrape successful for https://www.endlessgrindcoffee.com/ (3000 chars)
+2026-03-18 11:26:47,144 - __main__ - INFO - Skipped (no coffee keywords): https://www.endlessgrindcoffee.com/
+2026-03-18 11:26:47,147 - __main__ - INFO - Processing http://coffeestoryco.com/
+2026-03-18 11:26:52,394 - __main__ - INFO - BS4 scrape successful for http://coffeestoryco.com/ (3000 chars)
+2026-03-18 11:26:54,845 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:26:54,864 - __main__ - INFO - Skipped (no shop): http://coffeestoryco.com/
+2026-03-18 11:26:54,866 - __main__ - INFO - Processing https://changeplease-us.org/
+2026-03-18 11:26:56,512 - __main__ - INFO - BS4 scrape successful for https://changeplease-us.org/ (714 chars)
+2026-03-18 11:26:56,518 - __main__ - INFO - Shop link detected in nav for https://changeplease-us.org/, skipping GPT shop check
+2026-03-18 11:26:56,525 - __main__ - INFO - [Depth 1] Checking: https://changeplease-us.org/
+2026-03-18 11:26:57,183 - __main__ - INFO - BS4 scrape successful for https://changeplease-us.org/ (714 chars)
+2026-03-18 11:26:58,510 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:26:58,514 - __main__ - INFO - Found coffee-selling page at depth 1: https://changeplease-us.org/
+2026-03-18 11:26:59,082 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:26:59,093 - __main__ - INFO - [Depth 2] Checking: https://changeplease-us.org/collections/our-coffee
+2026-03-18 11:27:00,168 - __main__ - INFO - BS4 scrape successful for https://changeplease-us.org/collections/our-coffee (932 chars)
+2026-03-18 11:27:00,713 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:27:00,727 - __main__ - INFO - Found coffee-selling page at depth 2: https://changeplease-us.org/collections/our-coffee
+2026-03-18 11:27:00,728 - __main__ - INFO - Processing http://www.legendscoffeeco.com/
+2026-03-18 11:27:01,829 - __main__ - INFO - BS4 returned insufficient content (95 chars) for http://www.legendscoffeeco.com/, trying Playwright
+2026-03-18 11:27:09,697 - __main__ - INFO - Shop link detected in nav for http://www.legendscoffeeco.com/, skipping GPT shop check
+2026-03-18 11:27:09,717 - __main__ - INFO - [Depth 1] Checking: http://www.legendscoffeeco.com/
+2026-03-18 11:27:10,232 - __main__ - INFO - BS4 returned insufficient content (95 chars) for http://www.legendscoffeeco.com/, trying Playwright
+2026-03-18 11:27:48,145 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:27:48,685 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:27:48,696 - __main__ - INFO - [Depth 2] Checking: http://orderlegendscoffeeco.com
+2026-03-18 11:27:51,120 - __main__ - INFO - BS4 returned insufficient content (24 chars) for http://orderlegendscoffeeco.com, trying Playwright
+2026-03-18 11:28:22,041 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:28:41,118 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:28:41,468 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:28:41,473 - __main__ - INFO - Skipped (no store page found): http://www.legendscoffeeco.com/
+2026-03-18 11:28:41,474 - __main__ - INFO - Processing https://bestcoffeeinaurora.com/
+2026-03-18 11:28:42,115 - __main__ - INFO - BS4 scrape successful for https://bestcoffeeinaurora.com/ (3000 chars)
+2026-03-18 11:28:42,119 - __main__ - INFO - Shop link detected in nav for https://bestcoffeeinaurora.com/, skipping GPT shop check
+2026-03-18 11:28:42,120 - __main__ - INFO - [Depth 1] Checking: https://bestcoffeeinaurora.com/
+2026-03-18 11:28:42,289 - __main__ - INFO - BS4 scrape successful for https://bestcoffeeinaurora.com/ (3000 chars)
+2026-03-18 11:28:44,030 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:28:44,499 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:28:44,509 - __main__ - INFO - Skipped (no store page found): https://bestcoffeeinaurora.com/
+2026-03-18 11:28:44,516 - __main__ - INFO - Processing https://hararbeanscoffee.com/
+2026-03-18 11:28:47,365 - __main__ - INFO - BS4 scrape successful for https://hararbeanscoffee.com/ (2999 chars)
+2026-03-18 11:28:47,889 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:28:47,897 - __main__ - INFO - Skipped (no shop): https://hararbeanscoffee.com/
+2026-03-18 11:28:47,897 - __main__ - INFO - Processing https://coffeeeshop.shop/
+2026-03-18 11:28:47,940 - urllib3.connectionpool - WARNING - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='coffeeeshop.shop', port=443): Failed to resolve 'coffeeeshop.shop' ([Errno -2] Name or service not known)")': /
+2026-03-18 11:28:49,947 - urllib3.connectionpool - WARNING - Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='coffeeeshop.shop', port=443): Failed to resolve 'coffeeeshop.shop' ([Errno -2] Name or service not known)")': /
+2026-03-18 11:28:53,953 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='coffeeeshop.shop', port=443): Failed to resolve 'coffeeeshop.shop' ([Errno -2] Name or service not known)")': /
+2026-03-18 11:29:01,959 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='coffeeeshop.shop', port=443): Failed to resolve 'coffeeeshop.shop' ([Errno -2] Name or service not known)")': /
+2026-03-18 11:29:17,985 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='coffeeeshop.shop', port=443): Failed to resolve 'coffeeeshop.shop' ([Errno -2] Name or service not known)")': /
+2026-03-18 11:29:18,004 - __main__ - WARNING - BS4 scrape failed for https://coffeeeshop.shop/: HTTPSConnectionPool(host='coffeeeshop.shop', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='coffeeeshop.shop', port=443): Failed to resolve 'coffeeeshop.shop' ([Errno -2] Name or service not known)"))
+2026-03-18 11:29:18,005 - __main__ - INFO - BS4 failed for https://coffeeeshop.shop/, trying Playwright
+2026-03-18 11:29:18,676 - __main__ - ERROR - Playwright scrape failed for https://coffeeeshop.shop/: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://coffeeeshop.shop/
+Call log:
+  - navigating to "https://coffeeeshop.shop/", waiting until "domcontentloaded"
+
+2026-03-18 11:29:18,745 - __main__ - INFO - Processing https://www.kittybeanzcoffee.com/
+2026-03-18 11:29:21,330 - __main__ - INFO - BS4 scrape successful for https://www.kittybeanzcoffee.com/ (3000 chars)
+2026-03-18 11:29:21,996 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:29:22,004 - __main__ - INFO - Skipped (no shop): https://www.kittybeanzcoffee.com/
+2026-03-18 11:29:22,026 - __main__ - INFO - Processing http://www.pabloscoffee.com/
+2026-03-18 11:29:24,961 - __main__ - INFO - BS4 scrape successful for http://www.pabloscoffee.com/ (2097 chars)
+2026-03-18 11:29:25,008 - __main__ - INFO - Shop link detected in nav for http://www.pabloscoffee.com/, skipping GPT shop check
+2026-03-18 11:29:25,013 - __main__ - INFO - [Depth 1] Checking: http://www.pabloscoffee.com/
+2026-03-18 11:29:28,281 - __main__ - INFO - BS4 scrape successful for http://www.pabloscoffee.com/ (2097 chars)
+2026-03-18 11:29:28,959 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:29:29,349 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:29:29,365 - __main__ - INFO - Skipped (no store page found): http://www.pabloscoffee.com/
+2026-03-18 11:29:29,365 - __main__ - INFO - Processing https://www.stravacraftcoffee.com/
+2026-03-18 11:29:31,175 - __main__ - INFO - BS4 scrape successful for https://www.stravacraftcoffee.com/ (3000 chars)
+2026-03-18 11:29:31,187 - __main__ - INFO - Shop link detected in nav for https://www.stravacraftcoffee.com/, skipping GPT shop check
+2026-03-18 11:29:31,191 - __main__ - INFO - [Depth 1] Checking: https://www.stravacraftcoffee.com/
+2026-03-18 11:29:32,780 - __main__ - INFO - BS4 scrape successful for https://www.stravacraftcoffee.com/ (3000 chars)
+2026-03-18 11:29:33,227 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:29:33,240 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.stravacraftcoffee.com/
+2026-03-18 11:29:34,134 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:29:34,140 - __main__ - INFO - [Depth 2] Checking: https://www.stravacraftcoffee.com/collections/all-products
+2026-03-18 11:29:34,884 - __main__ - INFO - BS4 scrape successful for https://www.stravacraftcoffee.com/collections/all-products (2373 chars)
+2026-03-18 11:29:36,252 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:29:36,257 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.stravacraftcoffee.com/collections/all-products
+2026-03-18 11:29:36,261 - __main__ - INFO - Processing https://empanada-espresso.square.site/
+2026-03-18 11:29:36,946 - __main__ - INFO - BS4 returned insufficient content (24 chars) for https://empanada-espresso.square.site/, trying Playwright
+2026-03-18 11:29:57,373 - __main__ - INFO - Only 0 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:30:18,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:30:18,412 - __main__ - INFO - Skipped (no shop): https://empanada-espresso.square.site/
+2026-03-18 11:30:18,421 - __main__ - INFO - Processing http://krack-coffee.square.site/
+2026-03-18 11:30:19,435 - __main__ - INFO - BS4 returned insufficient content (20 chars) for http://krack-coffee.square.site/, trying Playwright
+2026-03-18 11:30:38,474 - __main__ - INFO - Only 0 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:30:53,091 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:30:53,112 - __main__ - INFO - [Depth 1] Checking: http://krack-coffee.square.site/
+2026-03-18 11:30:53,736 - __main__ - INFO - BS4 returned insufficient content (20 chars) for http://krack-coffee.square.site/, trying Playwright
+2026-03-18 11:31:13,518 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:31:39,473 - __main__ - INFO - Skipped (no store page found): http://krack-coffee.square.site/
+2026-03-18 11:31:39,498 - __main__ - INFO - Processing http://www.whiskeybarrelcoffee.com/
+2026-03-18 11:31:42,006 - __main__ - INFO - BS4 scrape successful for http://www.whiskeybarrelcoffee.com/ (1418 chars)
+2026-03-18 11:31:42,024 - __main__ - INFO - Shop link detected in nav for http://www.whiskeybarrelcoffee.com/, skipping GPT shop check
+2026-03-18 11:31:42,035 - __main__ - INFO - [Depth 1] Checking: http://www.whiskeybarrelcoffee.com/
+2026-03-18 11:31:43,031 - __main__ - INFO - BS4 scrape successful for http://www.whiskeybarrelcoffee.com/ (1418 chars)
+2026-03-18 11:31:44,715 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:31:44,751 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.whiskeybarrelcoffee.com/
+2026-03-18 11:31:45,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:31:45,412 - __main__ - INFO - [Depth 2] Checking: http://www.whiskeybarrelcoffee.com/collections/classic-line
+2026-03-18 11:31:50,570 - __main__ - INFO - BS4 scrape successful for http://www.whiskeybarrelcoffee.com/collections/classic-line (3000 chars)
+2026-03-18 11:31:51,082 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:31:51,086 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.whiskeybarrelcoffee.com/collections/classic-line
+2026-03-18 11:31:51,091 - __main__ - INFO - Processing https://otis.coffee/
+2026-03-18 11:31:52,581 - __main__ - INFO - BS4 scrape successful for https://otis.coffee/ (3000 chars)
+2026-03-18 11:31:52,665 - __main__ - INFO - Shop link detected in nav for https://otis.coffee/, skipping GPT shop check
+2026-03-18 11:31:52,667 - __main__ - INFO - [Depth 1] Checking: https://otis.coffee/
+2026-03-18 11:31:54,558 - __main__ - INFO - BS4 scrape successful for https://otis.coffee/ (3000 chars)
+2026-03-18 11:31:55,123 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:31:55,153 - __main__ - INFO - Found coffee-selling page at depth 1: https://otis.coffee/
+2026-03-18 11:31:55,808 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:31:55,824 - __main__ - INFO - [Depth 2] Checking: https://otis.coffee/collections/coffee
+2026-03-18 11:31:57,106 - __main__ - INFO - BS4 scrape successful for https://otis.coffee/collections/coffee (1437 chars)
+2026-03-18 11:31:57,714 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:31:57,732 - __main__ - INFO - Found coffee-selling page at depth 2: https://otis.coffee/collections/coffee
+2026-03-18 11:31:57,733 - __main__ - INFO - Processing https://www.douloscoffeeshop.co/
+2026-03-18 11:31:58,896 - __main__ - INFO - BS4 returned insufficient content (26 chars) for https://www.douloscoffeeshop.co/, trying Playwright
+2026-03-18 11:32:16,012 - __main__ - INFO - Only 0 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:32:25,216 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:32:25,221 - __main__ - INFO - [Depth 1] Checking: https://www.douloscoffeeshop.co/
+2026-03-18 11:32:25,254 - __main__ - INFO - BS4 returned insufficient content (26 chars) for https://www.douloscoffeeshop.co/, trying Playwright
+2026-03-18 11:32:34,085 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:32:34,450 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:32:34,454 - __main__ - INFO - [Depth 2] Checking: https://douloscoffee.com/
+2026-03-18 11:32:35,879 - __main__ - INFO - BS4 scrape successful for https://douloscoffee.com/ (3000 chars)
+2026-03-18 11:32:36,457 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:32:36,463 - __main__ - INFO - Found coffee-selling page at depth 2: https://douloscoffee.com/
+2026-03-18 11:32:36,466 - __main__ - INFO - === PROCESSING CITY: lakewood ===
+2026-03-18 11:32:36,466 - __main__ - INFO - Searching for 'specialty coffee roaster in lakewood, CO, USA'
+2026-03-18 11:32:37,082 - __main__ - INFO - Searching for 'artisan coffee roaster in lakewood, CO, USA'
+2026-03-18 11:32:37,874 - __main__ - INFO -   Added: Blue Nest Coffee
+2026-03-18 11:32:39,011 - __main__ - INFO -   Added: Mountain Milk Coffee
+2026-03-18 11:32:40,115 - __main__ - INFO -   Added: Brynmor Coffee
+2026-03-18 11:32:41,255 - __main__ - INFO -   Added: Evermore Coffee
+2026-03-18 11:32:42,398 - __main__ - INFO -   Added: Onto Coffee
+2026-03-18 11:32:43,606 - __main__ - INFO -   Added: Front Porch Coffee Shop
+2026-03-18 11:32:44,695 - __main__ - INFO -   Added: Mint & Serif
+2026-03-18 11:32:48,382 - __main__ - INFO -   Added: Astro Coffee | Coffee Catering in Denver
+2026-03-18 11:32:49,530 - __main__ - INFO -   Added: Goodhart Coffee Catering of Denver
+2026-03-18 11:32:51,197 - __main__ - INFO -   Added: Conscious Coffees
+2026-03-18 11:32:54,841 - __main__ - INFO -   Added: SOGO Beans and Boards
+2026-03-18 11:32:56,001 - __main__ - INFO -   Added: Vellichor Coffee Roasters
+2026-03-18 11:32:57,464 - __main__ - INFO -   Added: The Coffee Roasting Co. at Bittersweet
+2026-03-18 11:32:58,618 - __main__ - INFO -   Added: Juniper Goods
+2026-03-18 11:32:59,781 - __main__ - INFO -   Added: Cafe Olé
+2026-03-18 11:33:00,957 - __main__ - INFO -   Added: Atlas Coffee
+2026-03-18 11:33:02,115 - __main__ - INFO -   Added: GABEE COFFEE
+2026-03-18 11:33:03,259 - __main__ - INFO -   Added: Model Citizen Coffee
+2026-03-18 11:33:04,265 - __main__ - INFO - Processing http://bluenestcoffee.com/
+2026-03-18 11:33:06,366 - __main__ - INFO - BS4 scrape successful for http://bluenestcoffee.com/ (299 chars)
+2026-03-18 11:33:06,394 - __main__ - INFO - Shop link detected in nav for http://bluenestcoffee.com/, skipping GPT shop check
+2026-03-18 11:33:06,395 - __main__ - INFO - [Depth 1] Checking: http://bluenestcoffee.com/
+2026-03-18 11:33:07,400 - __main__ - INFO - BS4 scrape successful for http://bluenestcoffee.com/ (299 chars)
+2026-03-18 11:33:08,046 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:08,540 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:08,556 - __main__ - INFO - [Depth 2] Checking: http://bluenestcoffee.com/shop
+2026-03-18 11:33:08,887 - __main__ - INFO - BS4 scrape successful for http://bluenestcoffee.com/shop (345 chars)
+2026-03-18 11:33:09,275 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:09,280 - __main__ - INFO - Found coffee-selling page at depth 2: http://bluenestcoffee.com/shop
+2026-03-18 11:33:09,281 - __main__ - INFO - Processing http://www.mountainmilkcoffee.com/
+2026-03-18 11:33:10,103 - __main__ - INFO - BS4 scrape successful for http://www.mountainmilkcoffee.com/ (3000 chars)
+2026-03-18 11:33:10,109 - __main__ - INFO - Shop link detected in nav for http://www.mountainmilkcoffee.com/, skipping GPT shop check
+2026-03-18 11:33:10,116 - __main__ - INFO - [Depth 1] Checking: http://www.mountainmilkcoffee.com/
+2026-03-18 11:33:10,645 - __main__ - INFO - BS4 scrape successful for http://www.mountainmilkcoffee.com/ (3000 chars)
+2026-03-18 11:33:11,302 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:13,658 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:13,666 - __main__ - INFO - [Depth 2] Checking: https://order.dripos.com/mountain-milk-coffee
+2026-03-18 11:33:14,200 - __main__ - INFO - BS4 returned insufficient content (20 chars) for https://order.dripos.com/mountain-milk-coffee, trying Playwright
+2026-03-18 11:33:20,060 - __main__ - INFO - Only 1 links from BS4, retrying with Playwright
+2026-03-18 11:33:24,828 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:24,829 - __main__ - INFO - Skipped (no store page found): http://www.mountainmilkcoffee.com/
+2026-03-18 11:33:24,829 - __main__ - INFO - Processing https://www.brynmorcoffee.com/
+2026-03-18 11:33:25,025 - __main__ - INFO - BS4 scrape successful for https://www.brynmorcoffee.com/ (903 chars)
+2026-03-18 11:33:25,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:25,411 - __main__ - INFO - Skipped (no shop): https://www.brynmorcoffee.com/
+2026-03-18 11:33:25,411 - __main__ - INFO - Processing https://evermorecoffeecolorado.com/
+2026-03-18 11:33:25,526 - __main__ - INFO - BS4 scrape successful for https://evermorecoffeecolorado.com/ (937 chars)
+2026-03-18 11:33:25,528 - __main__ - INFO - Shop link detected in nav for https://evermorecoffeecolorado.com/, skipping GPT shop check
+2026-03-18 11:33:25,528 - __main__ - INFO - [Depth 1] Checking: https://evermorecoffeecolorado.com/
+2026-03-18 11:33:25,578 - __main__ - INFO - BS4 scrape successful for https://evermorecoffeecolorado.com/ (937 chars)
+2026-03-18 11:33:25,943 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:26,513 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:26,517 - __main__ - INFO - [Depth 2] Checking: https://4475ad-19.myshopify.com/
+2026-03-18 11:33:27,239 - __main__ - INFO - BS4 scrape successful for https://4475ad-19.myshopify.com/ (2999 chars)
+2026-03-18 11:33:27,600 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:27,906 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:27,909 - __main__ - INFO - Skipped (no store page found): https://evermorecoffeecolorado.com/
+2026-03-18 11:33:27,910 - __main__ - INFO - Processing https://www.ontocoffee.com/
+2026-03-18 11:33:28,347 - __main__ - INFO - BS4 scrape successful for https://www.ontocoffee.com/ (2356 chars)
+2026-03-18 11:33:28,885 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:28,891 - __main__ - INFO - Skipped (no shop): https://www.ontocoffee.com/
+2026-03-18 11:33:28,891 - __main__ - INFO - Processing http://frontporchcoffeeshop.com/
+2026-03-18 11:33:29,869 - __main__ - INFO - BS4 returned insufficient content (54 chars) for http://frontporchcoffeeshop.com/, trying Playwright
+2026-03-18 11:33:39,960 - __main__ - INFO - Shop link detected in nav for http://frontporchcoffeeshop.com/, skipping GPT shop check
+2026-03-18 11:33:39,968 - __main__ - INFO - [Depth 1] Checking: http://frontporchcoffeeshop.com/
+2026-03-18 11:33:40,649 - __main__ - INFO - BS4 returned insufficient content (54 chars) for http://frontporchcoffeeshop.com/, trying Playwright
+2026-03-18 11:33:50,381 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:50,940 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:33:50,944 - __main__ - INFO - [Depth 2] Checking: http://frontporchcoffeeshop.com/s/order
+2026-03-18 11:33:51,563 - __main__ - INFO - BS4 returned insufficient content (60 chars) for http://frontporchcoffeeshop.com/s/order, trying Playwright
+2026-03-18 11:34:00,392 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:01,317 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:01,332 - __main__ - INFO - Skipped (no store page found): http://frontporchcoffeeshop.com/
+2026-03-18 11:34:01,332 - __main__ - INFO - Processing http://mintandserif.com/
+2026-03-18 11:34:01,918 - __main__ - INFO - BS4 scrape successful for http://mintandserif.com/ (796 chars)
+2026-03-18 11:34:01,929 - __main__ - INFO - Shop link detected in nav for http://mintandserif.com/, skipping GPT shop check
+2026-03-18 11:34:01,929 - __main__ - INFO - [Depth 1] Checking: http://mintandserif.com/
+2026-03-18 11:34:02,170 - __main__ - INFO - BS4 scrape successful for http://mintandserif.com/ (796 chars)
+2026-03-18 11:34:02,646 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:03,065 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:03,069 - __main__ - INFO - Skipped (no store page found): http://mintandserif.com/
+2026-03-18 11:34:03,069 - __main__ - INFO - Processing https://www.astrocoffee.com/
+2026-03-18 11:34:03,763 - __main__ - INFO - BS4 scrape successful for https://www.astrocoffee.com/ (3000 chars)
+2026-03-18 11:34:04,175 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:04,179 - __main__ - INFO - Skipped (no shop): https://www.astrocoffee.com/
+2026-03-18 11:34:04,180 - __main__ - INFO - Processing https://goodhartcoffeecatering.com/coffee-catering-and-mobile-barista-in-denver-colorado
+2026-03-18 11:34:06,336 - __main__ - INFO - BS4 scrape successful for https://goodhartcoffeecatering.com/coffee-catering-and-mobile-barista-in-denver-colorado (3000 chars)
+2026-03-18 11:34:07,929 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:07,937 - __main__ - INFO - Skipped (no shop): https://goodhartcoffeecatering.com/coffee-catering-and-mobile-barista-in-denver-colorado
+2026-03-18 11:34:07,939 - __main__ - INFO - Processing https://consciouscoffees.com/
+2026-03-18 11:34:08,634 - __main__ - INFO - BS4 scrape successful for https://consciouscoffees.com/ (1939 chars)
+2026-03-18 11:34:08,636 - __main__ - INFO - Shop link detected in nav for https://consciouscoffees.com/, skipping GPT shop check
+2026-03-18 11:34:08,637 - __main__ - INFO - [Depth 1] Checking: https://consciouscoffees.com/
+2026-03-18 11:34:09,221 - __main__ - INFO - BS4 scrape successful for https://consciouscoffees.com/ (1939 chars)
+2026-03-18 11:34:09,671 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:09,680 - __main__ - INFO - Found coffee-selling page at depth 1: https://consciouscoffees.com/
+2026-03-18 11:34:10,288 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:10,291 - __main__ - INFO - [Depth 2] Checking: https://consciouscoffees.com/collections/coffees
+2026-03-18 11:34:10,675 - __main__ - INFO - BS4 scrape successful for https://consciouscoffees.com/collections/coffees (2245 chars)
+2026-03-18 11:34:11,086 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:11,090 - __main__ - INFO - Found coffee-selling page at depth 2: https://consciouscoffees.com/collections/coffees
+2026-03-18 11:34:11,090 - __main__ - INFO - Processing http://www.sogocoffee.com/
+2026-03-18 11:34:11,397 - __main__ - WARNING - BS4 scrape failed for http://www.sogocoffee.com/: 403 Client Error: Forbidden for url: https://www.sogocoffee.com/
+2026-03-18 11:34:11,398 - __main__ - INFO - BS4 failed for http://www.sogocoffee.com/, trying Playwright
+2026-03-18 11:34:19,501 - __main__ - INFO - Shop link detected in nav for http://www.sogocoffee.com/, skipping GPT shop check
+2026-03-18 11:34:19,501 - __main__ - INFO - [Depth 1] Checking: http://www.sogocoffee.com/
+2026-03-18 11:34:19,823 - __main__ - WARNING - BS4 scrape failed for http://www.sogocoffee.com/: 403 Client Error: Forbidden for url: https://www.sogocoffee.com/
+2026-03-18 11:34:19,849 - __main__ - INFO - BS4 failed for http://www.sogocoffee.com/, trying Playwright
+2026-03-18 11:34:26,481 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:26,875 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:26,885 - __main__ - INFO - Skipped (no store page found): http://www.sogocoffee.com/
+2026-03-18 11:34:26,885 - __main__ - INFO - Processing http://www.vellichorcoffeeshops.com/
+2026-03-18 11:34:27,582 - __main__ - INFO - BS4 returned insufficient content (61 chars) for http://www.vellichorcoffeeshops.com/, trying Playwright
+2026-03-18 11:34:34,708 - __main__ - INFO - Shop link detected in nav for http://www.vellichorcoffeeshops.com/, skipping GPT shop check
+2026-03-18 11:34:34,711 - __main__ - INFO - [Depth 1] Checking: http://www.vellichorcoffeeshops.com/
+2026-03-18 11:34:35,017 - __main__ - INFO - BS4 returned insufficient content (61 chars) for http://www.vellichorcoffeeshops.com/, trying Playwright
+2026-03-18 11:34:45,042 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:45,652 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:45,658 - __main__ - INFO - [Depth 2] Checking: https://vellichorcoffeeroasters.com/collections/all
+2026-03-18 11:34:47,138 - __main__ - INFO - BS4 scrape successful for https://vellichorcoffeeroasters.com/collections/all (3000 chars)
+2026-03-18 11:34:47,813 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:47,823 - __main__ - INFO - Found coffee-selling page at depth 2: https://vellichorcoffeeroasters.com/collections/all
+2026-03-18 11:34:47,824 - __main__ - INFO - Processing http://www.bittersweetcafes.com/
+2026-03-18 11:34:48,130 - __main__ - WARNING - BS4 scrape failed for http://www.bittersweetcafes.com/: 403 Client Error: Forbidden for url: https://www.bittersweetcafes.com/
+2026-03-18 11:34:48,134 - __main__ - INFO - BS4 failed for http://www.bittersweetcafes.com/, trying Playwright
+2026-03-18 11:34:52,183 - __main__ - INFO - Shop link detected in nav for http://www.bittersweetcafes.com/, skipping GPT shop check
+2026-03-18 11:34:52,193 - __main__ - INFO - [Depth 1] Checking: http://www.bittersweetcafes.com/
+2026-03-18 11:34:52,382 - __main__ - WARNING - BS4 scrape failed for http://www.bittersweetcafes.com/: 403 Client Error: Forbidden for url: https://www.bittersweetcafes.com/
+2026-03-18 11:34:52,388 - __main__ - INFO - BS4 failed for http://www.bittersweetcafes.com/, trying Playwright
+2026-03-18 11:34:56,466 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:56,879 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:34:56,892 - __main__ - INFO - Skipped (no store page found): http://www.bittersweetcafes.com/
+2026-03-18 11:34:56,893 - __main__ - INFO - Processing https://www.junipergoods.co/
+2026-03-18 11:34:59,560 - __main__ - INFO - BS4 scrape successful for https://www.junipergoods.co/ (3000 chars)
+2026-03-18 11:34:59,567 - __main__ - INFO - Shop link detected in nav for https://www.junipergoods.co/, skipping GPT shop check
+2026-03-18 11:34:59,568 - __main__ - INFO - [Depth 1] Checking: https://www.junipergoods.co/
+2026-03-18 11:35:01,395 - __main__ - INFO - BS4 scrape successful for https://www.junipergoods.co/ (3000 chars)
+2026-03-18 11:35:01,799 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:02,421 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:02,427 - __main__ - INFO - [Depth 2] Checking: https://www.junipergoods.co/collections/coffee-tea
+2026-03-18 11:35:03,229 - __main__ - INFO - BS4 scrape successful for https://www.junipergoods.co/collections/coffee-tea (815 chars)
+2026-03-18 11:35:03,937 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:03,943 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.junipergoods.co/collections/coffee-tea
+2026-03-18 11:35:03,945 - __main__ - INFO - Processing https://www.cafeole.org/
+2026-03-18 11:35:04,606 - __main__ - INFO - BS4 scrape successful for https://www.cafeole.org/ (2092 chars)
+2026-03-18 11:35:04,618 - __main__ - INFO - Shop link detected in nav for https://www.cafeole.org/, skipping GPT shop check
+2026-03-18 11:35:04,620 - __main__ - INFO - [Depth 1] Checking: https://www.cafeole.org/
+2026-03-18 11:35:05,002 - __main__ - INFO - BS4 scrape successful for https://www.cafeole.org/ (2092 chars)
+2026-03-18 11:35:05,741 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:06,465 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:06,478 - __main__ - INFO - [Depth 2] Checking: https://cafeolelakewood.franpos.com/
+2026-03-18 11:35:06,963 - __main__ - INFO - BS4 scrape successful for https://cafeolelakewood.franpos.com/ (903 chars)
+2026-03-18 11:35:07,442 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:08,007 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:08,010 - __main__ - INFO - [Depth 3] Checking: https://cafeolelakewood.franpos.com/shop
+2026-03-18 11:35:08,120 - __main__ - INFO - BS4 scrape successful for https://cafeolelakewood.franpos.com/shop (903 chars)
+2026-03-18 11:35:08,530 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:09,051 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:09,057 - __main__ - INFO - Skipped (no store page found): https://www.cafeole.org/
+2026-03-18 11:35:09,057 - __main__ - INFO - Processing http://atlascoffees.com/
+2026-03-18 11:35:09,340 - __main__ - INFO - BS4 scrape successful for http://atlascoffees.com/ (994 chars)
+2026-03-18 11:35:09,348 - __main__ - INFO - Shop link detected in nav for http://atlascoffees.com/, skipping GPT shop check
+2026-03-18 11:35:09,349 - __main__ - INFO - [Depth 1] Checking: http://atlascoffees.com/
+2026-03-18 11:35:09,433 - __main__ - INFO - BS4 scrape successful for http://atlascoffees.com/ (994 chars)
+2026-03-18 11:35:09,790 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:10,391 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:10,398 - __main__ - INFO - [Depth 2] Checking: https://atlascoffees.square.site
+2026-03-18 11:35:11,155 - __main__ - INFO - BS4 failed for https://atlascoffees.square.site, trying Playwright
+2026-03-18 11:35:22,873 - __main__ - INFO - Only 4 links from BS4, retrying with Playwright
+2026-03-18 11:35:34,642 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:35,018 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:35,028 - __main__ - INFO - Skipped (no store page found): http://atlascoffees.com/
+2026-03-18 11:35:35,028 - __main__ - INFO - Processing http://gabeecoffee.com/
+2026-03-18 11:35:35,789 - __main__ - INFO - BS4 scrape successful for http://gabeecoffee.com/ (2999 chars)
+2026-03-18 11:35:35,791 - __main__ - INFO - Shop link detected in nav for http://gabeecoffee.com/, skipping GPT shop check
+2026-03-18 11:35:35,791 - __main__ - INFO - [Depth 1] Checking: http://gabeecoffee.com/
+2026-03-18 11:35:36,229 - __main__ - INFO - BS4 scrape successful for http://gabeecoffee.com/ (2999 chars)
+2026-03-18 11:35:36,619 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:36,620 - __main__ - INFO - Found coffee-selling page at depth 1: http://gabeecoffee.com/
+2026-03-18 11:35:40,115 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:40,127 - __main__ - INFO - [Depth 2] Checking: http://gabeecoffee.com/collections/all
+2026-03-18 11:35:40,575 - __main__ - INFO - BS4 scrape successful for http://gabeecoffee.com/collections/all (2999 chars)
+2026-03-18 11:35:40,986 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:40,988 - __main__ - INFO - Found coffee-selling page at depth 2: http://gabeecoffee.com/collections/all
+2026-03-18 11:35:40,989 - __main__ - INFO - Processing https://modelcitizencoffee.com/
+2026-03-18 11:35:41,711 - __main__ - INFO - BS4 scrape successful for https://modelcitizencoffee.com/ (3000 chars)
+2026-03-18 11:35:41,713 - __main__ - INFO - Shop link detected in nav for https://modelcitizencoffee.com/, skipping GPT shop check
+2026-03-18 11:35:41,713 - __main__ - INFO - [Depth 1] Checking: https://modelcitizencoffee.com/
+2026-03-18 11:35:42,234 - __main__ - INFO - BS4 scrape successful for https://modelcitizencoffee.com/ (3000 chars)
+2026-03-18 11:35:42,602 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:42,606 - __main__ - INFO - Found coffee-selling page at depth 1: https://modelcitizencoffee.com/
+2026-03-18 11:35:45,030 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:45,034 - __main__ - INFO - [Depth 2] Checking: https://modelcitizencoffee.com/collections/single-origin
+2026-03-18 11:35:45,649 - __main__ - INFO - BS4 scrape successful for https://modelcitizencoffee.com/collections/single-origin (1550 chars)
+2026-03-18 11:35:45,979 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:35:45,985 - __main__ - INFO - Found coffee-selling page at depth 2: https://modelcitizencoffee.com/collections/single-origin
+2026-03-18 11:35:45,986 - __main__ - INFO - === PROCESSING CITY: thornton ===
+2026-03-18 11:35:45,986 - __main__ - INFO - Searching for 'specialty coffee roaster in thornton, CO, USA'
+2026-03-18 11:35:46,827 - __main__ - INFO -   Added: Dragon Roast Coffee
+2026-03-18 11:35:47,915 - __main__ - INFO -   Added: Subjective Coffee
+2026-03-18 11:35:49,039 - __main__ - INFO -   Added: CA PHE, Vietnamese Coffee and Banh Mi
+2026-03-18 11:35:50,141 - __main__ - INFO -   Added: Thornton Family Coffee Roasters
+2026-03-18 11:35:51,142 - __main__ - INFO - Searching for 'artisan coffee roaster in thornton, CO, USA'
+2026-03-18 11:35:51,774 - __main__ - INFO -   Added: Bleu Sage Cafe
+2026-03-18 11:35:56,023 - __main__ - INFO -   Added: Lisa Anne's Country Cupboard Bakery
+2026-03-18 11:35:57,151 - __main__ - INFO -   Added: Brewing Market Coffee
+2026-03-18 11:35:58,266 - __main__ - INFO -   Added: Kneaders Bakery & Cafe
+2026-03-18 11:35:59,392 - __main__ - INFO -   Added: Bluebird Cafe
+2026-03-18 11:36:00,517 - __main__ - INFO -   Added: MeCo Coffee Collective
+2026-03-18 11:36:01,644 - __main__ - INFO -   Added: Buena Vista Roastery Wholesale
+2026-03-18 11:36:05,157 - __main__ - INFO -   Added: Lima Coffee Roasters - Old Town Coffee Shop
+2026-03-18 11:36:06,256 - __main__ - INFO -   Added: Loveland Coffee Company
+2026-03-18 11:36:07,358 - __main__ - INFO -   Added: Color Coffee
+2026-03-18 11:36:08,455 - __main__ - INFO -   Added: Pete's Cafe
+2026-03-18 11:36:09,776 - __main__ - INFO -   Added: DIRT Coffee Bar
+2026-03-18 11:36:10,777 - __main__ - INFO - Processing https://dragonroast.coffee/
+2026-03-18 11:36:11,717 - __main__ - INFO - BS4 scrape successful for https://dragonroast.coffee/ (3000 chars)
+2026-03-18 11:36:11,729 - __main__ - INFO - Shop link detected in nav for https://dragonroast.coffee/, skipping GPT shop check
+2026-03-18 11:36:11,730 - __main__ - INFO - [Depth 1] Checking: https://dragonroast.coffee/
+2026-03-18 11:36:12,171 - __main__ - INFO - BS4 scrape successful for https://dragonroast.coffee/ (3000 chars)
+2026-03-18 11:36:12,837 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:12,843 - __main__ - INFO - Found coffee-selling page at depth 1: https://dragonroast.coffee/
+2026-03-18 11:36:13,570 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:13,578 - __main__ - INFO - [Depth 2] Checking: https://dragonroast.coffee/collections/our-coffees
+2026-03-18 11:36:14,484 - __main__ - INFO - BS4 scrape successful for https://dragonroast.coffee/collections/our-coffees (3000 chars)
+2026-03-18 11:36:15,028 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:15,029 - __main__ - INFO - Found coffee-selling page at depth 2: https://dragonroast.coffee/collections/our-coffees
+2026-03-18 11:36:15,029 - __main__ - INFO - Processing https://subjectivecoffee.com/
+2026-03-18 11:36:15,479 - __main__ - INFO - BS4 scrape successful for https://subjectivecoffee.com/ (2200 chars)
+2026-03-18 11:36:15,488 - __main__ - INFO - Shop link detected in nav for https://subjectivecoffee.com/, skipping GPT shop check
+2026-03-18 11:36:15,488 - __main__ - INFO - [Depth 1] Checking: https://subjectivecoffee.com/
+2026-03-18 11:36:15,802 - __main__ - INFO - BS4 scrape successful for https://subjectivecoffee.com/ (2200 chars)
+2026-03-18 11:36:16,348 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:16,350 - __main__ - INFO - Found coffee-selling page at depth 1: https://subjectivecoffee.com/
+2026-03-18 11:36:19,952 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:19,956 - __main__ - INFO - [Depth 2] Checking: https://subjectivecoffee.com/collections/all-coffee
+2026-03-18 11:36:20,370 - __main__ - INFO - BS4 scrape successful for https://subjectivecoffee.com/collections/all-coffee (1607 chars)
+2026-03-18 11:36:21,253 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:21,257 - __main__ - INFO - Found coffee-selling page at depth 2: https://subjectivecoffee.com/collections/all-coffee
+2026-03-18 11:36:21,257 - __main__ - INFO - Processing https://caphedenver.com/
+2026-03-18 11:36:25,593 - __main__ - INFO - BS4 scrape successful for https://caphedenver.com/ (883 chars)
+2026-03-18 11:36:25,599 - __main__ - INFO - Shop link detected in nav for https://caphedenver.com/, skipping GPT shop check
+2026-03-18 11:36:25,599 - __main__ - INFO - [Depth 1] Checking: https://caphedenver.com/
+2026-03-18 11:36:26,655 - __main__ - INFO - BS4 scrape successful for https://caphedenver.com/ (883 chars)
+2026-03-18 11:36:26,978 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:27,844 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:27,850 - __main__ - INFO - Skipped (no store page found): https://caphedenver.com/
+2026-03-18 11:36:27,850 - __main__ - INFO - Processing http://www.thorntoncoffee.com/
+2026-03-18 11:36:28,062 - __main__ - INFO - BS4 scrape successful for http://www.thorntoncoffee.com/ (2991 chars)
+2026-03-18 11:36:28,065 - __main__ - INFO - Shop link detected in nav for http://www.thorntoncoffee.com/, skipping GPT shop check
+2026-03-18 11:36:28,067 - __main__ - INFO - [Depth 1] Checking: http://www.thorntoncoffee.com/
+2026-03-18 11:36:28,155 - __main__ - INFO - BS4 scrape successful for http://www.thorntoncoffee.com/ (2991 chars)
+2026-03-18 11:36:28,491 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:28,497 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.thorntoncoffee.com/
+2026-03-18 11:36:28,822 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:28,828 - __main__ - INFO - Processing http://www.bleusagecafe.com/
+2026-03-18 11:36:29,025 - __main__ - INFO - BS4 scrape successful for http://www.bleusagecafe.com/ (201 chars)
+2026-03-18 11:36:29,549 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:29,554 - __main__ - INFO - Skipped (no shop): http://www.bleusagecafe.com/
+2026-03-18 11:36:29,555 - __main__ - INFO - Processing http://lisaannesbakery.com/
+2026-03-18 11:36:30,130 - __main__ - INFO - BS4 scrape successful for http://lisaannesbakery.com/ (367 chars)
+2026-03-18 11:36:30,132 - __main__ - INFO - Skipped (no coffee keywords): http://lisaannesbakery.com/
+2026-03-18 11:36:30,132 - __main__ - INFO - Processing https://www.brewingmarketcoffee.com/espresso-vino-lafayette
+2026-03-18 11:36:30,501 - __main__ - INFO - BS4 scrape successful for https://www.brewingmarketcoffee.com/espresso-vino-lafayette (857 chars)
+2026-03-18 11:36:30,504 - __main__ - INFO - Shop link detected in nav for https://www.brewingmarketcoffee.com/espresso-vino-lafayette, skipping GPT shop check
+2026-03-18 11:36:30,506 - __main__ - INFO - [Depth 1] Checking: https://www.brewingmarketcoffee.com/espresso-vino-lafayette
+2026-03-18 11:36:31,123 - __main__ - INFO - BS4 scrape successful for https://www.brewingmarketcoffee.com/espresso-vino-lafayette (857 chars)
+2026-03-18 11:36:31,436 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:31,443 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.brewingmarketcoffee.com/espresso-vino-lafayette
+2026-03-18 11:36:32,016 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:32,018 - __main__ - INFO - [Depth 2] Checking: https://www.brewingmarketcoffee.com/coffee-beans
+2026-03-18 11:36:32,082 - __main__ - INFO - BS4 scrape successful for https://www.brewingmarketcoffee.com/coffee-beans (718 chars)
+2026-03-18 11:36:32,580 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:32,586 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.brewingmarketcoffee.com/coffee-beans
+2026-03-18 11:36:32,586 - __main__ - INFO - Processing https://www.kneaders.com/
+2026-03-18 11:36:32,817 - __main__ - INFO - BS4 scrape successful for https://www.kneaders.com/ (2034 chars)
+2026-03-18 11:36:32,817 - __main__ - INFO - Only 0 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:36:37,719 - __main__ - INFO - Shop link detected in nav for https://www.kneaders.com/, skipping GPT shop check
+2026-03-18 11:36:37,721 - __main__ - INFO - [Depth 1] Checking: https://www.kneaders.com/
+2026-03-18 11:36:37,783 - __main__ - INFO - BS4 scrape successful for https://www.kneaders.com/ (2034 chars)
+2026-03-18 11:36:37,785 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:36:41,785 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:42,365 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:42,374 - __main__ - INFO - [Depth 2] Checking: https://shop.kneaders.com
+2026-03-18 11:36:42,734 - __main__ - INFO - BS4 scrape successful for https://shop.kneaders.com (615 chars)
+2026-03-18 11:36:43,124 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:43,592 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:43,598 - __main__ - INFO - Skipped (no store page found): https://www.kneaders.com/
+2026-03-18 11:36:43,600 - __main__ - INFO - Processing https://bluebirdcafethornton.com/
+2026-03-18 11:36:44,369 - __main__ - INFO - BS4 scrape successful for https://bluebirdcafethornton.com/ (3000 chars)
+2026-03-18 11:36:44,372 - __main__ - INFO - Shop link detected in nav for https://bluebirdcafethornton.com/, skipping GPT shop check
+2026-03-18 11:36:44,372 - __main__ - INFO - [Depth 1] Checking: https://bluebirdcafethornton.com/
+2026-03-18 11:36:44,761 - __main__ - INFO - BS4 scrape successful for https://bluebirdcafethornton.com/ (3000 chars)
+2026-03-18 11:36:45,207 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:46,025 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:46,029 - __main__ - INFO - [Depth 2] Checking: https://order.toasttab.com/online/bluebird-cafe-thornton-885-thornton-parkway
+2026-03-18 11:36:46,095 - __main__ - WARNING - BS4 scrape failed for https://order.toasttab.com/online/bluebird-cafe-thornton-885-thornton-parkway: 403 Client Error: Forbidden for url: https://order.toasttab.com/online/bluebird-cafe-thornton-885-thornton-parkway
+2026-03-18 11:36:46,097 - __main__ - INFO - BS4 failed for https://order.toasttab.com/online/bluebird-cafe-thornton-885-thornton-parkway, trying Playwright
+2026-03-18 11:36:55,777 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:56,386 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:56,407 - __main__ - INFO - Skipped (no store page found): https://bluebirdcafethornton.com/
+2026-03-18 11:36:56,407 - __main__ - INFO - Processing http://mecolongmont.com/
+2026-03-18 11:36:56,632 - __main__ - INFO - BS4 scrape successful for http://mecolongmont.com/ (1715 chars)
+2026-03-18 11:36:56,637 - __main__ - INFO - Shop link detected in nav for http://mecolongmont.com/, skipping GPT shop check
+2026-03-18 11:36:56,637 - __main__ - INFO - [Depth 1] Checking: http://mecolongmont.com/
+2026-03-18 11:36:56,806 - __main__ - INFO - BS4 scrape successful for http://mecolongmont.com/ (1715 chars)
+2026-03-18 11:36:57,273 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:59,388 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:36:59,395 - __main__ - INFO - [Depth 2] Checking: https://www.mecocoffee.com
+2026-03-18 11:37:00,356 - __main__ - INFO - BS4 scrape successful for https://www.mecocoffee.com (562 chars)
+2026-03-18 11:37:00,869 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:02,791 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:02,802 - __main__ - INFO - [Depth 3] Checking: https://meco-coffee-collective.square.site/
+2026-03-18 11:37:03,607 - __main__ - INFO - BS4 failed for https://meco-coffee-collective.square.site/, trying Playwright
+2026-03-18 11:37:12,158 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:12,740 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:12,744 - __main__ - INFO - [Depth 4] Checking: https://meco-coffee-collective.square.site/s/order
+2026-03-18 11:37:12,925 - __main__ - INFO - BS4 failed for https://meco-coffee-collective.square.site/s/order, trying Playwright
+2026-03-18 11:37:21,521 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:22,353 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:22,358 - __main__ - INFO - [Depth 5] Checking: https://meco-coffee-collective.square.site/s/order?location=cc5nhjqjbesxk#most-popular
+2026-03-18 11:37:22,568 - __main__ - INFO - BS4 failed for https://meco-coffee-collective.square.site/s/order?location=cc5nhjqjbesxk#most-popular, trying Playwright
+2026-03-18 11:37:32,449 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:32,848 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:32,852 - __main__ - INFO - Skipped (no store page found): http://mecolongmont.com/
+2026-03-18 11:37:32,853 - __main__ - INFO - Processing http://bvroastery.com/
+2026-03-18 11:37:33,540 - __main__ - INFO - BS4 scrape successful for http://bvroastery.com/ (3000 chars)
+2026-03-18 11:37:33,546 - __main__ - INFO - Shop link detected in nav for http://bvroastery.com/, skipping GPT shop check
+2026-03-18 11:37:33,550 - __main__ - INFO - [Depth 1] Checking: http://bvroastery.com/
+2026-03-18 11:37:33,836 - __main__ - INFO - BS4 scrape successful for http://bvroastery.com/ (3000 chars)
+2026-03-18 11:37:34,419 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:34,429 - __main__ - INFO - Found coffee-selling page at depth 1: http://bvroastery.com/
+2026-03-18 11:37:34,925 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:34,930 - __main__ - INFO - [Depth 2] Checking: http://bvroastery.com/collections/all
+2026-03-18 11:37:35,430 - __main__ - INFO - BS4 scrape successful for http://bvroastery.com/collections/all (928 chars)
+2026-03-18 11:37:35,952 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:35,953 - __main__ - INFO - Found coffee-selling page at depth 2: http://bvroastery.com/collections/all
+2026-03-18 11:37:35,954 - __main__ - INFO - Processing http://www.limacoffeeroasters.com/
+2026-03-18 11:37:36,616 - __main__ - INFO - BS4 scrape successful for http://www.limacoffeeroasters.com/ (674 chars)
+2026-03-18 11:37:36,620 - __main__ - INFO - Shop link detected in nav for http://www.limacoffeeroasters.com/, skipping GPT shop check
+2026-03-18 11:37:36,622 - __main__ - INFO - [Depth 1] Checking: http://www.limacoffeeroasters.com/
+2026-03-18 11:37:36,838 - __main__ - INFO - BS4 scrape successful for http://www.limacoffeeroasters.com/ (674 chars)
+2026-03-18 11:37:37,531 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:37,533 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.limacoffeeroasters.com/
+2026-03-18 11:37:38,184 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:38,196 - __main__ - INFO - [Depth 2] Checking: http://www.limacoffeeroasters.com/collections/coffee
+2026-03-18 11:37:38,909 - __main__ - INFO - BS4 scrape successful for http://www.limacoffeeroasters.com/collections/coffee (656 chars)
+2026-03-18 11:37:39,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:39,434 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.limacoffeeroasters.com/collections/coffee
+2026-03-18 11:37:39,438 - __main__ - INFO - Processing http://www.lovelandcoffeeco.com/
+2026-03-18 11:37:39,858 - __main__ - INFO - BS4 scrape successful for http://www.lovelandcoffeeco.com/ (1656 chars)
+2026-03-18 11:37:40,918 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:40,922 - __main__ - INFO - Skipped (no shop): http://www.lovelandcoffeeco.com/
+2026-03-18 11:37:40,925 - __main__ - INFO - Processing https://colorroasters.com/
+2026-03-18 11:37:42,775 - __main__ - INFO - BS4 scrape successful for https://colorroasters.com/ (3000 chars)
+2026-03-18 11:37:42,782 - __main__ - INFO - Shop link detected in nav for https://colorroasters.com/, skipping GPT shop check
+2026-03-18 11:37:42,782 - __main__ - INFO - [Depth 1] Checking: https://colorroasters.com/
+2026-03-18 11:37:43,476 - __main__ - INFO - BS4 scrape successful for https://colorroasters.com/ (3000 chars)
+2026-03-18 11:37:44,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:44,011 - __main__ - INFO - Found coffee-selling page at depth 1: https://colorroasters.com/
+2026-03-18 11:37:44,601 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:44,606 - __main__ - INFO - [Depth 2] Checking: https://colorroasters.com/collections/all-coffee
+2026-03-18 11:37:45,730 - __main__ - INFO - BS4 scrape successful for https://colorroasters.com/collections/all-coffee (3000 chars)
+2026-03-18 11:37:46,261 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:46,265 - __main__ - INFO - Found coffee-selling page at depth 2: https://colorroasters.com/collections/all-coffee
+2026-03-18 11:37:46,268 - __main__ - INFO - Processing https://petescafethornton.com/
+2026-03-18 11:37:46,714 - __main__ - INFO - BS4 scrape successful for https://petescafethornton.com/ (526 chars)
+2026-03-18 11:37:47,099 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:47,103 - __main__ - INFO - Skipped (no shop): https://petescafethornton.com/
+2026-03-18 11:37:47,104 - __main__ - INFO - Processing http://www.dirtcoffee.org/
+2026-03-18 11:37:47,635 - __main__ - INFO - BS4 scrape successful for http://www.dirtcoffee.org/ (3000 chars)
+2026-03-18 11:37:47,639 - __main__ - INFO - Shop link detected in nav for http://www.dirtcoffee.org/, skipping GPT shop check
+2026-03-18 11:37:47,641 - __main__ - INFO - [Depth 1] Checking: http://www.dirtcoffee.org/
+2026-03-18 11:37:47,842 - __main__ - INFO - BS4 scrape successful for http://www.dirtcoffee.org/ (3000 chars)
+2026-03-18 11:37:48,286 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:48,796 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:48,800 - __main__ - INFO - [Depth 2] Checking: http://www.dirtcoffee.org/shop
+2026-03-18 11:37:50,215 - __main__ - INFO - BS4 scrape successful for http://www.dirtcoffee.org/shop (2054 chars)
+2026-03-18 11:37:51,329 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:52,089 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:52,098 - __main__ - INFO - [Depth 3] Checking: http://www.dirtcoffee.org/coffee
+2026-03-18 11:37:52,398 - __main__ - INFO - BS4 scrape successful for http://www.dirtcoffee.org/coffee (1314 chars)
+2026-03-18 11:37:52,872 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:53,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:53,328 - __main__ - INFO - [Depth 4] Checking: http://www.dirtcoffee.org/cart
+2026-03-18 11:37:53,736 - __main__ - INFO - BS4 returned insufficient content (6 chars) for http://www.dirtcoffee.org/cart, trying Playwright
+2026-03-18 11:37:59,398 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:59,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:37:59,826 - __main__ - INFO - Skipped (no store page found): http://www.dirtcoffee.org/
+2026-03-18 11:37:59,827 - __main__ - INFO - === PROCESSING CITY: arvada ===
+2026-03-18 11:37:59,828 - __main__ - INFO - Searching for 'specialty coffee roaster in arvada, CO, USA'
+2026-03-18 11:38:00,517 - __main__ - INFO -   Added: Hunter Bay Coffee Roasters
+2026-03-18 11:38:01,518 - __main__ - INFO - Searching for 'artisan coffee roaster in arvada, CO, USA'
+2026-03-18 11:38:02,206 - __main__ - INFO -   Added: House of Js Coffee
+2026-03-18 11:38:03,319 - __main__ - INFO -   Added: La Dolce Vita
+2026-03-18 11:38:04,426 - __main__ - INFO -   Added: 6550 Coffee
+2026-03-18 11:38:08,192 - __main__ - INFO -   Added: Stylus and Crate
+2026-03-18 11:38:09,202 - __main__ - INFO - Processing https://www.hunterbay.com/
+2026-03-18 11:38:09,685 - __main__ - INFO - BS4 scrape successful for https://www.hunterbay.com/ (801 chars)
+2026-03-18 11:38:09,687 - __main__ - INFO - Shop link detected in nav for https://www.hunterbay.com/, skipping GPT shop check
+2026-03-18 11:38:09,687 - __main__ - INFO - [Depth 1] Checking: https://www.hunterbay.com/
+2026-03-18 11:38:10,095 - __main__ - INFO - BS4 scrape successful for https://www.hunterbay.com/ (801 chars)
+2026-03-18 11:38:10,546 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:10,547 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.hunterbay.com/
+2026-03-18 11:38:11,100 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:11,107 - __main__ - INFO - [Depth 2] Checking: https://www.hunterbay.com/collections/coffees
+2026-03-18 11:38:11,806 - __main__ - INFO - BS4 scrape successful for https://www.hunterbay.com/collections/coffees (2999 chars)
+2026-03-18 11:38:12,219 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:12,228 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.hunterbay.com/collections/coffees
+2026-03-18 11:38:12,228 - __main__ - INFO - Processing http://www.houseofjscoffee.com/
+2026-03-18 11:38:13,429 - __main__ - INFO - BS4 scrape successful for http://www.houseofjscoffee.com/ (1723 chars)
+2026-03-18 11:38:13,433 - __main__ - INFO - Shop link detected in nav for http://www.houseofjscoffee.com/, skipping GPT shop check
+2026-03-18 11:38:13,434 - __main__ - INFO - [Depth 1] Checking: http://www.houseofjscoffee.com/
+2026-03-18 11:38:14,044 - __main__ - INFO - BS4 scrape successful for http://www.houseofjscoffee.com/ (1723 chars)
+2026-03-18 11:38:14,380 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:14,386 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.houseofjscoffee.com/
+2026-03-18 11:38:14,970 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:14,974 - __main__ - INFO - [Depth 2] Checking: https://houseofjs-coffee.square.site/
+2026-03-18 11:38:15,722 - __main__ - INFO - BS4 returned insufficient content (25 chars) for https://houseofjs-coffee.square.site/, trying Playwright
+2026-03-18 11:38:25,863 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:26,276 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:26,282 - __main__ - INFO - Processing https://ldvcoffeeshop.com/
+2026-03-18 11:38:27,850 - __main__ - INFO - BS4 scrape successful for https://ldvcoffeeshop.com/ (1759 chars)
+2026-03-18 11:38:28,211 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:28,214 - __main__ - INFO - Skipped (no shop): https://ldvcoffeeshop.com/
+2026-03-18 11:38:28,214 - __main__ - INFO - Processing https://arvadacoffeeshop.com/
+2026-03-18 11:38:28,453 - __main__ - INFO - BS4 returned insufficient content (14 chars) for https://arvadacoffeeshop.com/, trying Playwright
+2026-03-18 11:38:31,797 - __main__ - INFO - Only 1 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:38:34,941 - __main__ - INFO - Skipped (no coffee keywords): https://arvadacoffeeshop.com/
+2026-03-18 11:38:34,941 - __main__ - INFO - Processing http://www.stylusandcrate.com/
+2026-03-18 11:38:35,523 - __main__ - INFO - BS4 scrape successful for http://www.stylusandcrate.com/ (3000 chars)
+2026-03-18 11:38:36,103 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:38:36,108 - __main__ - INFO - Skipped (no shop): http://www.stylusandcrate.com/
+2026-03-18 11:38:36,111 - __main__ - INFO - === PROCESSING CITY: westminster ===
+2026-03-18 11:38:36,111 - __main__ - INFO - Searching for 'specialty coffee roaster in westminster, CO, USA'
+2026-03-18 11:38:36,801 - __main__ - INFO -   Added: White Rabbit Coffee Co.
+2026-03-18 11:38:37,889 - __main__ - INFO -   Added: Coffee Celestial
+2026-03-18 11:38:38,982 - __main__ - INFO -   Added: Bona Coffee Roasters (Roastery By Appointment Only)
+2026-03-18 11:38:40,103 - __main__ - INFO -   Added: Zelda Coffee Catering Cart
+2026-03-18 11:38:41,237 - __main__ - INFO -   Added: OZO Coffee Roasters | Cafe & Roastery
+2026-03-18 11:38:44,929 - __main__ - INFO -   Added: Cozy Coffee Co
+2026-03-18 11:38:46,019 - __main__ - INFO -   Added: Navah Coffee House
+2026-03-18 11:38:49,725 - __main__ - INFO -   Added: Giovannitti Coffee Roasters
+2026-03-18 11:38:50,818 - __main__ - INFO -   Added: Vento Coffee
+2026-03-18 11:38:51,969 - __main__ - INFO -   Added: Paul's Coffee & Tea Superior
+2026-03-18 11:38:53,228 - __main__ - INFO -   Added: ZOES Coffee
+2026-03-18 11:38:54,435 - __main__ - INFO -   Added: FOX•DOG COFFEE
+2026-03-18 11:38:58,027 - __main__ - INFO - Searching for 'artisan coffee roaster in westminster, CO, USA'
+2026-03-18 11:39:01,036 - __main__ - INFO -   Added: Barn Door Coffee
+2026-03-18 11:39:05,193 - __main__ - INFO -   Added: Solid Grounds Coffee Roasters
+2026-03-18 11:39:06,286 - __main__ - INFO -   Added: It's Coffee
+2026-03-18 11:39:07,289 - __main__ - INFO - Processing https://www.whiterabbitcoffee.com/
+2026-03-18 11:39:07,809 - __main__ - INFO - BS4 scrape successful for https://www.whiterabbitcoffee.com/ (992 chars)
+2026-03-18 11:39:08,221 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:08,223 - __main__ - INFO - Skipped (no shop): https://www.whiterabbitcoffee.com/
+2026-03-18 11:39:08,225 - __main__ - INFO - Processing https://www.coffeecelestial.com/
+2026-03-18 11:39:08,623 - __main__ - INFO - BS4 scrape successful for https://www.coffeecelestial.com/ (3000 chars)
+2026-03-18 11:39:09,126 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:09,130 - __main__ - INFO - Skipped (no shop): https://www.coffeecelestial.com/
+2026-03-18 11:39:09,131 - __main__ - INFO - Processing http://bonacoffeeroasters.com/
+2026-03-18 11:39:13,204 - __main__ - INFO - BS4 scrape successful for http://bonacoffeeroasters.com/ (3000 chars)
+2026-03-18 11:39:13,209 - __main__ - INFO - Shop link detected in nav for http://bonacoffeeroasters.com/, skipping GPT shop check
+2026-03-18 11:39:13,211 - __main__ - INFO - [Depth 1] Checking: http://bonacoffeeroasters.com/
+2026-03-18 11:39:16,611 - __main__ - INFO - BS4 scrape successful for http://bonacoffeeroasters.com/ (3000 chars)
+2026-03-18 11:39:17,821 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:17,827 - __main__ - INFO - Found coffee-selling page at depth 1: http://bonacoffeeroasters.com/
+2026-03-18 11:39:18,596 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:18,602 - __main__ - INFO - [Depth 2] Checking: https://bonacoffeeroasters.com/shop/
+2026-03-18 11:39:22,253 - __main__ - INFO - BS4 scrape successful for https://bonacoffeeroasters.com/shop/ (3000 chars)
+2026-03-18 11:39:22,820 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:22,825 - __main__ - INFO - Found coffee-selling page at depth 2: https://bonacoffeeroasters.com/shop/
+2026-03-18 11:39:22,826 - __main__ - INFO - Processing https://zeldacoffee.com/
+2026-03-18 11:39:27,419 - __main__ - INFO - BS4 scrape successful for https://zeldacoffee.com/ (3000 chars)
+2026-03-18 11:39:28,074 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:28,076 - __main__ - INFO - Skipped (no shop): https://zeldacoffee.com/
+2026-03-18 11:39:28,077 - __main__ - INFO - Processing https://ozocoffee.com/
+2026-03-18 11:39:28,888 - __main__ - INFO - BS4 scrape successful for https://ozocoffee.com/ (2999 chars)
+2026-03-18 11:39:28,894 - __main__ - INFO - Shop link detected in nav for https://ozocoffee.com/, skipping GPT shop check
+2026-03-18 11:39:28,896 - __main__ - INFO - [Depth 1] Checking: https://ozocoffee.com/
+2026-03-18 11:39:29,189 - __main__ - INFO - BS4 scrape successful for https://ozocoffee.com/ (2999 chars)
+2026-03-18 11:39:29,605 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:29,609 - __main__ - INFO - Found coffee-selling page at depth 1: https://ozocoffee.com/
+2026-03-18 11:39:30,781 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:30,787 - __main__ - INFO - [Depth 2] Checking: https://ozo-coffee-company.square.site/
+2026-03-18 11:39:31,436 - __main__ - INFO - BS4 failed for https://ozo-coffee-company.square.site/, trying Playwright
+2026-03-18 11:39:37,177 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:37,554 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:37,562 - __main__ - INFO - Processing https://cozycoffeeco.com/
+2026-03-18 11:39:38,181 - __main__ - INFO - BS4 scrape successful for https://cozycoffeeco.com/ (543 chars)
+2026-03-18 11:39:38,186 - __main__ - INFO - Shop link detected in nav for https://cozycoffeeco.com/, skipping GPT shop check
+2026-03-18 11:39:38,195 - __main__ - INFO - [Depth 1] Checking: https://cozycoffeeco.com/
+2026-03-18 11:39:38,940 - __main__ - INFO - BS4 scrape successful for https://cozycoffeeco.com/ (543 chars)
+2026-03-18 11:39:39,347 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:39,856 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:39,857 - __main__ - INFO - [Depth 2] Checking: https://cozy-coffee-co.square.site
+2026-03-18 11:39:42,644 - __main__ - INFO - BS4 scrape successful for https://cozy-coffee-co.square.site (3000 chars)
+2026-03-18 11:39:42,650 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:39:47,216 - __main__ - INFO - Skipped (no store page found): https://cozycoffeeco.com/
+2026-03-18 11:39:47,216 - __main__ - INFO - Processing https://www.navahcoffeehouse.com/
+2026-03-18 11:39:47,599 - __main__ - INFO - BS4 scrape successful for https://www.navahcoffeehouse.com/ (420 chars)
+2026-03-18 11:39:48,394 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:48,405 - __main__ - INFO - Skipped (no shop): https://www.navahcoffeehouse.com/
+2026-03-18 11:39:48,406 - __main__ - INFO - Processing http://www.giovannitticoffee.com/
+2026-03-18 11:39:48,808 - __main__ - INFO - BS4 scrape successful for http://www.giovannitticoffee.com/ (292 chars)
+2026-03-18 11:39:48,810 - __main__ - INFO - Shop link detected in nav for http://www.giovannitticoffee.com/, skipping GPT shop check
+2026-03-18 11:39:48,811 - __main__ - INFO - [Depth 1] Checking: http://www.giovannitticoffee.com/
+2026-03-18 11:39:48,894 - __main__ - INFO - BS4 scrape successful for http://www.giovannitticoffee.com/ (292 chars)
+2026-03-18 11:39:49,720 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:49,728 - __main__ - INFO - Found coffee-selling page at depth 1: http://www.giovannitticoffee.com/
+2026-03-18 11:39:51,007 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:51,012 - __main__ - INFO - [Depth 2] Checking: http://www.giovannitticoffee.com/coffees
+2026-03-18 11:39:51,425 - __main__ - INFO - BS4 scrape successful for http://www.giovannitticoffee.com/coffees (504 chars)
+2026-03-18 11:39:51,711 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:51,715 - __main__ - INFO - Found coffee-selling page at depth 2: http://www.giovannitticoffee.com/coffees
+2026-03-18 11:39:51,715 - __main__ - INFO - Processing https://ventocoffee.com/
+2026-03-18 11:39:52,298 - __main__ - INFO - BS4 scrape successful for https://ventocoffee.com/ (505 chars)
+2026-03-18 11:39:52,300 - __main__ - INFO - Shop link detected in nav for https://ventocoffee.com/, skipping GPT shop check
+2026-03-18 11:39:52,300 - __main__ - INFO - [Depth 1] Checking: https://ventocoffee.com/
+2026-03-18 11:39:52,822 - __main__ - INFO - BS4 scrape successful for https://ventocoffee.com/ (505 chars)
+2026-03-18 11:39:53,226 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:53,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:53,740 - __main__ - INFO - [Depth 2] Checking: https://ventocoffee.com/pages/beans-merch
+2026-03-18 11:39:53,946 - __main__ - INFO - BS4 scrape successful for https://ventocoffee.com/pages/beans-merch (508 chars)
+2026-03-18 11:39:54,599 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:54,610 - __main__ - INFO - Found coffee-selling page at depth 2: https://ventocoffee.com/pages/beans-merch
+2026-03-18 11:39:54,610 - __main__ - INFO - Processing https://paulscoffeeandtea.com/
+2026-03-18 11:39:54,902 - __main__ - INFO - BS4 scrape successful for https://paulscoffeeandtea.com/ (2617 chars)
+2026-03-18 11:39:54,903 - __main__ - INFO - Shop link detected in nav for https://paulscoffeeandtea.com/, skipping GPT shop check
+2026-03-18 11:39:54,903 - __main__ - INFO - [Depth 1] Checking: https://paulscoffeeandtea.com/
+2026-03-18 11:39:54,965 - __main__ - INFO - BS4 scrape successful for https://paulscoffeeandtea.com/ (2617 chars)
+2026-03-18 11:39:55,391 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:55,869 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:55,875 - __main__ - INFO - Skipped (no store page found): https://paulscoffeeandtea.com/
+2026-03-18 11:39:55,876 - __main__ - INFO - Processing https://zoescoffeewestminster.com/?utm_source=google
+2026-03-18 11:39:56,568 - __main__ - INFO - BS4 scrape successful for https://zoescoffeewestminster.com/?utm_source=google (3000 chars)
+2026-03-18 11:39:56,569 - __main__ - INFO - Shop link detected in nav for https://zoescoffeewestminster.com/?utm_source=google, skipping GPT shop check
+2026-03-18 11:39:56,569 - __main__ - INFO - [Depth 1] Checking: https://zoescoffeewestminster.com/?utm_source=google
+2026-03-18 11:39:56,686 - __main__ - INFO - BS4 scrape successful for https://zoescoffeewestminster.com/?utm_source=google (3000 chars)
+2026-03-18 11:39:57,205 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:57,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:57,738 - __main__ - INFO - [Depth 2] Checking: https://www.zoescoffeesubscription.com/
+2026-03-18 11:39:57,882 - __main__ - INFO - BS4 scrape successful for https://www.zoescoffeesubscription.com/ (2825 chars)
+2026-03-18 11:39:58,312 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:58,725 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:58,732 - __main__ - INFO - Skipped (no store page found): https://zoescoffeewestminster.com/?utm_source=google
+2026-03-18 11:39:58,732 - __main__ - INFO - Processing https://www.foxdogcoffee.com/
+2026-03-18 11:39:58,851 - __main__ - INFO - BS4 scrape successful for https://www.foxdogcoffee.com/ (518 chars)
+2026-03-18 11:39:59,312 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:39:59,314 - __main__ - INFO - Skipped (no shop): https://www.foxdogcoffee.com/
+2026-03-18 11:39:59,314 - __main__ - INFO - Processing http://barndoor.dc2.me/
+2026-03-18 11:39:59,882 - __main__ - INFO - BS4 scrape successful for http://barndoor.dc2.me/ (2267 chars)
+2026-03-18 11:39:59,883 - __main__ - INFO - Only 1 links from BS4 for shop detection, retrying with Playwright
+2026-03-18 11:40:05,082 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:05,087 - __main__ - INFO - Skipped (no shop): http://barndoor.dc2.me/
+2026-03-18 11:40:05,087 - __main__ - INFO - Processing https://www.solidgroundscoffeehouse.com/
+2026-03-18 11:40:05,923 - __main__ - INFO - BS4 returned insufficient content (33 chars) for https://www.solidgroundscoffeehouse.com/, trying Playwright
+2026-03-18 11:40:14,999 - __main__ - INFO - Shop link detected in nav for https://www.solidgroundscoffeehouse.com/, skipping GPT shop check
+2026-03-18 11:40:15,000 - __main__ - INFO - [Depth 1] Checking: https://www.solidgroundscoffeehouse.com/
+2026-03-18 11:40:15,052 - __main__ - INFO - BS4 returned insufficient content (33 chars) for https://www.solidgroundscoffeehouse.com/, trying Playwright
+2026-03-18 11:40:21,678 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:40:30,892 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:30,903 - __main__ - INFO - Found coffee-selling page at depth 1: https://www.solidgroundscoffeehouse.com/
+2026-03-18 11:40:31,791 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:31,797 - __main__ - INFO - [Depth 2] Checking: https://www.solidgroundscoffeehouse.com/shop/coffee/htxv7lfylycwn53e24puwypd
+2026-03-18 11:40:31,984 - __main__ - INFO - BS4 returned insufficient content (26 chars) for https://www.solidgroundscoffeehouse.com/shop/coffee/htxv7lfylycwn53e24puwypd, trying Playwright
+2026-03-18 11:40:36,754 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:40:42,823 - __main__ - INFO - Processing https://itscoffeecafe.co/
+2026-03-18 11:40:43,251 - __main__ - INFO - BS4 scrape successful for https://itscoffeecafe.co/ (2990 chars)
+2026-03-18 11:40:43,258 - __main__ - INFO - Shop link detected in nav for https://itscoffeecafe.co/, skipping GPT shop check
+2026-03-18 11:40:43,259 - __main__ - INFO - [Depth 1] Checking: https://itscoffeecafe.co/
+2026-03-18 11:40:44,124 - __main__ - INFO - BS4 scrape successful for https://itscoffeecafe.co/ (2990 chars)
+2026-03-18 11:40:44,610 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:45,381 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:45,386 - __main__ - INFO - [Depth 2] Checking: https://itscoffeecafe.co//online.php
+2026-03-18 11:40:45,452 - __main__ - INFO - BS4 scrape successful for https://itscoffeecafe.co//online.php (2804 chars)
+2026-03-18 11:40:45,789 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:46,064 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:40:46,069 - __main__ - INFO - Skipped (no store page found): https://itscoffeecafe.co/
+2026-03-18 11:40:46,069 - __main__ - INFO - === PROCESSING CITY: centennial ===
+2026-03-18 11:40:46,069 - __main__ - INFO - Searching for 'specialty coffee roaster in centennial, CO, USA'
+2026-03-18 11:40:46,768 - __main__ - INFO -   Added: 303 Coffee Company
+2026-03-18 11:40:47,768 - __main__ - INFO - Searching for 'artisan coffee roaster in centennial, CO, USA'
+2026-03-18 11:40:48,266 - __main__ - INFO -   Added: Cosmic Dog Coffee Roasters
+2026-03-18 11:40:49,336 - __main__ - INFO -   Added: The O.Coffee Company
+2026-03-18 11:40:50,429 - __main__ - INFO -   Added: Peaky Peak Coffee & Charcuterie
+2026-03-18 11:40:51,594 - __main__ - INFO -   Added: Happy Crew Coffee House
+2026-03-18 11:40:55,112 - __main__ - INFO -   Added: Peregrine Coffee Roasters
+2026-03-18 11:40:56,296 - __main__ - INFO -   Added: The Exchange Coffee House™
+2026-03-18 11:40:57,388 - __main__ - INFO -   Added: Dame Good Drinks
+2026-03-18 11:41:01,004 - __main__ - INFO -   Added: Monk & Mongoose Coffee Co
+2026-03-18 11:41:02,111 - __main__ - INFO -   Added: Beans & Brews Coffee House
+2026-03-18 11:41:03,112 - __main__ - INFO - Processing http://www.303coffeeco.com/
+2026-03-18 11:41:03,204 - __main__ - INFO - BS4 scrape successful for http://www.303coffeeco.com/ (3000 chars)
+2026-03-18 11:41:03,206 - __main__ - INFO - Shop link detected in nav for http://www.303coffeeco.com/, skipping GPT shop check
+2026-03-18 11:41:03,206 - __main__ - INFO - [Depth 1] Checking: http://www.303coffeeco.com/
+2026-03-18 11:41:03,254 - __main__ - INFO - BS4 scrape successful for http://www.303coffeeco.com/ (3000 chars)
+2026-03-18 11:41:03,665 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:04,047 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:04,053 - __main__ - INFO - Skipped (no store page found): http://www.303coffeeco.com/
+2026-03-18 11:41:04,053 - __main__ - INFO - Processing https://www.cosmicdogcoffee.com/
+2026-03-18 11:41:04,241 - __main__ - INFO - BS4 scrape successful for https://www.cosmicdogcoffee.com/ (258 chars)
+2026-03-18 11:41:04,242 - __main__ - INFO - Shop link detected in nav for https://www.cosmicdogcoffee.com/, skipping GPT shop check
+2026-03-18 11:41:04,243 - __main__ - INFO - [Depth 1] Checking: https://www.cosmicdogcoffee.com/
+2026-03-18 11:41:04,309 - __main__ - INFO - BS4 scrape successful for https://www.cosmicdogcoffee.com/ (258 chars)
+2026-03-18 11:41:04,741 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:05,776 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:05,778 - __main__ - INFO - [Depth 2] Checking: https://www.cosmicdogcoffee.com/coffee
+2026-03-18 11:41:05,879 - __main__ - INFO - BS4 scrape successful for https://www.cosmicdogcoffee.com/coffee (893 chars)
+2026-03-18 11:41:06,422 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:06,426 - __main__ - INFO - Found coffee-selling page at depth 2: https://www.cosmicdogcoffee.com/coffee
+2026-03-18 11:41:06,426 - __main__ - INFO - Processing http://theocoffeecompany.square.site/
+2026-03-18 11:41:10,600 - __main__ - INFO - BS4 returned insufficient content (36 chars) for http://theocoffeecompany.square.site/, trying Playwright
+2026-03-18 11:41:15,605 - __main__ - INFO - Shop link detected in nav for http://theocoffeecompany.square.site/, skipping GPT shop check
+2026-03-18 11:41:15,610 - __main__ - INFO - [Depth 1] Checking: http://theocoffeecompany.square.site/
+2026-03-18 11:41:15,667 - __main__ - INFO - BS4 returned insufficient content (36 chars) for http://theocoffeecompany.square.site/, trying Playwright
+2026-03-18 11:41:20,982 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:21,349 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:21,354 - __main__ - INFO - Skipped (no store page found): http://theocoffeecompany.square.site/
+2026-03-18 11:41:21,354 - __main__ - INFO - Processing http://www.peakypeakcoffee.com/
+2026-03-18 11:41:21,579 - __main__ - INFO - BS4 scrape successful for http://www.peakypeakcoffee.com/ (352 chars)
+2026-03-18 11:41:22,015 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:22,018 - __main__ - INFO - Skipped (no shop): http://www.peakypeakcoffee.com/
+2026-03-18 11:41:22,018 - __main__ - INFO - Processing https://www.happycrewcoffeehouse.com/
+2026-03-18 11:41:22,604 - __main__ - INFO - BS4 scrape successful for https://www.happycrewcoffeehouse.com/ (3000 chars)
+2026-03-18 11:41:23,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:23,233 - __main__ - INFO - Skipped (no shop): https://www.happycrewcoffeehouse.com/
+2026-03-18 11:41:23,234 - __main__ - INFO - Processing https://peregrineroasters.com/
+2026-03-18 11:41:24,111 - __main__ - INFO - BS4 scrape successful for https://peregrineroasters.com/ (2417 chars)
+2026-03-18 11:41:24,114 - __main__ - INFO - Shop link detected in nav for https://peregrineroasters.com/, skipping GPT shop check
+2026-03-18 11:41:24,114 - __main__ - INFO - [Depth 1] Checking: https://peregrineroasters.com/
+2026-03-18 11:41:24,761 - __main__ - INFO - BS4 scrape successful for https://peregrineroasters.com/ (2417 chars)
+2026-03-18 11:41:25,595 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:25,601 - __main__ - INFO - Found coffee-selling page at depth 1: https://peregrineroasters.com/
+2026-03-18 11:41:26,755 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:26,757 - __main__ - INFO - [Depth 2] Checking: https://peregrineroasters.com/collections/coffee
+2026-03-18 11:41:26,954 - __main__ - INFO - BS4 scrape successful for https://peregrineroasters.com/collections/coffee (1441 chars)
+2026-03-18 11:41:27,380 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:27,382 - __main__ - INFO - Found coffee-selling page at depth 2: https://peregrineroasters.com/collections/coffee
+2026-03-18 11:41:27,382 - __main__ - INFO - Processing https://www.theexchangecoffeehouse.com/
+2026-03-18 11:41:27,815 - __main__ - INFO - BS4 scrape successful for https://www.theexchangecoffeehouse.com/ (3000 chars)
+2026-03-18 11:41:27,817 - __main__ - INFO - Shop link detected in nav for https://www.theexchangecoffeehouse.com/, skipping GPT shop check
+2026-03-18 11:41:27,817 - __main__ - INFO - [Depth 1] Checking: https://www.theexchangecoffeehouse.com/
+2026-03-18 11:41:27,988 - __main__ - INFO - BS4 scrape successful for https://www.theexchangecoffeehouse.com/ (3000 chars)
+2026-03-18 11:41:28,398 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:28,797 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:28,807 - __main__ - INFO - Skipped (no store page found): https://www.theexchangecoffeehouse.com/
+2026-03-18 11:41:28,807 - __main__ - INFO - Processing https://damegooddrinks.com/
+2026-03-18 11:41:37,536 - __main__ - WARNING - BS4 scrape failed for https://damegooddrinks.com/: 403 Client Error: Forbidden for url: https://damegooddrinks.com/
+2026-03-18 11:41:37,539 - __main__ - INFO - BS4 failed for https://damegooddrinks.com/, trying Playwright
+2026-03-18 11:41:43,033 - __main__ - INFO - Shop link detected in nav for https://damegooddrinks.com/, skipping GPT shop check
+2026-03-18 11:41:43,035 - __main__ - INFO - [Depth 1] Checking: https://damegooddrinks.com/
+2026-03-18 11:41:43,158 - __main__ - WARNING - BS4 scrape failed for https://damegooddrinks.com/: 403 Client Error: Forbidden for url: https://damegooddrinks.com/
+2026-03-18 11:41:43,160 - __main__ - INFO - BS4 failed for https://damegooddrinks.com/, trying Playwright
+2026-03-18 11:41:48,057 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:48,497 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:48,506 - __main__ - INFO - Skipped (no store page found): https://damegooddrinks.com/
+2026-03-18 11:41:48,506 - __main__ - INFO - Processing http://monkandmongoose.com/
+2026-03-18 11:41:48,907 - __main__ - INFO - BS4 scrape successful for http://monkandmongoose.com/ (1413 chars)
+2026-03-18 11:41:48,910 - __main__ - INFO - Shop link detected in nav for http://monkandmongoose.com/, skipping GPT shop check
+2026-03-18 11:41:48,910 - __main__ - INFO - [Depth 1] Checking: http://monkandmongoose.com/
+2026-03-18 11:41:48,995 - __main__ - INFO - BS4 scrape successful for http://monkandmongoose.com/ (1413 chars)
+2026-03-18 11:41:49,551 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:50,177 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:50,185 - __main__ - INFO - [Depth 2] Checking: http://monkandmongoose.com/shop
+2026-03-18 11:41:50,586 - __main__ - INFO - BS4 scrape successful for http://monkandmongoose.com/shop (276 chars)
+2026-03-18 11:41:51,095 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:51,838 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:51,841 - __main__ - INFO - [Depth 3] Checking: http://monkandmongoose.com/coffee-cart
+2026-03-18 11:41:52,251 - __main__ - INFO - BS4 scrape successful for http://monkandmongoose.com/coffee-cart (654 chars)
+2026-03-18 11:41:52,694 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:53,288 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:53,292 - __main__ - INFO - Skipped (no store page found): http://monkandmongoose.com/
+2026-03-18 11:41:53,295 - __main__ - INFO - Processing https://www.beansandbrews.com/coffee-shops/meridian-lincoln-ave/
+2026-03-18 11:41:53,733 - __main__ - INFO - BS4 scrape successful for https://www.beansandbrews.com/coffee-shops/meridian-lincoln-ave/ (347 chars)
+2026-03-18 11:41:53,736 - __main__ - INFO - Shop link detected in nav for https://www.beansandbrews.com/coffee-shops/meridian-lincoln-ave/, skipping GPT shop check
+2026-03-18 11:41:53,736 - __main__ - INFO - [Depth 1] Checking: https://www.beansandbrews.com/coffee-shops/meridian-lincoln-ave/
+2026-03-18 11:41:53,865 - __main__ - INFO - BS4 scrape successful for https://www.beansandbrews.com/coffee-shops/meridian-lincoln-ave/ (347 chars)
+2026-03-18 11:41:54,379 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:54,771 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:54,775 - __main__ - INFO - [Depth 2] Checking: http://shop.beansandbrews.com
+2026-03-18 11:41:55,216 - __main__ - INFO - BS4 scrape successful for http://shop.beansandbrews.com (345 chars)
+2026-03-18 11:41:55,904 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:41:55,908 - __main__ - INFO - Found coffee-selling page at depth 2: http://shop.beansandbrews.com
+2026-03-18 11:41:55,910 - __main__ - INFO - === PROCESSING CITY: littleton ===
+2026-03-18 11:41:55,910 - __main__ - INFO - Searching for 'specialty coffee roaster in littleton, CO, USA'
+2026-03-18 11:41:56,607 - __main__ - INFO -   Added: Your Coffee Guy
+2026-03-18 11:41:57,608 - __main__ - INFO - Searching for 'artisan coffee roaster in littleton, CO, USA'
+2026-03-18 11:41:58,319 - __main__ - INFO -   Added: The Fox & The Raven Bakery by Corvus Coffee Roasters
+2026-03-18 11:41:59,560 - __main__ - INFO -   Added: Artemis Tea Coffee
+2026-03-18 11:42:00,663 - __main__ - INFO -   Added: Wild Goose Coffee
+2026-03-18 11:42:04,260 - __main__ - INFO -   Added: Ground Up Coffee Cafe
+2026-03-18 11:42:05,378 - __main__ - INFO -   Added: Broken Pieces Cafe
+2026-03-18 11:42:06,694 - __main__ - INFO -   Added: Amano Coffee & Plants
+2026-03-18 11:42:10,414 - __main__ - INFO -   Added: Bearded Man Coffee
+2026-03-18 11:42:11,485 - __main__ - INFO - Processing https://mymenuweb.com/us/restaurants/1201044/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin
+2026-03-18 11:42:12,251 - __main__ - INFO - BS4 scrape successful for https://mymenuweb.com/us/restaurants/1201044/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin (928 chars)
+2026-03-18 11:42:12,773 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:12,774 - __main__ - INFO - Skipped (no shop): https://mymenuweb.com/us/restaurants/1201044/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin
+2026-03-18 11:42:12,774 - __main__ - INFO - Processing http://www.thefoxandtheraven.co/
+2026-03-18 11:42:13,240 - __main__ - INFO - BS4 scrape successful for http://www.thefoxandtheraven.co/ (3000 chars)
+2026-03-18 11:42:13,242 - __main__ - INFO - Skipped (no coffee keywords): http://www.thefoxandtheraven.co/
+2026-03-18 11:42:13,243 - __main__ - INFO - Processing https://artemisteacoffee.com/?utm_source=google
+2026-03-18 11:42:15,282 - __main__ - INFO - BS4 scrape successful for https://artemisteacoffee.com/?utm_source=google (1540 chars)
+2026-03-18 11:42:15,289 - __main__ - INFO - Shop link detected in nav for https://artemisteacoffee.com/?utm_source=google, skipping GPT shop check
+2026-03-18 11:42:15,289 - __main__ - INFO - [Depth 1] Checking: https://artemisteacoffee.com/?utm_source=google
+2026-03-18 11:42:15,799 - __main__ - INFO - BS4 scrape successful for https://artemisteacoffee.com/?utm_source=google (1540 chars)
+2026-03-18 11:42:16,090 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:17,043 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:17,049 - __main__ - INFO - [Depth 2] Checking: https://www.artemisteacoffee.com/shop
+2026-03-18 11:42:17,206 - __main__ - INFO - BS4 returned insufficient content (18 chars) for https://www.artemisteacoffee.com/shop, trying Playwright
+2026-03-18 11:42:20,784 - __main__ - INFO - Only 0 links from BS4, retrying with Playwright
+2026-03-18 11:42:24,202 - __main__ - INFO - Skipped (no store page found): https://artemisteacoffee.com/?utm_source=google
+2026-03-18 11:42:24,206 - __main__ - INFO - Processing http://wild-goose-coffee.square.site/
+2026-03-18 11:42:24,857 - __main__ - INFO - BS4 failed for http://wild-goose-coffee.square.site/, trying Playwright
+2026-03-18 11:42:31,162 - __main__ - INFO - Shop link detected in nav for http://wild-goose-coffee.square.site/, skipping GPT shop check
+2026-03-18 11:42:31,162 - __main__ - INFO - [Depth 1] Checking: http://wild-goose-coffee.square.site/
+2026-03-18 11:42:31,247 - __main__ - INFO - BS4 failed for http://wild-goose-coffee.square.site/, trying Playwright
+2026-03-18 11:42:38,855 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:39,413 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:39,419 - __main__ - INFO - [Depth 2] Checking: http://wild-goose-coffee.square.site/s/order
+2026-03-18 11:42:39,637 - __main__ - INFO - BS4 failed for http://wild-goose-coffee.square.site/s/order, trying Playwright
+2026-03-18 11:42:46,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:46,374 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:46,378 - __main__ - INFO - Skipped (no store page found): http://wild-goose-coffee.square.site/
+2026-03-18 11:42:46,379 - __main__ - INFO - Processing https://grounduplittleton.com/
+2026-03-18 11:42:47,933 - __main__ - INFO - BS4 scrape successful for https://grounduplittleton.com/ (1381 chars)
+2026-03-18 11:42:47,935 - __main__ - INFO - Shop link detected in nav for https://grounduplittleton.com/, skipping GPT shop check
+2026-03-18 11:42:47,935 - __main__ - INFO - [Depth 1] Checking: https://grounduplittleton.com/
+2026-03-18 11:42:48,135 - __main__ - INFO - BS4 scrape successful for https://grounduplittleton.com/ (1381 chars)
+2026-03-18 11:42:48,520 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:49,006 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:49,012 - __main__ - INFO - [Depth 2] Checking: https://grounduplittleton.square.site/
+2026-03-18 11:42:49,537 - __main__ - INFO - BS4 returned insufficient content (31 chars) for https://grounduplittleton.square.site/, trying Playwright
+2026-03-18 11:42:55,928 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:57,154 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:42:57,162 - __main__ - INFO - [Depth 3] Checking: https://grounduplittleton.square.site/s/order
+2026-03-18 11:42:57,382 - __main__ - INFO - BS4 returned insufficient content (31 chars) for https://grounduplittleton.square.site/s/order, trying Playwright
+2026-03-18 11:43:07,385 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:07,701 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:07,710 - __main__ - INFO - Skipped (no store page found): https://grounduplittleton.com/
+2026-03-18 11:43:07,710 - __main__ - INFO - Processing https://www.welcometomosaic.com/broken-pieces-cafe
+2026-03-18 11:43:07,887 - __main__ - INFO - BS4 scrape successful for https://www.welcometomosaic.com/broken-pieces-cafe (1808 chars)
+2026-03-18 11:43:08,367 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:08,369 - __main__ - INFO - Skipped (no shop): https://www.welcometomosaic.com/broken-pieces-cafe
+2026-03-18 11:43:08,369 - __main__ - INFO - Processing https://www.amanoplantcafe.com/
+2026-03-18 11:43:08,544 - __main__ - INFO - BS4 scrape successful for https://www.amanoplantcafe.com/ (696 chars)
+2026-03-18 11:43:08,546 - __main__ - INFO - Shop link detected in nav for https://www.amanoplantcafe.com/, skipping GPT shop check
+2026-03-18 11:43:08,546 - __main__ - INFO - [Depth 1] Checking: https://www.amanoplantcafe.com/
+2026-03-18 11:43:08,774 - __main__ - INFO - BS4 scrape successful for https://www.amanoplantcafe.com/ (696 chars)
+2026-03-18 11:43:09,141 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:10,182 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:10,188 - __main__ - INFO - [Depth 2] Checking: https://amano-llc.square.site/s/order?location=11ef64f7b682d1e0bcb53cecef6d615a
+2026-03-18 11:43:10,600 - __main__ - INFO - BS4 failed for https://amano-llc.square.site/s/order?location=11ef64f7b682d1e0bcb53cecef6d615a, trying Playwright
+2026-03-18 11:43:17,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:17,267 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:17,271 - __main__ - INFO - Skipped (no store page found): https://www.amanoplantcafe.com/
+2026-03-18 11:43:17,271 - __main__ - INFO - Processing http://beardedmancoffee.com/
+2026-03-18 11:43:19,794 - __main__ - INFO - BS4 scrape successful for http://beardedmancoffee.com/ (3000 chars)
+2026-03-18 11:43:19,798 - __main__ - INFO - Shop link detected in nav for http://beardedmancoffee.com/, skipping GPT shop check
+2026-03-18 11:43:19,798 - __main__ - INFO - [Depth 1] Checking: http://beardedmancoffee.com/
+2026-03-18 11:43:21,443 - __main__ - INFO - BS4 scrape successful for http://beardedmancoffee.com/ (3000 chars)
+2026-03-18 11:43:21,833 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:21,838 - __main__ - INFO - Found coffee-selling page at depth 1: http://beardedmancoffee.com/
+2026-03-18 11:43:22,468 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:22,475 - __main__ - INFO - [Depth 2] Checking: https://beardedmancoffee.com/product-category/coffee/
+2026-03-18 11:43:24,033 - __main__ - INFO - BS4 scrape successful for https://beardedmancoffee.com/product-category/coffee/ (3000 chars)
+2026-03-18 11:43:24,360 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-18 11:43:24,367 - __main__ - INFO - Found coffee-selling page at depth 2: https://beardedmancoffee.com/product-category/coffee/
+2026-03-18 11:43:24,385 - __main__ - INFO - Saved 65 roasters to roasters/Denver_specialty_coffee_roasters.csv
+2026-03-18 11:43:24,391 - __main__ - INFO - Saved 86 rejects to roasters/Denver_rejected.csv
+2026-03-18 11:43:24,391 - __main__ - INFO - Processing metro area: Denver took 40m 6.7s
+2026-03-18 11:43:24,463 - __main__ - INFO - Updated master list: 151 new entries, 3102 total
+2026-03-18 11:43:24,468 - __main__ - INFO - Saved metro cache to metro_area_cache.json
+2026-03-18 11:43:24,468 - __main__ - INFO - 
+============================================================
+2026-03-18 11:43:24,469 - __main__ - INFO - TIMING SUMMARY
+2026-03-18 11:43:24,470 - __main__ - INFO - ============================================================
+2026-03-18 11:43:24,470 - __main__ - INFO -   Denver: 40m 6.7s
+2026-03-18 11:43:24,471 - __main__ - INFO - 
+============================================================
+2026-03-18 11:43:24,471 - __main__ - INFO - API USAGE SUMMARY
+2026-03-18 11:43:24,471 - __main__ - INFO - ============================================================
+2026-03-18 11:43:24,471 - __main__ - INFO -   Text Search calls:   38  ($1.22)
+2026-03-18 11:43:24,471 - __main__ - INFO -   Place Details calls: 210  ($3.57)
+2026-03-18 11:43:24,472 - __main__ - INFO -   Estimated total:     $4.79
+2026-03-18 11:43:24,758 - __main__ - INFO - Closed headless browser
+2026-03-18 11:43:24,759 - __main__ - INFO - === TOTAL SCRIPT EXECUTION === took 40m 24.5s

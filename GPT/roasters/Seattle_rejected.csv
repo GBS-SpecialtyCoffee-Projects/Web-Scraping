@@ -1,0 +1,97 @@
+Name,Address,Website,source_city,sub_city,state,reason
+Olympia Coffee Roasting,"1420 5th Ave Suite 103, Seattle, WA 98101",https://olympiacoffee.com/,Seattle,seattle,WA,scrape_failed
+Victrola Coffee Roasters,"300 Pine St Suite 100, Seattle, WA 98101",http://www.victrolacoffee.com/,Seattle,seattle,WA,scrape_failed
+Slow Day Coffee,"2103 3rd Ave, Seattle, WA 98121",https://slowday.coffee/,Seattle,seattle,WA,scrape_failed
+Overcast Coffee,"1517 12th Ave Suite 100, Seattle, WA 98122",http://www.overcastcoffee.co/,Seattle,seattle,WA,no_shop
+Coffee TAB,"211 Lenora St Suit A, Seattle, WA 98121",http://coffeetab.cafe/,Seattle,seattle,WA,no_store_page
+Homage Coffee,"5000 20th Ave NW, Seattle, WA 98107",http://homage-coffee.com/,Seattle,seattle,WA,no_shop
+The Outer Rim,"2821 Thorndyke Ave W, Seattle, WA 98119",https://www.theouterrimseattle.com/,Seattle,seattle,WA,no_store_page
+Current Coffee,"2206 California Ave SW STE B, Seattle, WA 98116",http://www.currentcoffee.cafe/,Seattle,seattle,WA,scrape_failed
+Grumpy Bean,"910 Stewart St, Seattle, WA 98101",http://grumpybeanseattle.com/,Seattle,seattle,WA,no_store_page
+URL Coffee,"524 Broadway, Seattle, WA 98122",http://urlcoffee.square.site/,Seattle,seattle,WA,no_coffee_keywords
+Day Made Kaffe Bar,"524 1st Ave S, Seattle, WA 98104",https://daymadeseattle.com/,Seattle,seattle,WA,no_coffee_keywords
+Second Love Coffee Roasters,"22331 Marine View Dr S, Des Moines, WA 98198",https://www.secondlovecoffeeroasters.com/,Seattle,seattle,WA,no_store_page
+Fremont Coffee Company,"459 N 36th St, Seattle, WA 98103",http://fremontcoffeeco.com/,Seattle,seattle,WA,no_shop
+Aroom Coffee Fremont,"3801 Stone Way N Suite C, Seattle, WA 98103",https://www.aroomcoffee.com/,Seattle,seattle,WA,no_store_page
+Caffe Appassionato Coffee Roastery and Tasting Bar,"4001 21st Ave W, Seattle, WA 98199",http://www.caffeappassionato.com/,Seattle,seattle,WA,no_store_page
+Artisan Cafe,"2523 5th Ave, Seattle, WA 98121",http://www.artisancafeonvine.com/,Seattle,seattle,WA,no_shop
+Roasterworks,"1502 14th St NW Ste. B, Auburn, WA 98001",https://roasterworks.com/,Seattle,seattle,WA,no_store_page
+Ghost Note Coffee (Seattle Tower),"1218 3rd Ave # 103, Seattle, WA 98101",https://www.ghostnotecoffee.com/,Seattle,seattle,WA,no_store_page
+Feva Coffee Company- Café Feva,"3663 Stone Way N, Seattle, WA 98103",https://www.fevacoffeecompany.com/,Seattle,seattle,WA,no_shop
+Cardoon,"2423 NW Market St, Seattle, WA 98107",http://cardoonseattle.com/,Seattle,seattle,WA,no_store_page
+Last Frontier Coffee,"3080 148th Ave SE #113, Bellevue, WA 98007",http://lastfrontiercoffee.square.site/,Seattle,bellevue,WA,no_shop
+Himalayan Coffee Roasters Bellevue,"411 108th Ave NE, Bellevue, WA 98004",https://himalayancoffee.us/,Seattle,bellevue,WA,no_store_page
+5 Stones Coffee Co,"2649 Landerholm Cir SE, Bellevue, WA 98007",http://www.5stonescoffeeco.com/,Seattle,bellevue,WA,no_store_page
+STORY COFFEE (Navigate to Alley 111 parking garage）,"11011 NE 9th St B, Bellevue, WA 98004",https://story-coffee.square.site/,Seattle,bellevue,WA,no_store_page
+Pot O' Gold Coffee Service,"13205 SE 30th St Suite 104, Bellevue, WA 98005",http://www.potogoldcoffee.com/,Seattle,bellevue,WA,no_shop
+Copper Kettle Coffee Bar,"Shorts House, 12001 Main St, Bellevue, WA 98005",https://www.copperkettlecoffeebar.com/,Seattle,bellevue,WA,no_store_page
+North of Main Cafe,"115 112th Ave NE, Bellevue, WA 98004",https://www.watermarkcommunities.com/our-communities/washington/bellevue/the-watermark-at-bellevue/dining/north-of-main/,Seattle,bellevue,WA,no_shop
+Amoré Coffee,"2201 140th Ave NE, Bellevue, WA 98005",https://www.amore-coffee.com/,Seattle,bellevue,WA,no_store_page
+TOASTED Bagels,"278 106th Ave NE #102-A, Bellevue, WA 98004",http://toastedseattle.com/,Seattle,bellevue,WA,no_store_page
+Semicolon Cafe,"10451 NE 2nd St, Bellevue, WA 98004",http://semicolonbellevue.com/,Seattle,bellevue,WA,no_store_page
+La'bean,"12668 SE 38th St, Bellevue, WA 98006",https://www.labeann.com/,Seattle,bellevue,WA,no_store_page
+Evergreen Blendz Coffee,"11811 NE 128th St D, Kirkland, WA 98034",https://evergreenblendz.com/,Seattle,bellevue,WA,no_store_page
+Queen Bee Cafe,"8805 Points Dr NE, Clyde Hill, WA 98004",https://www.queenbeecafe.com/,Seattle,bellevue,WA,no_store_page
+Sidekick Coffee,"17255 135th Ave NE Suite 1020, Woodinville, WA 98072",http://sidekick.coffee/,Seattle,bellevue,WA,no_store_page
+Civic Roasters,"508B S 11th St, Tacoma, WA 98402",http://civicroasters.com/,Seattle,tacoma,WA,no_store_page
+Wolfe Club Coffee Roasters,"12901 Pacific Ave S, Tacoma, WA 98444",http://wolfeclub.com/,Seattle,tacoma,WA,no_store_page
+Beware Coffee,"3562 E McKinley Ave, Tacoma, WA 98404",https://www.bewarecoffee.com/,Seattle,tacoma,WA,no_store_page
+Ebony and Ivory Coffee,"1145 Broadway, Tacoma, WA 98402",https://www.ebonyandivorycoffee.com/,Seattle,tacoma,WA,no_store_page
+Common Ground Coffee,"2313 Tacoma Ave S, Tacoma, WA 98402",http://commongroundtacoma.com/,Seattle,tacoma,WA,no_shop
+Martin Henry Espresso,"3121 S 38th St, Tacoma, WA 98409",http://lm.facebook.com/l.php?u=http%3A%2F%2FMartinhenryespresso.com%2F&h=ATN46B23-cAz0q75_CNieSX_IOwL-gLuyptxujYcGzRsQtUZHgl7J63sYD7V8tmoa5pYPmD1vsa9maekTZxLkstnaF4vigoraXCv-gWs3tVErWBG5wCnfAAwvwjiT-RFWj5YX1n71vHC34DP0HZjiZw&s=1,Seattle,tacoma,WA,no_coffee_keywords
+Luv-a-Latte Espresso,"1102 S Yakima Ave, Tacoma, WA 98405",https://www.luvalatteespresso.com/luv.a.latte.espresso,Seattle,tacoma,WA,no_store_page
+The Coffee Oasis,"1424 Tacoma Ave S, Tacoma, WA 98402",https://thecoffeeoasis.com/,Seattle,tacoma,WA,no_store_page
+Tacoma Java Co.,"2703 6th Ave, Tacoma, WA 98406",http://tacoma-java-company.edan.io/,Seattle,tacoma,WA,no_shop
+Wily,"2501 6th Ave, Tacoma, WA 98406",https://www.wilycycleworks.com/,Seattle,tacoma,WA,no_store_page
+JSE Coffee,"29005 Military Rd S, Federal Way, WA 98003",https://jsecoffee.com/,Seattle,tacoma,WA,no_store_page
+Lift Bridge Coffee,"1102 A St #215, Tacoma, WA 98402",https://www.courthousesquaretacoma.com/lift-bridge-coffee,Seattle,tacoma,WA,no_store_page
+Anthem Coffee & Tea | Tacoma,"1911 Pacific Ave, Tacoma, WA 98402",http://myanthemcoffee.com/,Seattle,tacoma,WA,no_store_page
+Rhythms Coffee,"210 4th Ave W, Olympia, WA 98501",http://rhythms-coffee.com/,Seattle,tacoma,WA,no_shop
+Red Elm Cafe,"1114 M.L.K. Jr Way, Tacoma, WA 98405",http://redelmcafe.com/,Seattle,tacoma,WA,no_shop
+Jewel Box Cafe,"5107 Grand Loop, Tacoma, WA 98402",https://www.jewelboxcafeatruston.com/,Seattle,tacoma,WA,no_store_page
+Narrative Coffee,"2927 Wetmore Ave, Everett, WA 98201",http://narrative.coffee/,Seattle,everett,WA,no_store_page
+Artisans Books & Coffee,"1802 Hewitt Ave, Everett, WA 98201",https://artisans-books-coffee-100065.square.site/,Seattle,everett,WA,no_store_page
+Red Door Coffee Roasters,"7425 Hardeson Rd Suite A, Everett, WA 98203",http://www.reddoorcoffeeroasters.com/,Seattle,everett,WA,no_shop
+Nadines Coffee House,"2908 Wetmore Ave, Everett, WA 98201",http://nadinescoffeehouse.com/,Seattle,everett,WA,no_store_page
+"Cascade Coffee, LLC","1525 75th St SW #100th, Everett, WA 98203",https://cascadecoffee.com/,Seattle,everett,WA,no_shop
+Butter Notes Coffeehouse in Everett,"902 N Broadway Unit B, Everett, WA 98201",http://butternotescafe.com/,Seattle,everett,WA,no_store_page
+Sobar Coffee,"2820 Colby Ave, Everett, WA 98201",https://sobarcoffee.com/,Seattle,everett,WA,no_store_page
+Snohomish Coffee Co.,"801 1st St UNIT 201, Snohomish, WA 98290",http://snohomishcoffeeco.com/,Seattle,everett,WA,no_store_page
+Artisans PNW,"1800 Hewitt Ave, Everett, WA 98201",http://www.artisansmercantile.com/,Seattle,everett,WA,no_store_page
+Addicted Espresso Rucker,"3813 Rucker Ave, Everett, WA 98201",https://addictedespresso.com/,Seattle,everett,WA,scrape_failed
+SKOG Haus Coffee & Tea,"24015 Van Ry Blvd Suite 200, Mountlake Terrace, WA 98043",http://skoghauscoffee.com/,Seattle,everett,WA,no_shop
+Catkin Coffee,"294963 US-101 Suite A, Quilcene, WA 98376",http://catkincoffee.com/,Seattle,everett,WA,no_shop
+Grain Artisan Bakery + Craft Coffee,"717 1st St, Snohomish, WA 98290",http://www.grainartisanbakery.com/,Seattle,everett,WA,no_store_page
+Lula Coffee Co,"25246 Pacific Hwy S #101, Kent, WA 98032",https://lulacoffeeco.com/,Seattle,kent,WA,no_shop
+Coffee Romance Roasters,"10117 SE 227th St, Kent, WA 98031",https://www.coffeeromance.net/,Seattle,kent,WA,no_shop
+Daily Dose Coffee Co. - Kent,"20900 108th Ave SE, Kent, WA 98031",https://apps.apple.com/us/app/daily-dose-coffee-company/id6476887177,Seattle,kent,WA,no_shop
+Pull Caff'e Coffee Roasters & Wood Fired Sourdough Pizza and Bread,"33111 NE 236th St, Yacolt, WA 98675",https://pullcaffe.com/,Seattle,kent,WA,no_store_page
+Lviv Croissants,"321 Ramsay Way Suite 110, Kent, WA 98032",https://lvivcroissants.com/us/,Seattle,kent,WA,no_store_page
+The Rose Gift House and Coffee,"226 Main Ave S Suite B, Renton, WA 98057",https://therose.coffee/,Seattle,renton,WA,no_store_page
+Rainier valley coffee,"12670 164th Ave SE, Renton, WA 98059",http://rvccoffee.com/,Seattle,renton,WA,no_store_page
+Candor Coffee,"200 SW 43rd St, Renton, WA 98057",http://candor.coffee/,Seattle,renton,WA,no_store_page
+Hasel Cafe,"960 Harrington Ave NE, Renton, WA 98056",https://www.haselcafe.us/,Seattle,renton,WA,no_store_page
+Filling Station Coffee & Bistro,"1302 N 30th St, Renton, WA 98056",https://www.fillingstationkennydale.com/menu,Seattle,renton,WA,no_coffee_keywords
+Refuel Cafe,"401 Olympia Ave NE Ste 102, Renton, WA 98056",https://www.refuel-cafe.com/,Seattle,renton,WA,no_store_page
+SLAYER Espresso Machines,"707 Lind Ave SW, Renton, WA 98057",http://www.slayerespresso.com/,Seattle,renton,WA,no_shop
+Seattle Barista Academy,"905 Industry Dr, Tukwila, WA 98188",http://www.seattlebaristaacademy.org/,Seattle,renton,WA,no_shop
+Stone’s Throw Coffee & Market,"1218 N 45th St, Seattle, WA 98103",http://www.stonesthrowcoffeemarket.com/,Seattle,renton,WA,no_shop
+C & P Coffee Company,"5612 California Ave SW, Seattle, WA 98136",http://www.candpcoffee.com/,Seattle,renton,WA,no_coffee_keywords
+Doppio Cafe and Creperie,"8296 160th Ave NE #106, Redmond, WA 98052",https://www.doppiocafeandcreperie.com/,Seattle,redmond,WA,no_store_page
+SoulFood CoffeeHouse and Fair Trade Emporium,"15748 Redmond Wy, Redmond, WA 98052",http://soulfoodcoffeehouse.com/,Seattle,redmond,WA,no_store_page
+The Screaming Parrots Cafe: Desserts + Tea + Bites,"16095 Cleveland St Suite 110, Redmond, WA 98052",http://thescreamingparrots.com/,Seattle,redmond,WA,no_store_page
+Rockin’ Roasters,"122 SW 5th St, Redmond, OR 97756",http://rockinroasters.com/,Seattle,redmond,WA,no_shop
+Junction Roastery • Social Club,"708 SW Deschutes Ave, Redmond, OR 97756",http://www.junctionroastery.com/,Seattle,redmond,WA,no_shop
+Tite Knot Craft Coffee,"706 SW 10th St, Redmond, OR 97756",http://www.titeknot.com/,Seattle,redmond,WA,no_store_page
+The Art Of Coffee,"12348 NE 115th Pl, Kirkland, WA 98033",https://artofcoffeeseattle.com/?utm_source=google&utm_medium=local,Seattle,redmond,WA,no_coffee_keywords
+Downpour Coffee and Sandwich Bar,"13200 Old Redmond Rd #150, Redmond, WA 98052",http://www.downpourcoffeebar.com/,Seattle,redmond,WA,no_store_page
+Cypress Coffee Company,"22310 NE Marketplace Dr # 102, Redmond, WA 98053",http://www.cypresscoffee.co/,Seattle,redmond,WA,no_shop
+Ummah Coffee,"17550 NE 67th Ct #207, Redmond, WA 98052",http://ummahcoffee.com/,Seattle,redmond,WA,no_coffee_keywords
+Sammamish Point Espresso,"18065 Redmond Wy, Redmond, WA 98052",http://www.samptespresso.com/,Seattle,redmond,WA,no_store_page
+Redmond Coffee Company,"3716 SW 21st Pl Suite A, Redmond, OR 97756",http://www.redmondcoffeecompany.com/,Seattle,redmond,WA,no_store_page
+Asensio Coffee,"33610 21st Ave SW, Federal Way, WA 98023",http://www.asensiocoffee.com/,Seattle,federal way,WA,no_shop
+Coffee Bear Company,"31827 Military Rd S, Auburn, WA 98001",http://thecoffeebearcompany.com/,Seattle,federal way,WA,no_store_page
+Whisha Coffee Distributors,"4150 B Pl NW Suite 103, Auburn, WA 98001",https://www.whisha.com/,Seattle,federal way,WA,no_shop
+PNW Coffee CO,"110 2nd St SW #130, Auburn, WA 98001",http://www.pnwcoffeeco.com/,Seattle,federal way,WA,no_store_page
+Electric Coffee House,"905 Main St, Sumner, WA 98390",http://electriccoffee.co/,Seattle,federal way,WA,no_store_page
+Caffe Capri LLC,"33926 9th Ave S, Federal Way, WA 98003",https://www.caffecapri.net/,Seattle,federal way,WA,no_shop
