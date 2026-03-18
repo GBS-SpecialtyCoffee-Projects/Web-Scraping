@@ -1,0 +1,48 @@
+Name,Address,Website,source_city,sub_city,state,reason
+Origin Coffee Company,"210 W Latimer St, Tulsa, OK 74106",https://www.origincoffeeok.com/,Tulsa,tulsa,OK,no_store_page
+PonyCoffee,"1623 S Main St, Tulsa, OK 74119",http://ponycoffee.com/,Tulsa,tulsa,OK,no_store_page
+Collab Coffee,"4532 E 51st St Suite E, Tulsa, OK 74135",http://www.collaborativeok.com/,Tulsa,tulsa,OK,no_store_page
+Foolish Things Coffee Company,"1001 S Main St, Tulsa, OK 74119",http://www.foolishthingscoffee.com/,Tulsa,tulsa,OK,no_shop
+Nordaggios Coffee,"8156 S Lewis Ave, Tulsa, OK 74137",http://www.nordaggios.com/,Tulsa,tulsa,OK,no_store_page
+Jones Co. Coffee,"2446 E 11th St, Tulsa, OK 74104",http://jonescompanycoffee.org/,Tulsa,tulsa,OK,no_shop
+Coffee House on Cherry Street,"1502 E 15th St, Tulsa, OK 74120",https://chocstulsa.com/,Tulsa,tulsa,OK,no_store_page
+Paréa Coffee,"10111 E 81st St Suite A, Tulsa, OK 74133",https://www.pareacoffeecompany.com/,Tulsa,tulsa,OK,no_shop
+Shades of Brown Coffee & Art,"3302 S Peoria Ave, Tulsa, OK 74105",http://www.shadescoffee.com/,Tulsa,tulsa,OK,no_store_page
+Gypsy Coffee House,"303 M.L.K. Jr Blvd, Tulsa, OK 74103",http://www.gypsycoffee.com/,Tulsa,tulsa,OK,no_shop
+Sona Coffee,"306 E 1st St, Tulsa, OK 74120",http://www.sonacoffee.net/,Tulsa,tulsa,OK,no_store_page
+Brice's Coffee & Bake House,"8929 S Memorial Dr #280, Tulsa, OK 74133",https://bricescoffeeandbake.com/,Tulsa,tulsa,OK,no_shop
+Dulce Vida Cafe,"8038 S Yale Ave, Tulsa, OK 74136",https://dulcevidacafe918.square.site/,Tulsa,tulsa,OK,no_store_page
+Rocket Brothers,"9705 E 61st St, Tulsa, OK 74133",https://rocketbrothers.com/,Tulsa,tulsa,OK,no_coffee_keywords
+Mojo's Mercantile & Coffee House,"407 W A St, Jenks, OK 74037",http://mojosmerc.com/,Tulsa,tulsa,OK,no_store_page
+Chimera Cafe,"212 N Main St, Tulsa, OK 74103",http://www.chimeratulsa.com/,Tulsa,tulsa,OK,scrape_failed
+Bison Grounds Coffee,"30847 S 4200 Rd, Inola, OK 74036",https://www.bisongroundscoffee.com/,Tulsa,tulsa,OK,no_shop
+Matties Coffee Company,"9235 N Pennsylvania Pl, The Village, OK 73120",http://www.mattiescoffee.com/,Tulsa,tulsa,OK,no_store_page
+Heirloom Rustic Ales,"2113 E Admiral Blvd, Tulsa, OK 74110",http://www.heirloomrusticales.com/,Tulsa,tulsa,OK,scrape_failed
+Arbuckle Craft Coffee & Bagels,"230 W 12th St, Ada, OK 74820",http://arbucklecraftcoffee.com/,Tulsa,tulsa,OK,no_coffee_keywords
+Rise Grind & Ride Espresso Cafe/ Wanderlust Roastery,"521 N Main St, Broken Arrow, OK 74012",http://wanderlustroastery.com/,Tulsa,broken arrow,OK,no_store_page
+Yonder Coffee and Chocolate,"2034 W Houston St, Broken Arrow, OK 74012",http://oneweirdrabbit.com/,Tulsa,broken arrow,OK,no_store_page
+Blended & Brewed Snow and Coffee,"806 W Tucson St, Broken Arrow, OK 74011",https://www.blendedandbrewedtulsa.com/,Tulsa,broken arrow,OK,no_store_page
+Not Your Average Joe,"800 W Mission St, Broken Arrow, OK 74012",https://www.nyaj.coffee/,Tulsa,broken arrow,OK,no_store_page
+Phinesso Coffee House,"2000 W Houston St, Broken Arrow, OK 74012",http://phinesso.com/,Tulsa,broken arrow,OK,no_store_page
+Laurannae + COTM,"1205 E Kenosha St, Broken Arrow, OK 74012",http://www.lbcotulsa.com/,Tulsa,broken arrow,OK,no_shop
+Handmade,"732 W New Orleans St, Broken Arrow, OK 74011",http://handmadebaok.com/,Tulsa,broken arrow,OK,no_coffee_keywords
+All About Cha Cafe & Restaurant - Broken Arrow,"820 N Aspen Ave, Broken Arrow, OK 74012",https://allaboutchaba.com/?utm_source=google,Tulsa,broken arrow,OK,no_store_page
+Overflow Coffee,"111 S Broadway, Coweta, OK 74429",https://overflowcoweta.com/,Tulsa,broken arrow,OK,no_store_page
+Misty Brew,"12550 East 86th St N, Owasso, OK 74055",http://www.mistybrewcoffee.com/,Tulsa,owasso,OK,no_store_page
+Chloe Lee's Coffee & Bakehouse,"429 E 2nd Ave, Owasso, OK 74055",https://chloelees.com/,Tulsa,owasso,OK,no_store_page
+Evergreen Coffee Co,"11204 N Garnett Rd, Owasso, OK 74055",http://www.evergreen-coffee-company.com/,Tulsa,owasso,OK,no_store_page
+NobiliTea,"9031 N 121st E Ave, Owasso, OK 74055",https://www.nobilitea.us/,Tulsa,owasso,OK,no_store_page
+Harbor Coffee,"165 Cooweescoowee Ave W, Oologah, OK 74053",http://www.drinkharborcoffee.com/,Tulsa,owasso,OK,no_coffee_keywords
+Apple Barrel Cafe,"14002 E 116th St N, Owasso, OK 74055",http://www.applebarrelcafe.com/,Tulsa,owasso,OK,no_shop
+Waymaker Grounds Coffee House,"65252 E 290 Rd, Grove, OK 74344",https://waymakergrounds.com/,Tulsa,owasso,OK,no_shop
+Hebrews 12:2 Coffee Shop,"218 N Odor St, Arcadia, OK 73007",http://www.hebrews122.coffee/,Tulsa,owasso,OK,no_shop
+Atwoods,"11510 N Garnett Rd, Owasso, OK 74055",https://www.atwoods.com/,Tulsa,owasso,OK,no_store_page
+Arcadia Printing,"14956 S Grant St, Bixby, OK 74008",http://www.arcadiaprinting.com/,Tulsa,bixby,OK,no_store_page
+CTX Coffee,"114 E Dewey Ave, Sapulpa, OK 74066",https://ctxcoffeeco.com/,Tulsa,jenks,OK,no_store_page
+Crescent Cafe,"3417 S 113th W Ave Ste D4, Sand Springs, OK 74063",https://crescentcafe.shop/,Tulsa,sand springs,OK,no_shop
+Saintlu Coffee,"15381 S 4230 Rd C, Claremore, OK 74017",http://www.saintlucoffee.com/,Tulsa,claremore,OK,no_store_page
+Green Eyes Coffee + Cafe,"224 S Brady St, Claremore, OK 74017",https://www.greeneyescoffee.com/,Tulsa,claremore,OK,scrape_failed
+Hilltop Coffee Shop,"1701 W Will Rogers Blvd, Claremore, OK 74017",https://rsu.sodexomyway.com/dining-near-me/hilltop-coffee-shop-and-juice-bar,Tulsa,claremore,OK,no_store_page
+The Pink House,"121 N Chickasaw Ave, Claremore, OK 74017",http://www.pinkhouseofclaremore.com/,Tulsa,claremore,OK,no_store_page
+Black Ivory Bru House,"105 S Osage Ave, Dewey, OK 74029",http://black-ivory-br-house-llc.square.site/,Tulsa,claremore,OK,no_store_page
+Made From Scratch Collective,"318 W Will Rogers Blvd, Claremore, OK 74017",https://www.madefromscratchcollective.com/,Tulsa,claremore,OK,no_store_page

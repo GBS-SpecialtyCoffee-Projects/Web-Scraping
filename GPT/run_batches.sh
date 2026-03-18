@@ -26,7 +26,7 @@ tail -n +2 "$CSV_FILE" | head -n "$LIMIT" | while IFS=',' read -r city state cou
 
     COUNT=$((COUNT + 1))
     SESSION="city_${COUNT}_${city// /_}_${state}"
-    CMD="source venv/bin/activate && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"logs/${city}_${state}.log\"; echo 'DONE'; read"
+    CMD="source venv/bin/activate && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"${city}_${state}.log\"; echo 'DONE'; read"
 
     tmux new-session -d -s "$SESSION" "$CMD"
     echo "[$COUNT] Started tmux session '$SESSION': $city, $state, $country"

@@ -1,0 +1,55 @@
+Name,Address,Website,source_city,sub_city,state,reason
+Brew Peddler,"802 E 29th Ave APT 3, Spokane, WA 99203",http://brewpeddlerpnw.com/,Spokane,spokane,WA,no_shop
+Derailer Coffee,"5016 N Market St, Spokane, WA 99217",https://derailer.coffee/,Spokane,spokane,WA,scrape_failed
+Hatch beaker + burr,"19 W Main Ave Suite 3, Spokane, WA 99201",http://www.hatchbeakerburr.com/,Spokane,spokane,WA,no_coffee_keywords
+First Avenue Coffee,"1011 W 1st Ave Ste A, Spokane, WA 99201",http://firstavenuecoffee.com/,Spokane,spokane,WA,no_store_page
+New Love Coffee - Kendall Yards,"1102 W Summit Pkwy Suite 102, Spokane, WA 99201",http://newlovecoffee.com/,Spokane,spokane,WA,no_store_page
+Grit Grounds Coffee,"4808 E Sprague Ave suite 206, Spokane, WA 99212",https://www.gritgrounds.net/,Spokane,spokane,WA,no_shop
+Boulevard Coffee Co. 2,"601 W Riverside Ave, Spokane, WA 99201",https://www.blvdcoffeeco.com/,Spokane,spokane,WA,no_store_page
+Black Sheep Coffee Co,"5226 N Division St, Spokane, WA 99207",http://blksheepcoffee.com/,Spokane,spokane,WA,no_store_page
+Swell Coffee,"14505 E Trent Ave, Spokane Valley, WA 99216",http://swellcoffeelife.com/,Spokane,spokane,WA,no_store_page
+Emporium,"10 S Post St, Spokane, WA 99201",https://www.davenporthotelcollection.com/the-historic-davenport-hotel/restaurants/davenport-hotel-emporium/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp,Spokane,spokane,WA,no_store_page
+Wake Up Call - Union District Cafe,"1722 E Sprague Ave Suite 100, Spokane, WA 99202",https://wuc.red/,Spokane,spokane,WA,no_store_page
+Lilac City Coffee ( mobile coffee),"3337 W Woodside Ave, Spokane, WA 99208",http://lilaccitycoffee.com/,Spokane,spokane,WA,no_shop
+Tay Tay's Cafe,"507 S Howard St, Spokane, WA 99204",https://taytays.cafe/,Spokane,spokane,WA,no_store_page
+1902 Coffee Co,"11515 W Sunset Hwy, Airway Heights, WA 99001",http://1902coffeeco.com/,Spokane,spokane,WA,scrape_failed
+Mudslingers Drive Thru Coffee,"23 N Freya St, Spokane, WA 99202",https://www.mudslingersofspokane.com/?fbclid=IwY2xjawQjD3UBHYvHOFaddenuU3z37sHy-vAE3WbN4P0gODMZHwnPC-Dy5abvorSAc0BQmg,Spokane,spokane,WA,scrape_failed
+Roast Retreat Coffee Cafe,"12615 E Mission Ave Lobby, Spokane, WA 99216",http://www.roastretreatcafe.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12927274839245692208,Spokane,spokane,WA,no_coffee_keywords
+Made With Love Bakery,"2023 W Dean Ave, Spokane, WA 99201",http://mwlbakery.com/,Spokane,spokane,WA,no_store_page
+Beans and Berries Café,"1421 N Mullan Rd Suite A, Spokane Valley, WA 99206",https://www.beansandberriescafe.com/,Spokane,spokane valley,WA,no_store_page
+Mandala Chai & Coffee Co.,"4102 S Bowdish Rd, Spokane Valley, WA 99206",http://mandalachaico.com/,Spokane,spokane valley,WA,no_store_page
+Badass Espresso at Badass Backyard Brewing,"1415 N Argonne Rd, Spokane Valley, WA 99212",https://badassbackyardbrewing.com/,Spokane,spokane valley,WA,no_shop
+Fueled Coffee Company,"12303 E Grace Ave, Spokane Valley, WA 99216",https://fueled-coffee-company.edan.io/,Spokane,spokane valley,WA,no_shop
+Lucky Bistro,"325 S Sullivan Rd Suite C, Veradale, WA 99037",http://theluckybistro.com/,Spokane,spokane valley,WA,no_shop
+Para Dice Espresso,"Planet Fitness, 13112 E Sprague Ave, Spokane Valley, WA 99216",http://para-dice-espresso.paqe.io/,Spokane,spokane valley,WA,no_shop
+The Mason Jar,"101 F St, Cheney, WA 99004",http://themasonjar101.com/,Spokane,cheney,WA,scrape_failed
+Farmhouse Cafe,"1630 1st St, Cheney, WA 99004",http://farmhousecafecheney.com/,Spokane,cheney,WA,no_store_page
+Liberty Sips,"19311 E Appleway Ave suite D, Spokane Valley, WA 99016",https://www.libertysips.net/,Spokane,liberty lake,WA,no_shop
+MODE Market & Cafe,"2110 N Molter Rd, Liberty Lake, WA 99019",https://www.findyourmode.com/cafe,Spokane,liberty lake,WA,no_shop
+Crazy Beagle,"22026 E Country Vista Dr, Liberty Lake, WA 99019",https://jenzach.us/2017/10/26/jhodgdon/coffeeneuring-2017-4/,Spokane,liberty lake,WA,no_shop
+Best Life Coeur d' Alene Coffee and Commerce,"524 E Sherman Ave Suite 105, Coeur d'Alene, ID 83814",https://bestlifecda.square.site/,Spokane,liberty lake,WA,no_store_page
+Tommy G's,"177 E SR 902, 47 WA-902, Medical Lake, WA 99022",http://www.tommygsespresso.com/,Spokane,liberty lake,WA,scrape_failed
+The Ridler Coffee Corner,"3938 Gardenspot Rd, Loon Lake, WA 99148",http://www.ridlercoffeecorner.com/,Spokane,liberty lake,WA,no_shop
+Thomas Hammer Coffee Roasters,"100 N Hayford Rd Suite 123, Airway Heights, WA 99001",https://www.northernquest.com/dining-bars/restaurants/thomas-hammer,Spokane,airway heights,WA,no_store_page
+Bear Necessities,"7004 W Seltice Way, Post Falls, ID 83854",https://statelineplaza.com/bear-necessities/,Spokane,post falls,WA,no_store_page
+Big Blue Coffee Co. - Post Falls,"Kootenai Clinic Main Lobby, 1300 E Mullan Ave, Post Falls, ID 83854",https://www.kh.org/restaurants/big-blue-coffee-co/,Spokane,post falls,WA,no_shop
+Anchored Coffee & Bakery,"3200 N Spokane St #104, Post Falls, ID 83854",http://www.anchoredcoffeecompany.com/,Spokane,post falls,WA,no_store_page
+The Coffee Warehouse Inc,"4291 W Poleline Ave, Post Falls, ID 83854",https://thecoffeewarehouseinc.com/,Spokane,post falls,WA,no_store_page
+Maha Coffee Roasters,"3330 N Grandmill Ln Ste 1, Coeur d'Alene, ID 83814",http://www.mahacoffeeroasters.com/,Spokane,post falls,WA,no_store_page
+Jitterz Espresso,"670 N Pleasant View Rd, Post Falls, ID 83854",http://jitterzespresso.shop/,Spokane,post falls,WA,no_store_page
+Flo's Coffee,"2691 W Seltice Way, Coeur d'Alene, ID 83814",https://shop.joe.coffee/explore/stores/749a812e-87fe-4ff1-a58f-44194351a3a1,Spokane,post falls,WA,no_shop
+The Old European Restaurant,"1710 E Schneidmiller Ave, Post Falls, ID 83854",http://www.oldeuropean-restaurant.com/,Spokane,post falls,WA,no_store_page
+Kaffee Meister - Hayden,"9212 N Government Wy, Hayden, ID 83835",https://www.kaffeemeister.com/,Spokane,post falls,WA,no_store_page
+Tubbs Coffee Roasters,"13430 N Clovis Rd, Hayden, ID 83835",http://tubbscoffeeroasters.com/,Spokane,coeur d'alene,WA,no_store_page
+Cuppa Columbian Caffe,"3270 W Prairie Ave, Coeur d'Alene, ID 83815",https://cuppacolumbiancaffe.godaddysites.com/,Spokane,coeur d'alene,WA,no_store_page
+Vault Coffee,"324 Sherman Ave, Coeur d'Alene, ID 83814",http://vaultcda.com/,Spokane,coeur d'alene,WA,no_shop
+Fine Brewed Cafe,"507 Sherman Ave, Coeur d'Alene, ID 83814",https://finebrewedcafe.com/,Spokane,coeur d'alene,WA,no_shop
+Blvd Doughnut Co,"1515 Northwest Blvd, Coeur d'Alene, ID 83814",https://blvddoco.com/,Spokane,coeur d'alene,WA,no_coffee_keywords
+Panhandle Cone & Coffee,"849 N 4th St, Coeur d'Alene, ID 83814",http://coneandcoffee.com/,Spokane,coeur d'alene,WA,no_store_page
+Awaken Coffee,"5767 N Atlas Rd, Coeur d'Alene, ID 83815",http://awaken-coffee.edan.io/,Spokane,coeur d'alene,WA,no_shop
+Woops! Bakeshop (Coeur d'Alene),"119 N 4th St, Coeur d'Alene, ID 83814",https://bywoops.com/locations/coeur-dalene,Spokane,coeur d'alene,WA,no_store_page
+The Garnet Cafe,"3646 N Government Wy Suite H, Coeur d'Alene, ID 83815",http://garnetcafecda.com/,Spokane,coeur d'alene,WA,no_shop
+Ten/6,"1705 N Government Wy Suite 101, Coeur d'Alene, ID 83815",http://www.ten6cda.com/,Spokane,coeur d'alene,WA,no_store_page
+It's a Love Story | Books & Cafe,"8927 Hess St STE A, Hayden, ID 83835",https://www.itsalovestorybooks.com/,Spokane,coeur d'alene,WA,no_shop
+Critters Coffee,"14650 Vernon J Baker Blvd, Rathdrum, ID 83858",http://www.critterscoffee.com/,Spokane,rathdrum,WA,no_store_page
+Bean and Bubb Coffee,"15580 Vera St, Rathdrum, ID 83858",http://www.beanandbubb.com/,Spokane,rathdrum,WA,no_shop
