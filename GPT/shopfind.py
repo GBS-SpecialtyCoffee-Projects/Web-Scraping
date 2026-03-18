@@ -750,6 +750,8 @@ class CoffeeRoasterFinder:
         visited: Set[str] = set()
         current = root_url
 
+        best_match = None
+
         for depth in range(max_depth):
             if current in visited:
                 break
@@ -759,7 +761,7 @@ class CoffeeRoasterFinder:
 
             _, soup = self.scraper.scrape(current)
             if not soup:
-                return None
+                return best_match
 
             anchor_tags = self.scraper.get_anchor_tags(soup, current)
 
@@ -772,16 +774,19 @@ class CoffeeRoasterFinder:
 
             # Check if this page is a shopping hub
             if self.gpt_analyzer.is_shopping_hub(anchor_tags):
-                logger.info(f"Found coffee-selling page at {current}")
-                return current
+                logger.info(f"Found coffee-selling page at depth {depth+1}: {current}")
+                best_match = current
+                # Always check depth 2 even if depth 1 matched, but stop after that
+                if depth >= 1:
+                    return best_match
 
             # Pick next link
             next_url = self.gpt_analyzer.pick_next_link(anchor_tags, visited)
             if not next_url:
-                return None
+                return best_match
             current = next_url
 
-        return None
+        return best_match
 
     def process_city(self, city: str, unique_names: Optional[Set[str]] = None,
                      unique_domains: Optional[Set[str]] = None,

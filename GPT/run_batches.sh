@@ -1,31 +1,35 @@
 #!/bin/bash
 
-COUNTRY="US"
+CSV_FILE="${1:-cities.csv}"
+LIMIT=10
 mkdir -p logs
 
-# Each entry: "city,state"
-CITIES=(
-    "Atlanta,GA"
-    "Savannah,GA"
-    "Austin,TX"
-    "Denver,CO"
-    # ... add all 100
-)
+if [ ! -f "$CSV_FILE" ]; then
+    echo "Error: CSV file '$CSV_FILE' not found"
+    exit 1
+fi
 
-BATCH_SIZE=10
-BATCH_NUM=0
+# Read first LIMIT cities from CSV (skip header), each row: city,state,country
+COUNT=0
+tail -n +2 "$CSV_FILE" | head -n "$LIMIT" | while IFS=',' read -r city state country; do
+    # Trim whitespace
+    city=$(echo "$city" | xargs)
+    state=$(echo "$state" | xargs)
+    country=$(echo "$country" | xargs)
 
-for ((i=0; i<${#CITIES[@]}; i+=BATCH_SIZE)); do
-    BATCH_NUM=$((BATCH_NUM + 1))
-    CMD="source venv/bin/activate"
+    # Default country to US if empty
+    [ -z "$country" ] && country="US"
 
-    for ((j=i; j<i+BATCH_SIZE && j<${#CITIES[@]}; j++)); do
-        IFS=',' read -r city state <<< "${CITIES[j]}"
-        CMD="$CMD && python3 shopfind.py \"$city\" --state \"$state\" --country $COUNTRY --log-file logs/batch_${BATCH_NUM}.log"
-    done
+    if [ -z "$city" ]; then
+        continue
+    fi
 
-    tmux new-session -d -s "batch_${BATCH_NUM}" "$CMD; echo 'DONE'; read"
-    echo "Started batch $BATCH_NUM"
+    COUNT=$((COUNT + 1))
+    SESSION="city_${COUNT}_${city// /_}_${state}"
+    CMD="source venv/bin/activate && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"logs/${city}_${state}.log\"; echo 'DONE'; read"
+
+    tmux new-session -d -s "$SESSION" "$CMD"
+    echo "[$COUNT] Started tmux session '$SESSION': $city, $state, $country"
 done
 
-echo "Launched $BATCH_NUM sessions — use 'tmux ls' to see them"
+echo "Launched $COUNT tmux sessions — use 'tmux ls' to see them"
