@@ -11,7 +11,8 @@ fi
 
 # Read first LIMIT cities from CSV (skip header), each row: city,state,country
 COUNT=0
-tail -n +2 "$CSV_FILE" | head -n "$LIMIT" | while IFS=',' read -r city state country; do
+CMDS=""
+while IFS=',' read -r city state country; do
     # Trim whitespace
     city=$(echo "$city" | xargs)
     state=$(echo "$state" | xargs)
@@ -25,8 +26,10 @@ tail -n +2 "$CSV_FILE" | head -n "$LIMIT" | while IFS=',' read -r city state cou
     fi
 
     COUNT=$((COUNT + 1))
+    [ "$COUNT" -gt "$LIMIT" ] && break
+
     CMDS="$CMDS && echo '[$COUNT] Running: $city, $state, $country' && python3 shopfind.py \"$city\" --state \"$state\" --country \"$country\" --log-file \"logs/${city}_${state}.log\""
-done
+done < <(tail -n +2 "$CSV_FILE")
 
 # Build full command with venv activation
 FULL_CMD="source venv/bin/activate $CMDS; echo 'ALL DONE'; read"
