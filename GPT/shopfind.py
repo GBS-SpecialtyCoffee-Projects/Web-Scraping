@@ -69,6 +69,7 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 MAX_DEPTH = 5
 REQUEST_TIMEOUT = 30
+SCRAPE_TIMEOUT = 15
 GPT_MODEL = 'gpt-4o-mini'
 METRO_CACHE_FILE = 'metro_area_cache.json'
 MASTER_LIST_FILE = os.path.join('roasters', 'master_list.csv')
@@ -189,7 +190,7 @@ def create_session() -> requests.Session:
     """Create a requests session with retry strategy"""
     session = requests.Session()
     retry_strategy = Retry(
-        total=5,
+        total=2,
         backoff_factor=1,
         status_forcelist=[429, 500, 502, 503, 504],
         allowed_methods=["HEAD", "GET", "OPTIONS"]
@@ -429,7 +430,7 @@ class WebScraper:
                     'Chrome/122.0.0.0 Safari/537.36'
                 )
             }
-            response = self.session.get(url, headers=headers, timeout=REQUEST_TIMEOUT, verify=False)
+            response = self.session.get(url, headers=headers, timeout=SCRAPE_TIMEOUT, verify=False)
             response.raise_for_status()
             return self._parse_html(response.text)
         except Exception as e:
@@ -441,7 +442,7 @@ class WebScraper:
         page = self.context.new_page()
         Stealth().apply_stealth_sync(page)
         try:
-            page.goto(url, timeout=REQUEST_TIMEOUT * 1000, wait_until='domcontentloaded')
+            page.goto(url, timeout=SCRAPE_TIMEOUT * 1000, wait_until='domcontentloaded')
             page.wait_for_timeout(3000)
             html = page.content()
             return self._parse_html(html)
@@ -449,7 +450,10 @@ class WebScraper:
             logger.error(f"Playwright scrape failed for {url}: {e}")
             return None, None
         finally:
-            page.close()
+            try:
+                page.close()
+            except Exception:
+                pass
 
     def scrape(self, url: str) -> tuple[Optional[str], Optional[BeautifulSoup]]:
         """Scrape website: try Beautiful Soup first, fall back to Playwright"""
