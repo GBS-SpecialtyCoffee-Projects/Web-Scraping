@@ -451,6 +451,7 @@ class WebScraper:
             return None, None
         finally:
             try:
+                page.route("**/*", lambda route: route.abort())
                 page.close()
             except Exception:
                 pass
