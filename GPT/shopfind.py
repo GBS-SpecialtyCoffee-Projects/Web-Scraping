@@ -4,6 +4,7 @@ import logging
 import json
 import argparse
 import re
+import signal
 from dataclasses import dataclass
 from typing import Optional, Set, List
 from datetime import timedelta
@@ -70,6 +71,7 @@ GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 MAX_DEPTH = 5
 REQUEST_TIMEOUT = 30
 SCRAPE_TIMEOUT = 15
+SCRAPE_HARD_TIMEOUT = 120
 GPT_MODEL = 'gpt-4o-mini'
 METRO_CACHE_FILE = 'metro_area_cache.json'
 MASTER_LIST_FILE = os.path.join('roasters', 'master_list.csv')
@@ -458,18 +460,30 @@ class WebScraper:
 
     def scrape(self, url: str) -> tuple[Optional[str], Optional[BeautifulSoup]]:
         """Scrape website: try Beautiful Soup first, fall back to Playwright"""
-        text, soup = self._scrape_bs4(url)
+        def _timeout_handler(signum, frame):
+            raise TimeoutError(f"Hard timeout ({SCRAPE_HARD_TIMEOUT}s) for {url}")
 
-        if text and len(text.strip()) >= self.MIN_TEXT_LENGTH:
-            logger.info(f"BS4 scrape successful for {url} ({len(text.strip())} chars)")
-            return text, soup
+        old_handler = signal.signal(signal.SIGALRM, _timeout_handler)
+        signal.alarm(SCRAPE_HARD_TIMEOUT)
+        try:
+            text, soup = self._scrape_bs4(url)
 
-        if text:
-            logger.info(f"BS4 returned insufficient content ({len(text.strip())} chars) for {url}, trying Playwright")
-        else:
-            logger.info(f"BS4 failed for {url}, trying Playwright")
+            if text and len(text.strip()) >= self.MIN_TEXT_LENGTH:
+                logger.info(f"BS4 scrape successful for {url} ({len(text.strip())} chars)")
+                return text, soup
 
-        return self._scrape_playwright(url)
+            if text:
+                logger.info(f"BS4 returned insufficient content ({len(text.strip())} chars) for {url}, trying Playwright")
+            else:
+                logger.info(f"BS4 failed for {url}, trying Playwright")
+
+            return self._scrape_playwright(url)
+        except TimeoutError:
+            logger.error(f"Hard timeout ({SCRAPE_HARD_TIMEOUT}s) exceeded for {url}, skipping")
+            return None, None
+        finally:
+            signal.alarm(0)
+            signal.signal(signal.SIGALRM, old_handler)
 
     def get_anchor_tags(self, soup: BeautifulSoup, base_url: str, limit: int = 100) -> List[tuple[str, str]]:
         """Extract anchor tag texts and URLs from soup"""
