@@ -441,6 +441,11 @@ class WebScraper:
 
     def _scrape_playwright(self, url: str) -> tuple[Optional[str], Optional[BeautifulSoup]]:
         """Scrape with Playwright for JS-rendered content"""
+        def _timeout_handler(signum, frame):
+            raise TimeoutError(f"Playwright hard timeout ({SCRAPE_HARD_TIMEOUT}s) for {url}")
+
+        old_handler = signal.signal(signal.SIGALRM, _timeout_handler)
+        signal.alarm(SCRAPE_HARD_TIMEOUT)
         page = self.context.new_page()
         Stealth().apply_stealth_sync(page)
         try:
@@ -448,10 +453,15 @@ class WebScraper:
             page.wait_for_timeout(3000)
             html = page.content()
             return self._parse_html(html)
+        except TimeoutError:
+            logger.error(f"Playwright hard timeout ({SCRAPE_HARD_TIMEOUT}s) for {url}, skipping")
+            return None, None
         except Exception as e:
             logger.error(f"Playwright scrape failed for {url}: {e}")
             return None, None
         finally:
+            signal.alarm(0)
+            signal.signal(signal.SIGALRM, old_handler)
             try:
                 page.route("**/*", lambda route: route.abort())
                 page.close()
